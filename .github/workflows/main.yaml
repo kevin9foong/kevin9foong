@@ -30,4 +30,4 @@ jobs:
       - name: Commit and push new README to repo 
         uses: mikeal/publish-to-github-action@master
         env: 
-          GITHUB: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
