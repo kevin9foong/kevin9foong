@@ -44,6 +44,7 @@ jobs:
     - name: Run ReadMe generation script 
       run: node index.js 
     - name: Commit and push new README to repo 
-      uses: mikeal/publish-to-github-action@main
+      uses: mikeal/publish-to-github-action@master
       env: 
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        BRANCH_NAME: main
