@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/kevin9foong/kevin9foong#readme",
   "dependencies": {
+    "dotenv": "^10.0.0",
     "mustache": "^4.2.0",
     "node-fetch": "2.0"
   }

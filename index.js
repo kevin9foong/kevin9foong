@@ -1,5 +1,5 @@
 // js script to automate updating README.md 
-
+require('dotenv').config(); 
 const Mustache = require('mustache'); 
 const fs = require('fs'); 
 const fetch = require('node-fetch'); 
