@@ -1,0 +1,23 @@
+{
+  "name": "kevin9foong",
+  "version": "1.0.0",
+  "description": "Github readme repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevin9foong/kevin9foong.git"
+  },
+  "author": "Kevin Foong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevin9foong/kevin9foong/issues"
+  },
+  "homepage": "https://github.com/kevin9foong/kevin9foong#readme",
+  "dependencies": {
+    "mustache": "^4.2.0",
+    "node-fetch": "2.0"
+  }
+}
