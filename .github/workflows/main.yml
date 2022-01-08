@@ -17,7 +17,7 @@ on:
         required: false
   push: 
     branches:
-      - master
+      - main
   schedule: 
     - cron: '0 0 * * *'
 
@@ -49,7 +49,7 @@ jobs:
     - name: Run ReadMe generation script 
       run: node index.js 
       env: 
-        APOD_KEY: ${{secrets.OPEN_WEATHER_MAP_KEY}}
+        APOD_KEY: ${{ secrets.APOD_KEY }}
     - name: Commit and push new README to repo 
       uses: mikeal/publish-to-github-action@master
       env: 
