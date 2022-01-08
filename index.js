@@ -16,10 +16,8 @@ let DATA = {
       })
 }
 
-const apodKey = "jl4YMCI4yUiOnKvDBbz4gyS4HIwmVY80A7LGpfDQ"; 
-
 async function getApod() {
-    await fetch(`https://api.nasa.gov/planetary/apod?api_key=${apodKey || process.env.APOD_KEY}`)
+    await fetch(`https://api.nasa.gov/planetary/apod?api_key=${process.env.APOD_KEY}`)
     .then(res => res.json())
     .then(res => {
         DATA.apodTitle = res.title; 
