@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Galileo&#39;s Europa</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2201&#x2F;PIA19048europa.jpg" /><br/>
-<b>Date:</b> 2022-01-15<br/>
-<b>Description:</b> Looping through the Jovian system in the late 1990s, the Galileo spacecraft recorded stunning views of Europa and uncovered evidence that the moon&#39;s icy surface likely hides a deep, global ocean. Galileo&#39;s Europa image data has been remastered here, with improved calibrations to produce a color image approximating what the human eye might see. Europa&#39;s long curving fractures hint at the subsurface liquid water.  The tidal flexing the large moon experiences in its elliptical orbit around Jupiter supplies the energy to keep the ocean liquid. But more tantalizing is the possibility that even in the absence of sunlight that process could also supply the energy to support life, making Europa one of the best places to look for life beyond Earth. What kind of life could thrive in a deep, dark, subsurface ocean? Consider planet Earth&#39;s own extreme shrimp.<br/>
+<h3>:rocket:A Retreating Thunderstorm at Sunset</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2201&#x2F;thundercloud_dyer_2000.jpg" /><br/>
+<b>Date:</b> 2022-01-16<br/>
+<b>Description:</b> What type of cloud is that? This retreating cumulonimbus cloud, more commonly called a thundercloud, is somewhat unusual as it contains the unusual bumpiness of a mammatus cloud on the near end, while simultaneously producing falling rain on the far end. Taken in mid-2013 in southern Alberta, Canada, the cloud is moving to the east, into the distance, as the sun sets in the west, behind the camera. In the featured image, graphic sunset colors cross the sky to give the already photogenic cloud striking orange and pink hues. A darkening blue sky covers the background. Further in the distance, a rising, waxing, gibbous moon is visible on the far right.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Sunday, 16 January, 8:40 am GMT+8<br />
+Last refresh: Monday, 17 January, 8:39 am GMT+8<br />
