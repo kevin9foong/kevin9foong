@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:A Retreating Thunderstorm at Sunset</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2201&#x2F;thundercloud_dyer_2000.jpg" /><br/>
-<b>Date:</b> 2022-01-16<br/>
-<b>Description:</b> What type of cloud is that? This retreating cumulonimbus cloud, more commonly called a thundercloud, is somewhat unusual as it contains the unusual bumpiness of a mammatus cloud on the near end, while simultaneously producing falling rain on the far end. Taken in mid-2013 in southern Alberta, Canada, the cloud is moving to the east, into the distance, as the sun sets in the west, behind the camera. In the featured image, graphic sunset colors cross the sky to give the already photogenic cloud striking orange and pink hues. A darkening blue sky covers the background. Further in the distance, a rising, waxing, gibbous moon is visible on the far right.<br/>
+<h3>:rocket:Chamaeleon Dark Nebulas</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2201&#x2F;DarkNebulaVd_HmoRuuth_4096.jpg" /><br/>
+<b>Date:</b> 2022-01-17<br/>
+<b>Description:</b> Sometimes the dark dust of interstellar space has an angular elegance.  Such is the case toward the far-south constellation of Chamaeleon. Normally too faint to see, dark dust is best known for blocking visible light from stars and galaxies behind it. In this four-hour exposure, however, the dust is seen mostly in light of its own, with its strong red and near-infrared colors giving creating a brown hue. Contrastingly blue, the bright star Beta Chamaeleontis is visible just to the right of center, with the dust that surrounds it preferentially reflecting blue light from its primarily blue-white color.  All of the pictured stars and dust occur in our own Milky Way Galaxy with -- but one notable exception: the white spot just below Beta Chamaeleontis is the galaxy IC 3104 which lies far in the distance.  Interstellar dust is mostly created in the cool atmospheres of giant stars and dispersed into space by stellar light, stellar winds, and stellar explosions such as supernovas.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Monday, 17 January, 8:39 am GMT+8<br />
+Last refresh: Tuesday, 18 January, 8:41 am GMT+8<br />
