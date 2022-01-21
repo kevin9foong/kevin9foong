@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:M31: The Andromeda Galaxy</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2201&#x2F;M31_HstSubaruGendler_5000.jpg" /><br/>
-<b>Date:</b> 2022-01-19<br/>
-<b>Description:</b> The most distant object easily visible to the unaided eye is M31, the great Andromeda Galaxy. Even at some two and a half million light-years distant, this immense spiral galaxy -- spanning over 200,000 light years -- is visible, although as a faint, nebulous cloud in the constellation Andromeda. In contrast, a bright yellow nucleus, dark winding dust lanes, and expansive spiral arms dotted with blue star clusters and red nebulae, are recorded in this stunning telescopic image which combines data from orbiting Hubble with ground-based images from Subaru and Mayall. In only about 5 billion years, the Andromeda galaxy may be even easier to see -- as it will likely span the entire night sky -- just before it merges with our Milky Way Galaxy.<br/>
+<h3>:rocket:NGC 7822 in Cepheus</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2201&#x2F;IMG_9447.jpg" /><br/>
+<b>Date:</b> 2022-01-20<br/>
+<b>Description:</b> Hot, young stars and cosmic pillars of gas and dust seem to crowd into NGC 7822. At the edge of a giant molecular cloud toward the northern constellation Cepheus, the glowing star forming region lies about 3,000 light-years away. Within the nebula, bright edges and dark shapes stand out in this colorful telescopic skyscape. The image includes data from narrowband filters, mapping emission from atomic oxygen, hydrogen, and sulfur into blue, green, and red hues. The emission line and color combination has become well-known as the Hubble palette.  The atomic emission is powered by energetic radiation from the central hot stars. Their powerful winds and radiation sculpt and erode the denser pillar shapes and clear out a characteristic cavity light-years across the center of the natal cloud. Stars could still be forming inside the pillars by gravitational collapse but as the pillars are eroded away, any forming stars will ultimately be cutoff from their reservoir of star stuff. This field of view spans about 40 light-years at the estimated distance of NGC 7822.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Thursday, 20 January, 8:42 am GMT+8<br />
+Last refresh: Friday, 21 January, 8:35 am GMT+8<br />
