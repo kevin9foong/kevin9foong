@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:The Full Moon and the Dancer</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2201&#x2F;IMG_4039copia2_2048.jpg" /><br/>
-<b>Date:</b> 2022-01-22<br/>
-<b>Description:</b> On Monday, January&#39;s Full Moon rose as the Sun set. Spotted near the eastern horizon, its warm hues are seen in this photo taken near Cagliari, capital city of the Italian island of Sardinia. Of course the familiar patterns of light and dark across the Moon&#39;s nearside are created by bright rugged highlands and dark smooth lunar maria. Traditionally the patterns are seen as pareidolia, giving the visual illusion of a human face like the Man in the Moon, or familiar animal like the Moon rabbit. But for a moment the swarming murmuration, also known as a flock of starlings, frozen in the snapshot&#39;s field of view lends another pareidolic element to the scene. Some see the graceful figure of a dancer enchanted by moonlight.<br/>
+<h3>:rocket:Saturn, Tethys, Rings, and Shadows</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2201&#x2F;TethysRingShadow_cassini_1080.jpg" /><br/>
+<b>Date:</b> 2022-01-23<br/>
+<b>Description:</b> Seen from ice moon Tethys, rings and shadows would display fantastic views of the Saturnian system. Haven&#39;t dropped in on Tethys lately? Then this gorgeous ringscape from the Cassini spacecraft will have to do for now. Caught in sunlight just below and left of picture center in 2005, Tethys itself is about 1,000 kilometers in diameter and orbits not quite five saturn-radii from the center of the gas giant planet. At that distance (around 300,000 kilometers) it is well outside Saturn&#39;s main bright rings, but Tethys is still one of five major moons that find themselves within the boundaries of the faint and tenuous outer E ring. Discovered in the 1980s, two very small moons Telesto and Calypso are locked in stable along Tethys&#39; orbit. Telesto precedes and Calypso follows Tethys as the trio circles Saturn.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Sunday, 23 January, 8:36 am GMT+8<br />
+Last refresh: Monday, 24 January, 8:36 am GMT+8<br />
