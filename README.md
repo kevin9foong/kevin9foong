@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Saturn, Tethys, Rings, and Shadows</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2201&#x2F;TethysRingShadow_cassini_1080.jpg" /><br/>
-<b>Date:</b> 2022-01-23<br/>
-<b>Description:</b> Seen from ice moon Tethys, rings and shadows would display fantastic views of the Saturnian system. Haven&#39;t dropped in on Tethys lately? Then this gorgeous ringscape from the Cassini spacecraft will have to do for now. Caught in sunlight just below and left of picture center in 2005, Tethys itself is about 1,000 kilometers in diameter and orbits not quite five saturn-radii from the center of the gas giant planet. At that distance (around 300,000 kilometers) it is well outside Saturn&#39;s main bright rings, but Tethys is still one of five major moons that find themselves within the boundaries of the faint and tenuous outer E ring. Discovered in the 1980s, two very small moons Telesto and Calypso are locked in stable along Tethys&#39; orbit. Telesto precedes and Calypso follows Tethys as the trio circles Saturn.<br/>
+<h3>:rocket:Rigel and the Witch Head Nebula</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2201&#x2F;RigelWitchHead_Mtanous_2834.jpg" /><br/>
+<b>Date:</b> 2022-01-24<br/>
+<b>Description:</b> By starlight this eerie visage shines in the dark, a crooked profile evoking its popular name, the Witch Head Nebula. In fact, this entrancing telescopic portrait gives the impression that the witch has fixed her gaze on Orion&#39;s bright supergiant star Rigel. More formally known as IC 2118, the Witch Head Nebula spans about 50 light-years and is composed of interstellar dust grains reflecting Rigel&#39;s starlight. The blue color of the Witch Head Nebula and of the dust surrounding Rigel is caused not only by Rigel&#39;s intense blue starlight but because the dust grains scatter blue light more efficiently than red. The same physical process causes Earth&#39;s daytime sky to appear blue, although the scatterers in Earth&#39;s atmosphere are molecules of nitrogen and oxygen. Rigel, the Witch Head Nebula, and gas and dust that surrounds them lie about 800 light-years away.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Monday, 24 January, 8:36 am GMT+8<br />
+Last refresh: Tuesday, 25 January, 8:40 am GMT+8<br />
