@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Embraced by Sunlight</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2202&#x2F;VenusMoonSamePhase.jpg" /><br/>
-<b>Date:</b> 2022-02-03<br/>
-<b>Description:</b> ven though Venus (left) was the brightest planet in the sky it was less than 1&#x2F;30th the apparent size of the Moon on January 29. But as both rose before the Sun they shared a crescent phase. For a moment their visible disks were each about 12 percent illuminated as they stood above the southeastern horizon. The similar sunlit crescents were captured in these two separate images. Made at different magnifications, each panel is a composite of stacked video frames taken with a small telescope. Venus goes through a range of phases like the Moon as the inner planet wanders from evening sky to morning sky and back again with a period of 584 days. Of course the Moon completes its own cycle of phases, a full lunation, in about 29.5 days.<br/>
+<h3>:rocket:Moons at Twilight</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2202&#x2F;IMG_1869Fedez.png" /><br/>
+<b>Date:</b> 2022-02-04<br/>
+<b>Description:</b> ven though Jupiter was the only planet visible in the evening sky on February 2, it shared the twilight above the western horizon with the Solar System&#39;s brightest moons. In a single exposure made just after sunset, the Solar System&#39;s ruling gas giant is at the upper right in this telephoto field-of-view from Cancun, Mexico. The snapshot also captures our fair planet&#39;s own natural satellite in its young crescent phase. The Moon&#39;s disk looms large, its familiar face illuminated mostly by earthshine. But the four points of light lined-up with Jupiter are Jupiter&#39;s own large Galilean moons. Top to bottom are Ganymede, [Jupiter], Io, Europa, and Callisto. Ganymede, Io, and Callisto are physically larger than Earth&#39;s Moon while water world Europa is only slightly smaller.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Friday, 4 February, 8:37 am GMT+8<br />
+Last refresh: Saturday, 5 February, 8:31 am GMT+8<br />
