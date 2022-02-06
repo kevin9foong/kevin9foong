@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Moons at Twilight</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2202&#x2F;IMG_1869Fedez.png" /><br/>
-<b>Date:</b> 2022-02-04<br/>
-<b>Description:</b> ven though Jupiter was the only planet visible in the evening sky on February 2, it shared the twilight above the western horizon with the Solar System&#39;s brightest moons. In a single exposure made just after sunset, the Solar System&#39;s ruling gas giant is at the upper right in this telephoto field-of-view from Cancun, Mexico. The snapshot also captures our fair planet&#39;s own natural satellite in its young crescent phase. The Moon&#39;s disk looms large, its familiar face illuminated mostly by earthshine. But the four points of light lined-up with Jupiter are Jupiter&#39;s own large Galilean moons. Top to bottom are Ganymede, [Jupiter], Io, Europa, and Callisto. Ganymede, Io, and Callisto are physically larger than Earth&#39;s Moon while water world Europa is only slightly smaller.<br/>
+<h3>:rocket:Symbiotic R Aquarii</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2202&#x2F;archives_raquarii.jpg" /><br/>
+<b>Date:</b> 2022-02-05<br/>
+<b>Description:</b> Variable star R Aquarii is actually an interacting binary star system, two stars that seem to have a close symbiotic relationship. Centered in this space-based optical&#x2F;x-ray composite image it lies about 710 light years away. The intriguing system consists of a cool red giant star and hot, dense white dwarf star in mutual orbit around their common center of mass. With binoculars you can watch as R Aquarii steadily changes its brightness over the course of a year or so. The binary system&#39;s visible light is dominated by the red giant, itself a Mira-type long period variable star. But material in the cool giant star&#39;s extended envelope is pulled by gravity onto the surface of the smaller, denser white dwarf, eventually triggering a thermonuclear explosion, blasting material into space. Astronomers have seen such outbursts over recent decades. Evidence for much older outbursts is seen in these spectacular structures spanning almost a light-year as observed by the Hubble Space Telescope (in red and blue). Data from the Chandra X-ray Observatory (in purple) shows the X-ray glow from shock waves created as a jet from the white dwarf strikes surrounding material.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Saturday, 5 February, 8:31 am GMT+8<br />
+Last refresh: Sunday, 6 February, 8:44 am GMT+8<br />
