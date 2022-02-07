@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Symbiotic R Aquarii</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2202&#x2F;archives_raquarii.jpg" /><br/>
-<b>Date:</b> 2022-02-05<br/>
-<b>Description:</b> Variable star R Aquarii is actually an interacting binary star system, two stars that seem to have a close symbiotic relationship. Centered in this space-based optical&#x2F;x-ray composite image it lies about 710 light years away. The intriguing system consists of a cool red giant star and hot, dense white dwarf star in mutual orbit around their common center of mass. With binoculars you can watch as R Aquarii steadily changes its brightness over the course of a year or so. The binary system&#39;s visible light is dominated by the red giant, itself a Mira-type long period variable star. But material in the cool giant star&#39;s extended envelope is pulled by gravity onto the surface of the smaller, denser white dwarf, eventually triggering a thermonuclear explosion, blasting material into space. Astronomers have seen such outbursts over recent decades. Evidence for much older outbursts is seen in these spectacular structures spanning almost a light-year as observed by the Hubble Space Telescope (in red and blue). Data from the Chandra X-ray Observatory (in purple) shows the X-ray glow from shock waves created as a jet from the white dwarf strikes surrounding material.<br/>
+<h3>:rocket:Blue Marble Earth</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2202&#x2F;bluemarble_apollo17_3000.jpg" /><br/>
+<b>Date:</b> 2022-02-06<br/>
+<b>Description:</b> Welcome to planet Earth, the third planet from a star named the Sun.  The Earth is shaped like a sphere and composed mostly of rock.  Over 70 percent of the Earth&#39;s surface is water.  The planet has a relatively thin atmosphere composed mostly of nitrogen and oxygen.  The featured picture of Earth, dubbed The Blue Marble, was taken from Apollo 17 in 1972 and features Africa and Antarctica.  It is thought to be one of the most widely distributed photographs of any kind.  Earth has a single large Moon that is about 1&#x2F;4 of its diameter and, from the planet&#39;s surface, is seen to have almost exactly the same angular size as the Sun.  With its abundance of liquid water, Earth supports a large variety of life forms, including potentially intelligent species such as dolphins and humans.  Please enjoy your stay on planet Earth.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Sunday, 6 February, 8:44 am GMT+8<br />
+Last refresh: Monday, 7 February, 8:37 am GMT+8<br />
