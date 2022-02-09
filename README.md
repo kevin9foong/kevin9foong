@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:NGC 4651: The Umbrella Galaxy</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2202&#x2F;NGC4651_CFHT_1587.jpg" /><br/>
-<b>Date:</b> 2022-02-07<br/>
-<b>Description:</b> It&#39;s raining stars.  What appears to be a giant cosmic umbrella is now known to be a tidal stream of stars stripped from a small satellite galaxy. The main galaxy, spiral galaxy NGC 4651, is about the size of our Milky Way, while its stellar parasol appears to extend some 100 thousand light-years above this galaxy&#39;s bright disk. A small galaxy was likely torn apart by repeated encounters as it swept back and forth on eccentric orbits through NGC 4651. The remaining stars will surely fall back and become part of a combined larger galaxy over the next few million years. The featured image was captured by the Canada-France-Hawaii Telescope (CFHT) in Hawaii, USA.  The Umbrella Galaxy lies about 50 million light-years distant toward the well-groomed northern constellation Coma Berenices.   Almost Hyperspace: Random APOD Generator<br/>
+<h3>:rocket:Aurora and Light Pillars over Norway</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2202&#x2F;AuroraPillars_Correia_4898.jpg" /><br/>
+<b>Date:</b> 2022-02-08<br/>
+<b>Description:</b> Which half of this sky is your favorite? On the left, the night sky is lit up by particles expelled from the Sun that later collided with Earth&#39;s upper atmosphere — creating bright auroras.  On the right, the night glows with ground lights reflected by millions of tiny ice crystals falling from the sky — creating  light pillars.  And in the center, the astrophotographer presents your choices. The light pillars are vertical columns because the fluttering ice-crystals are mostly flat to the ground, and their colors are those of the ground lights. The auroras cover the sky and ground in the green hue of glowing oxygen, while their transparency is clear because you can see stars right through them. Distant stars dot the background, including bright stars from the iconic constellation of Orion.  The featured image was captured in a single exposure two months ago near Kautokeino, Norway.   Favorite sky half: Left half (aurora) | Right half (light pillars)<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Tuesday, 8 February, 8:38 am GMT+8<br />
+Last refresh: Wednesday, 9 February, 8:40 am GMT+8<br />
