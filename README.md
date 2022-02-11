@@ -11,10 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Eta Car: 3D Model of the Most Dangerous Star Known</h3> 
-<b>Date:</b> 2022-02-09<br/>
-<b>Description:</b> What&#39;s the most dangerous star near earth?  Many believe it&#39;s Eta Carinae, a binary star system about 100 times the mass of the Sun, just 10,000 light years from earth.  Eta Carinae is a ticking time bomb, set to explode as a supernova in only a few million years, when it may bathe the earth in dangerous gamma rays.  The star suffered a notorious outburst in the 1840s when it became the brightest star in the southern sky, only to fade to obscurity within decades.  The star was not destroyed, but lies hidden behind a thick, expanding, double-lobed structure called the Homunculus which now surrounds the binary.  Studies of this ejecta provide forensic clues about the explosion.  Using observations from NASA satellites we can now visualize the 3D distribution of the shrapnel, all the way from the infrared, through optical and UV, to the outermost shell of million-degree material, visible only in X-rays.<br/>
+<h3>:rocket:T Tauri and Hind&#39;s Variable Nebula</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2202&#x2F;NGC1555texas2021.jpg" /><br/>
+<b>Date:</b> 2022-02-10<br/>
+<b>Description:</b> The star with an orange tint near top center in this dusty telescopic frame is T Tauri, prototype of the class of T Tauri variable stars.  Next to it (right) is a yellow cosmic cloud historically known as Hind&#39;s Variable Nebula (NGC 1555). About 650 light-years away, at the boundary of the local bubble and the Taurus molecular cloud, both star and nebula are seen to vary significantly in brightness but not necessarily at the same time, adding to the mystery of the intriguing region. T Tauri stars are now generally recognized as young (less than a few million years old), sun-like stars still in the early stages of formation. To further complicate the picture, infrared observations indicate that T Tauri itself is part of a multiple system and suggest that the associated Hind&#39;s Nebula may also contain a very young stellar object. The well-composed image spans about 8 light-years at the estimated distance of T Tauri.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Thursday, 10 February, 8:39 am GMT+8<br />
+Last refresh: Friday, 11 February, 8:43 am GMT+8<br />
