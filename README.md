@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:T Tauri and Hind&#39;s Variable Nebula</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2202&#x2F;NGC1555texas2021.jpg" /><br/>
-<b>Date:</b> 2022-02-10<br/>
-<b>Description:</b> The star with an orange tint near top center in this dusty telescopic frame is T Tauri, prototype of the class of T Tauri variable stars.  Next to it (right) is a yellow cosmic cloud historically known as Hind&#39;s Variable Nebula (NGC 1555). About 650 light-years away, at the boundary of the local bubble and the Taurus molecular cloud, both star and nebula are seen to vary significantly in brightness but not necessarily at the same time, adding to the mystery of the intriguing region. T Tauri stars are now generally recognized as young (less than a few million years old), sun-like stars still in the early stages of formation. To further complicate the picture, infrared observations indicate that T Tauri itself is part of a multiple system and suggest that the associated Hind&#39;s Nebula may also contain a very young stellar object. The well-composed image spans about 8 light-years at the estimated distance of T Tauri.<br/>
+<h3>:rocket:IC 342: The Hidden Galaxy in Camelopardalis</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2202&#x2F;IC342Feller.jpg" /><br/>
+<b>Date:</b> 2022-02-11<br/>
+<b>Description:</b> Similar in size to large, bright spiral galaxies in our neighborhood, IC 342 is a mere 10 million light-years distant in the long-necked, northern constellation Camelopardalis. A sprawling island universe, IC 342 would otherwise be a prominent galaxy in our night sky, but it is hidden from clear view and only glimpsed through the veil of stars, gas and dust clouds along the plane of our own Milky Way galaxy. Even though IC 342&#39;s light is dimmed and reddened by intervening cosmic clouds, this sharp telescopic image traces the galaxy&#39;s own obscuring dust, young star clusters, and glowing pink star forming regions along spiral arms that wind far from the galaxy&#39;s core. IC 342 may have undergone a recent burst of star formation activity and is close enough to have gravitationally influenced the evolution of the local group of galaxies and the Milky Way.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Friday, 11 February, 8:43 am GMT+8<br />
+Last refresh: Saturday, 12 February, 8:41 am GMT+8<br />
