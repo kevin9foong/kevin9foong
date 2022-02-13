@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:IC 342: The Hidden Galaxy in Camelopardalis</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2202&#x2F;IC342Feller.jpg" /><br/>
-<b>Date:</b> 2022-02-11<br/>
-<b>Description:</b> Similar in size to large, bright spiral galaxies in our neighborhood, IC 342 is a mere 10 million light-years distant in the long-necked, northern constellation Camelopardalis. A sprawling island universe, IC 342 would otherwise be a prominent galaxy in our night sky, but it is hidden from clear view and only glimpsed through the veil of stars, gas and dust clouds along the plane of our own Milky Way galaxy. Even though IC 342&#39;s light is dimmed and reddened by intervening cosmic clouds, this sharp telescopic image traces the galaxy&#39;s own obscuring dust, young star clusters, and glowing pink star forming regions along spiral arms that wind far from the galaxy&#39;s core. IC 342 may have undergone a recent burst of star formation activity and is close enough to have gravitationally influenced the evolution of the local group of galaxies and the Milky Way.<br/>
+<h3>:rocket:Aurora by Moonlight</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2202&#x2F;auroralakeFeb10_Heden.jpg" /><br/>
+<b>Date:</b> 2022-02-12<br/>
+<b>Description:</b> The ice was singing as light from a bright gibbous Moon cast shadows across this frozen lake, about 20 kilometers north of Stockholm, Sweden, planet Earth. In the alluring night skyscape captured on February 10, shimmering auroral curtains of light dance in the evening sky. On that northern night nature&#39;s performance included the auroral displays fostered by a minor geomagnetic storm. Stormy space weather was the result of a coronal mass ejection, erupting from a solar prominence days earlier and brushing our fair planet&#39;s magnetosphere.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Saturday, 12 February, 8:41 am GMT+8<br />
+Last refresh: Sunday, 13 February, 8:41 am GMT+8<br />
