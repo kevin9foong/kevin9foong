@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Three Clusters in Puppis</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2202&#x2F;ThreeClustersPuppis.jpg" /><br/>
-<b>Date:</b> 2022-02-18<br/>
-<b>Description:</b> Galactic or open star clusters are young. The swarms of stars are born together near the plane of the Milky Way, but their numbers steadily dwindle as cluster members are ejected by galactic tides and gravitational interactions. Caught in this telescopic frame over three degrees across are three good examples of galactic star clusters, seen toward the southern sky&#39;s nautical constellation Puppis. Below and left, M46 is some 5,500 light-years in the distance. Right of center M47 is only 1,600 light-years away and NGC 2423 (top) is about 2500 light-years distant. Around 300 million years young M46 contains a few hundred stars in a region about 30 light-years across. Sharp eyes can spot a planetary nebula, NGC 2438, at about 11 o&#39;clock against the M46 cluster stars. But that nebula&#39;s central star is billions of years old, and NGC 2438 is likely a foreground object only by chance along the line of sight to youthful M46. Even younger, aged around 80 million years, M47 is a smaller and looser star cluster spanning about 10 light-years. Star cluster NGC 2423 is pushing about 750 million years in age though. NGC 2423 is known to harbor an extrasolar planet, detected orbiting one of its red giant stars.<br/>
+<h3>:rocket:Peculiar Galaxies of Arp 273</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2202&#x2F;JasonGuenzelARP273.jpg" /><br/>
+<b>Date:</b> 2022-02-19<br/>
+<b>Description:</b> The spiky stars in the foreground of this backyard telescopic frame are well within our own Milky Way Galaxy. But the two eye-catching galaxies lie far beyond the Milky Way, at a distance of over 300 million light-years. Their distorted appearance is due to gravitational tides as the pair engage in close encounters. Cataloged as Arp 273 (also as UGC 1810), the galaxies do look peculiar, but interacting galaxies are now understood to be common in the universe. Nearby, the large spiral Andromeda Galaxy is known to be some 2 million light-years away and approaching the Milky Way. The peculiar galaxies of Arp 273 may offer an analog of their far future encounter. Repeated galaxy encounters on a cosmic timescale can ultimately result in a merger into a single galaxy of stars. From our perspective, the bright cores of the Arp 273 galaxies are separated by only a little over 100,000 light-years.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Saturday, 19 February, 8:43 am GMT+8<br />
+Last refresh: Sunday, 20 February, 8:46 am GMT+8<br />
