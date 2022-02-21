@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Peculiar Galaxies of Arp 273</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2202&#x2F;JasonGuenzelARP273.jpg" /><br/>
-<b>Date:</b> 2022-02-19<br/>
-<b>Description:</b> The spiky stars in the foreground of this backyard telescopic frame are well within our own Milky Way Galaxy. But the two eye-catching galaxies lie far beyond the Milky Way, at a distance of over 300 million light-years. Their distorted appearance is due to gravitational tides as the pair engage in close encounters. Cataloged as Arp 273 (also as UGC 1810), the galaxies do look peculiar, but interacting galaxies are now understood to be common in the universe. Nearby, the large spiral Andromeda Galaxy is known to be some 2 million light-years away and approaching the Milky Way. The peculiar galaxies of Arp 273 may offer an analog of their far future encounter. Repeated galaxy encounters on a cosmic timescale can ultimately result in a merger into a single galaxy of stars. From our perspective, the bright cores of the Arp 273 galaxies are separated by only a little over 100,000 light-years.<br/>
+<h3>:rocket:Aurora Over White Dome Geyser</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2202&#x2F;geyseraurora_howell_2163.jpg" /><br/>
+<b>Date:</b> 2022-02-20<br/>
+<b>Description:</b> Sometimes both heaven and Earth erupt. Colorful auroras erupted unexpectedly a few years ago, with green aurora appearing near the horizon and brilliant bands of red aurora blooming high overhead.  A bright Moon lit the foreground of this picturesque scene, while familiar stars could be seen far in the distance.  With planning, the careful astrophotographer shot this image mosaic in the field of White Dome Geyser in Yellowstone National Park in the western USA. Sure enough, just after midnight, White Dome erupted -- spraying a stream of water and vapor many meters into the air. Geyser water is heated to steam by scalding magma several kilometers below, and rises through rock cracks to the surface. About half of all known geysers occur in Yellowstone National Park. Although the geomagnetic storm that caused the auroras subsided within a day, eruptions of White Dome Geyser continue about every 30 minutes.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Sunday, 20 February, 8:46 am GMT+8<br />
+Last refresh: Monday, 21 February, 8:40 am GMT+8<br />
