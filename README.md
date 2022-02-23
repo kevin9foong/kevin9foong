@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Barred Spiral Galaxy NGC 6217</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2202&#x2F;Ngc6217_Hubble_2631.jpg" /><br/>
-<b>Date:</b> 2022-02-21<br/>
-<b>Description:</b> Many spiral galaxies have bars across their centers.  Even our own Milky Way Galaxy is thought to have a modest central bar. Prominently barred spiral galaxy NGC 6217, featured here, was captured in spectacular detail in this image taken by the Advanced Camera for Surveys on the orbiting Hubble Space Telescope in 2009. Visible are dark filamentary dust lanes, young clusters of bright blue stars, red emission nebulas of glowing hydrogen gas, a long bar of stars across the center, and a bright active nucleus that likely houses a supermassive black hole.  Light takes about 60 million years to reach us from NGC 6217, which spans about 30,000 light years across and can be found toward the constellation of the Little Bear (Ursa Minor).   APOD in world languages: Arabic, Bulgarian, Catalan, Chinese (Beijing), Chinese (Taiwan), Croatian, Czech, Dutch, French, French (Canada), German, Hebrew, Indonesian, Japanese, Korean, Montenegrin, Polish, Russian, Serbian, Slovenian,  Spanish, Taiwanese, Turkish, Turkish, and  Ukrainian<br/>
+<h3>:rocket:Illustration: An Early Quasar</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2202&#x2F;Quasar_EsoKormesser_4112.jpg" /><br/>
+<b>Date:</b> 2022-02-22<br/>
+<b>Description:</b> What did the first quasars look like?  The nearest quasars are now known to involve supermassive black holes in the centers of active galaxies.  Gas and dust that falls toward a quasar glows brightly, sometimes outglowing the entire home galaxy.  The quasars that formed in the first billion years of the universe are more mysterious, though. Featured, recent data has enabled an artist&#39;s impression of an early-universe quasar as it might have been: centered on a massive black hole, surrounded by sheets of gas and an accretion disk, and expelling a powerful jet. Quasars are among the most distant objects we see and give humanity unique information about the early and intervening universe. The oldest quasars currently known are seen at just short of redshift 8 -- only 700 million years after the Big Bang -- when the universe was only a few percent of its current age.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Tuesday, 22 February, 8:40 am GMT+8<br />
+Last refresh: Wednesday, 23 February, 8:46 am GMT+8<br />
