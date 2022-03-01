@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Earthrise 1: Historic Image Remastered</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2202&#x2F;Earthrise1_Apollo8AndersWeigang_2048.jpg" /><br/>
-<b>Date:</b> 2022-02-27<br/>
-<b>Description:</b> &quot;Oh my God! Look at that picture over there! Here&#39;s the Earth coming up. Wow is that pretty!&quot; Soon after that pronouncement, about 53 years ago, one of the most famous images ever taken was snapped from the orbit of the Moon. Now known as &quot;Earthrise&quot;, the iconic image shows the Earth rising above the limb of the Moon, as taken by the crew of Apollo 8.  But the well-known Earthrise image was actually the  second image taken of the Earth rising above the lunar limb -- it was just the first in color.  With modern digital technology, however, the real first Earthrise image -- originally in black and white -- has now been remastered to have the combined resolution and color of the first three images.  Behold! The featured image is a close-up of the picture that Apollo 8 astronaut Bill Anders was talking about. Thanks to modern technology and human ingenuity, now we can all see it. (Historical note: A different historic black &amp; white image of the Earth setting behind the lunar limb was taken by the robotic Lunar Orbiter 1 two years earlier.)<br/>
+<h3>:rocket:Direct Projection: The Moon in My Hands</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2202&#x2F;MoonHands_Graphy_960.jpg" /><br/>
+<b>Date:</b> 2022-02-28<br/>
+<b>Description:</b> You don&#39;t have to look through a telescope to know where it&#39;s pointing. Allowing the telescope to project its image onto a large surface can be useful because it dilutes the intense brightness of very bright sources. Such dilution is useful for looking at the Sun, for example during a solar eclipse. In the featured single-exposure image, though, it is a too-bright full moon that is projected. This February full moon occurred two weeks ago and is called the Snow Moon by some northern cultures.  The projecting instrument is the main 62-centimeter telescope at the Saint-Véran Observatory high in the French Alps. Seeing a full moon directly is easier because it is not too bright, although you won&#39;t see this level of detail.  Your next chance will occur on March 17.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Monday, 28 February, 8:44 am GMT+8<br />
+Last refresh: Tuesday, 1 March, 8:50 am GMT+8<br />
