@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Spiral Galaxy NGC 2841</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2203&#x2F;NGC2841_20220114_72H.jpg" /><br/>
-<b>Date:</b> 2022-03-03<br/>
-<b>Description:</b> A mere 46 million light-years distant, spiral galaxy NGC 2841 can be found in the northern constellation of Ursa Major. This deep view of the gorgeous island universe was captured during 32 clear nights in November, December 2021 and January 2022. It shows off a striking yellow nucleus, galactic disk, and faint outer regions.  Dust lanes, small star-forming regions, and young star clusters are embedded in the patchy, tightly wound spiral arms. In contrast, many other spirals exhibit grand, sweeping arms with large star-forming regions.  NGC 2841 has a diameter of over 150,000 light-years, even larger than our own Milky Way. X-ray images suggest that resulting winds and stellar explosions create plumes of hot gas extending into a halo around NGC 2841.<br/>
+<h3>:rocket:The Multiwavelength Crab</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2203&#x2F;multiWcrab_lg2048.jpg" /><br/>
+<b>Date:</b> 2022-03-04<br/>
+<b>Description:</b> The Crab Nebula is cataloged as M1, the first object on Charles Messier&#39;s famous list of things which are not comets. In fact, the Crab is now known to be a supernova remnant, expanding debris from massive star&#39;s death explosion, witnessed on planet Earth in 1054 AD. This brave new image offers a 21st century view of the Crab Nebula by presenting image data from across the electromagnetic spectrum as wavelengths of visible light. From space, Chandra (X-ray) XMM-Newton (ultraviolet), Hubble (visible), and Spitzer (infrared), data are in purple, blue, green, and yellow hues. From the ground, Very Large Array radio wavelength data is shown in red. One of the most exotic objects known to modern astronomers, the Crab Pulsar, a neutron star spinning 30 times a second, is the bright spot near picture center. Like a cosmic dynamo, this collapsed remnant of the stellar core powers the Crab&#39;s emission across the electromagnetic spectrum. Spanning about 12 light-years, the Crab Nebula is 6,500 light-years away in the constellation Taurus.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Friday, 4 March, 8:50 am GMT+8<br />
+Last refresh: Saturday, 5 March, 8:47 am GMT+8<br />
