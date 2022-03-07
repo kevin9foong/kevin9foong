@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Interstellar Comet 2I Borisov</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2203&#x2F;borisovStsci1826.jpg" /><br/>
-<b>Date:</b> 2022-03-05<br/>
-<b>Description:</b> From somewhere else in the Milky Way galaxy, Comet 2I&#x2F;Borisov was just visiting the Solar System. Discovered by amateur astronomer Gennady Borisov on August 30, 2019, the first known interstellar comet is seen in these two Hubble Space Telescope images from November and December 2019. On the left, a distant background galaxy near the line-of-sight to Borisov is blurred as Hubble tracked the speeding comet and dust tail about 327 million kilometers from Earth. At right, 2I&#x2F;Borisov appears shortly after perihelion, its closest approach to Sun. European Southern Observatory observations indicate that this comet may never have passed close to any star before its 2019 perihelion passage. Borisov&#39;s closest approach to our fair planet, a distance of about 290 million kilometers, came on December 28, 2019. Even though Hubble&#39;s sharp images don&#39;t resolve the comet&#39;s nucleus, they did lead to estimates of less than 1 kilometer for its diameter.<br/>
+<h3>:rocket:Venus and the Triply Ultraviolet Sun</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2203&#x2F;SunVenusUv3_SdoDove_960.jpg" /><br/>
+<b>Date:</b> 2022-03-06<br/>
+<b>Description:</b> This was a very unusual type of solar eclipse.  Typically, it is the Earth&#39;s Moon that eclipses the Sun.  In 2012, though, the planet Venus took a turn.  Like a solar eclipse by the Moon, the phase of Venus became a continually thinner crescent as Venus became increasingly better aligned with the Sun.  Eventually the alignment became perfect and the phase of Venus dropped to zero.  The dark spot of Venus crossed our parent star.  The situation could technically be labeled a Venusian annular eclipse with an extraordinarily large ring of fire.  Pictured here during the occultation, the Sun was imaged in three colors of ultraviolet light by the Earth-orbiting Solar Dynamics Observatory, with the dark region toward the right corresponding to a coronal hole. Hours later, as Venus continued in its orbit, a slight crescent phase appeared again.  The next Venusian transit across the Sun will occur in 2117.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Sunday, 6 March, 8:44 am GMT+8<br />
+Last refresh: Monday, 7 March, 8:44 am GMT+8<br />
