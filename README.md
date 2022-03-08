@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Venus and the Triply Ultraviolet Sun</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2203&#x2F;SunVenusUv3_SdoDove_960.jpg" /><br/>
-<b>Date:</b> 2022-03-06<br/>
-<b>Description:</b> This was a very unusual type of solar eclipse.  Typically, it is the Earth&#39;s Moon that eclipses the Sun.  In 2012, though, the planet Venus took a turn.  Like a solar eclipse by the Moon, the phase of Venus became a continually thinner crescent as Venus became increasingly better aligned with the Sun.  Eventually the alignment became perfect and the phase of Venus dropped to zero.  The dark spot of Venus crossed our parent star.  The situation could technically be labeled a Venusian annular eclipse with an extraordinarily large ring of fire.  Pictured here during the occultation, the Sun was imaged in three colors of ultraviolet light by the Earth-orbiting Solar Dynamics Observatory, with the dark region toward the right corresponding to a coronal hole. Hours later, as Venus continued in its orbit, a slight crescent phase appeared again.  The next Venusian transit across the Sun will occur in 2117.<br/>
+<h3>:rocket:A Lion in Orion</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2203&#x2F;HorseFlameLion_Mahfoud_4639.jpg" /><br/>
+<b>Date:</b> 2022-03-07<br/>
+<b>Description:</b> Yes, but can you see the lion? A deep exposure shows the famous dark indentation that looks like a horse&#39;s head, visible just left and below center, and known unsurprisingly as the Horsehead Nebula.  The Horsehead Nebula (Barnard 33) is part of a vast complex of dark absorbing dust and bright glowing gas.  To bring out details of the  Horsehead&#39;s pasture, an astrophotographer artistically combined light accumulated for over 20 hours in hydrogen (orange), oxygen (blue), and sulfur (green). The resulting spectacular picture captured from Raachine, Lebanon, details an intricate tapestry of gaseous wisps and dust-laden filaments that were created and sculpted over eons by stellar winds and ancient supernovas.  The featured composition brings up another pareidolic animal icon -- that of a lion&#39;s head -- in the expansive orange colored gas above the horse&#39;s head.  The Flame Nebula is visible just to the left of the Horsehead.  The Horsehead Nebula lies 1,500 light years distant towards the constellation of Orion.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Monday, 7 March, 8:44 am GMT+8<br />
+Last refresh: Tuesday, 8 March, 8:43 am GMT+8<br />
