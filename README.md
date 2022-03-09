@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:A Lion in Orion</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2203&#x2F;HorseFlameLion_Mahfoud_4639.jpg" /><br/>
-<b>Date:</b> 2022-03-07<br/>
-<b>Description:</b> Yes, but can you see the lion? A deep exposure shows the famous dark indentation that looks like a horse&#39;s head, visible just left and below center, and known unsurprisingly as the Horsehead Nebula.  The Horsehead Nebula (Barnard 33) is part of a vast complex of dark absorbing dust and bright glowing gas.  To bring out details of the  Horsehead&#39;s pasture, an astrophotographer artistically combined light accumulated for over 20 hours in hydrogen (orange), oxygen (blue), and sulfur (green). The resulting spectacular picture captured from Raachine, Lebanon, details an intricate tapestry of gaseous wisps and dust-laden filaments that were created and sculpted over eons by stellar winds and ancient supernovas.  The featured composition brings up another pareidolic animal icon -- that of a lion&#39;s head -- in the expansive orange colored gas above the horse&#39;s head.  The Flame Nebula is visible just to the left of the Horsehead.  The Horsehead Nebula lies 1,500 light years distant towards the constellation of Orion.<br/>
+<h3>:rocket:Moon in Inverted Colors</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2203&#x2F;InvertedMoon_Glawdzin_2048.jpg" /><br/>
+<b>Date:</b> 2022-03-08<br/>
+<b>Description:</b> Which moon is this? It&#39;s Earth&#39;s moon -- but in inverted colors. Here, the pixel values corresponding to light and dark areas have been translated in reverse, or inverted, producing a false-color representation reminiscent of a black and white photographic negative.  However, this is an inverted color image -- where the muted colors of the moon are real but digitally exaggerated before inversion.  Normally bright rays from the large crater Tycho dominate the southern (bottom) features as easily followed dark green lines emanating from the 85-kilometer diameter impact site.  Normally dark lunar mare appear light and silvery.  The image was acquired in Southend-on-Sea, England, UK.  Historically, astronomical images recorded on photographic plates were directly examined on inverted-color negatives because it helped the eye pick out faint details.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Tuesday, 8 March, 8:43 am GMT+8<br />
+Last refresh: Wednesday, 9 March, 8:44 am GMT+8<br />
