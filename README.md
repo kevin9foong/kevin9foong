@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:The Observable Universe</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2203&#x2F;VisUni_WikiBudassi_2400.jpg" /><br/>
-<b>Date:</b> 2022-03-16<br/>
-<b>Description:</b> How far can you see? Everything you can see, and everything you could possibly see, right now, assuming your eyes could detect all types of radiations around you -- is the observable universe.  In light, the farthest we can see comes from the cosmic microwave background, a time 13.8 billion years ago when the universe was opaque like thick fog. Some neutrinos and gravitational waves that surround us come from even farther out, but humanity does not yet have the technology to detect them. The featured image illustrates the observable universe on an increasingly compact scale, with the Earth and Sun at the center surrounded by our Solar System, nearby stars, nearby galaxies, distant galaxies, filaments of early matter, and the cosmic microwave background. Cosmologists typically assume that our observable universe is just the nearby part of a greater entity known as &quot;the universe&quot; where the same physics applies.  However, there are several lines of popular but speculative reasoning that assert that even our universe is part of a greater multiverse where either different physical constants occur, different physical laws apply, higher dimensions operate, or slightly different-by-chance versions of our standard universe exist.   Available: High res image version with readable annotations | Clickable annotation version<br/>
+<h3>:rocket:Centaurus A</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2203&#x2F;CentaurusA_DavidAlemazkour.jpg" /><br/>
+<b>Date:</b> 2022-03-17<br/>
+<b>Description:</b> A mere 11 million light-years away, Centaurus A is the closest active galaxy to planet Earth. Spanning over 60,000 light-years, the peculiar elliptical galaxy also known as NGC 5128, is featured in this sharp telescopic view. Centaurus A is apparently the result of a collision of two otherwise normal galaxies resulting in a fantastic jumble of star clusters and imposing dark dust lanes. Near the galaxy&#39;s center, leftover cosmic debris is steadily being consumed by a central black hole with a billion times the mass of the Sun. As in other active galaxies, that process likely generates the enormous radio, X-ray, and gamma-ray energy radiated by Centaurus A.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Thursday, 17 March, 8:47 am GMT+8<br />
+Last refresh: Friday, 18 March, 8:56 am GMT+8<br />
