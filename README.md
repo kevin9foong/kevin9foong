@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Centaurus A</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2203&#x2F;CentaurusA_DavidAlemazkour.jpg" /><br/>
-<b>Date:</b> 2022-03-17<br/>
-<b>Description:</b> A mere 11 million light-years away, Centaurus A is the closest active galaxy to planet Earth. Spanning over 60,000 light-years, the peculiar elliptical galaxy also known as NGC 5128, is featured in this sharp telescopic view. Centaurus A is apparently the result of a collision of two otherwise normal galaxies resulting in a fantastic jumble of star clusters and imposing dark dust lanes. Near the galaxy&#39;s center, leftover cosmic debris is steadily being consumed by a central black hole with a billion times the mass of the Sun. As in other active galaxies, that process likely generates the enormous radio, X-ray, and gamma-ray energy radiated by Centaurus A.<br/>
+<h3>:rocket:A Filament in Monoceros</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2203&#x2F;IC447_446GiorgioFerrari.jpg" /><br/>
+<b>Date:</b> 2022-03-18<br/>
+<b>Description:</b> Bluish reflection nebulae seem to fill this dusty expanse. The sharp telescopic frame spans over 1 degree on the sky toward the faint but fanciful constellation Monoceros, the Unicorn. Seen within the Monoceros R1 cloud complex some 2,500 light-years away, bluish IC 447 is on the left, joined by a long dark filament of dust to IC 446 at lower right. Embedded in IC 447 are young, massive blue stars much hotter than the Sun, whose light is reflected by the cosmic cloud of star stuff. Observations reveal that IC 446 also contains a young stellar object, a massive star still in an early stage of evolution. The dark filament of dust and molecular gas joining the two star-forming regions is over 15 light-years long.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Friday, 18 March, 8:56 am GMT+8<br />
+Last refresh: Saturday, 19 March, 8:43 am GMT+8<br />
