@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:The Bubble Nebula from Hubble</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2203&#x2F;Bubble_HubbleOzsarac_1952.jpg" /><br/>
-<b>Date:</b> 2022-03-23<br/>
-<b>Description:</b> Massive stars can blow bubbles.  The featured image shows perhaps the most famous of all star-bubbles, NGC 7635, also known simply as The Bubble Nebula. Although it looks delicate, the 7-light-year diameter bubble offers evidence of violent processes at work. Above and left of the Bubble&#39;s center is a hot, O-type star, several hundred thousand times more luminous and some 45-times more massive than the Sun. A fierce stellar wind and intense radiation from that star has blasted out the structure of glowing gas against denser material in a surrounding molecular cloud. The intriguing Bubble Nebula and associated cloud complex lie a mere 7,100 light-years away toward the boastful constellation Cassiopeia. This sharp, tantalizing view of the cosmic bubble is a reprocessed composite of previously acquired Hubble Space Telescope image data.   Birthday Surprise: What picture did APOD feature on your birthday? (post 1995)<br/>
+<h3>:rocket:Arp 78: Peculiar Galaxy in Aries</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2203&#x2F;noirlab2209a_ngc772.jpg" /><br/>
+<b>Date:</b> 2022-03-24<br/>
+<b>Description:</b> Peculiar spiral galaxy Arp 78 is found within the boundaries of the head strong constellation Aries. Some 100 million light-years beyond the stars and nebulae of our Milky Way galaxy, the island universe is over 100,000 light-years across. Also known as NGC 772, it sports a prominent, outer spiral arm in this detailed cosmic portrait from the large Gemini North telescope near the summit of Maunakea, Hawaii, planet Earth. Tracking along sweeping dust lanes and lined with young blue star clusters, Arp 78&#39;s spiral arm is likely pumped-up by galactic-scale gravitational tidal interactions The close companion galaxy responsible is NGC 770, located off the upper right of this frame. But more distant background galaxies are clearly visible in the cosmic field of view.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Thursday, 24 March, 8:49 am GMT+8<br />
+Last refresh: Friday, 25 March, 8:46 am GMT+8<br />
