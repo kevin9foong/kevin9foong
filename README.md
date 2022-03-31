@@ -11,11 +11,10 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Venus and Mars: Passing in the Night</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2203&#x2F;VenusMars_Fairbairn_1433.jpg" /><br/>
-<b>Date:</b> 2022-03-29<br/>
-<b>Description:</b> When two planets pass on the night sky, they can usually be seen near each other for a week or more. In the case of this planetary conjunction, Venus and Mars passed within 4 degrees of each other earlier this month. The featured image was taken a few days prior, when Venus was slowing rising in the pre-dawn sky, night by night, while Mars was slowly setting. The image, a four-part mosaic, was captured in Brazil from the small town Teresópolis. Besides Venus and Mars, the morning sky now also includes the more distant planet Saturn.  Of course, these conjunctions are only angular -- Venus, Mars, and Saturn continue to orbit the Sun in very different parts of our Solar System.  Next week, the angle between Saturn and Mars will drop to below a quarter of a degree.<br/>
+<h3>:rocket:Animation: Odd Radio Circles</h3> 
+<b>Date:</b> 2022-03-30<br/>
+<b>Description:</b> What do you call a cosmic puzzle that no one expected to see?  In this case, Odd Radio Circles, aka ORCs.  ORC-1 typifies the enigmatic five objects, only visible at radio frequencies, that were serendipitously discovered in 2019 using the new Australian SKA Pathfinder radio array.  The final image in the featured video uses 2021 data from the South African MeerKAT array to reveal more detail.  The radio data, assigned turquoise colors, are combined with a Dark Energy Survey optical&#x2F;IR map.  The animated artist’s illustration explores just one idea about the ORCs’ origins.  If two supermassive black holes merge in the center of a galaxy, the associated shockwaves could generate rings of radio radiation.  These grow to fill the video frame.  The video zooms out so the expansion the ORC can be tracked until it is about a million light-years across.  Fortunately, the up-coming Square Kilometer Array can help test this and other promising scenarios.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Wednesday, 30 March, 8:52 am GMT+8<br />
+Last refresh: Thursday, 31 March, 8:50 am GMT+8<br />
