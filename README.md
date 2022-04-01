@@ -11,10 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Animation: Odd Radio Circles</h3> 
-<b>Date:</b> 2022-03-30<br/>
-<b>Description:</b> What do you call a cosmic puzzle that no one expected to see?  In this case, Odd Radio Circles, aka ORCs.  ORC-1 typifies the enigmatic five objects, only visible at radio frequencies, that were serendipitously discovered in 2019 using the new Australian SKA Pathfinder radio array.  The final image in the featured video uses 2021 data from the South African MeerKAT array to reveal more detail.  The radio data, assigned turquoise colors, are combined with a Dark Energy Survey optical&#x2F;IR map.  The animated artist’s illustration explores just one idea about the ORCs’ origins.  If two supermassive black holes merge in the center of a galaxy, the associated shockwaves could generate rings of radio radiation.  These grow to fill the video frame.  The video zooms out so the expansion the ORC can be tracked until it is about a million light-years across.  Fortunately, the up-coming Square Kilometer Array can help test this and other promising scenarios.<br/>
+<h3>:rocket:Exploring the Antennae</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2203&#x2F;Arp244-LRGB.jpg" /><br/>
+<b>Date:</b> 2022-03-31<br/>
+<b>Description:</b> Some 60 million light-years away in the southerly constellation Corvus, two large galaxies are colliding. Stars in the two galaxies, cataloged as NGC 4038 and NGC 4039, very rarely collide in the course of the ponderous cataclysm that lasts for hundreds of millions of years. But the galaxies&#39; large clouds of molecular gas and dust often do, triggering furious episodes of star formation near the center of the cosmic wreckage. Spanning over 500 thousand light-years, this stunning view also reveals new star clusters and matter flung far from the scene of the accident by gravitational tidal forces. The remarkably sharp ground-based image, an accumulation of 88 hours of exposure captured during 2012-2021, follows the faint tidal tails and distant background galaxies in the field of view. The suggestive overall visual appearance of the extended arcing structures gives the galaxy pair, also known as Arp 244, its popular name - The Antennae.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Thursday, 31 March, 8:50 am GMT+8<br />
+Last refresh: Friday, 1 April, 8:57 am GMT+8<br />
