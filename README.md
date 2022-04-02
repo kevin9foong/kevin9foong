@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Exploring the Antennae</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2203&#x2F;Arp244-LRGB.jpg" /><br/>
-<b>Date:</b> 2022-03-31<br/>
-<b>Description:</b> Some 60 million light-years away in the southerly constellation Corvus, two large galaxies are colliding. Stars in the two galaxies, cataloged as NGC 4038 and NGC 4039, very rarely collide in the course of the ponderous cataclysm that lasts for hundreds of millions of years. But the galaxies&#39; large clouds of molecular gas and dust often do, triggering furious episodes of star formation near the center of the cosmic wreckage. Spanning over 500 thousand light-years, this stunning view also reveals new star clusters and matter flung far from the scene of the accident by gravitational tidal forces. The remarkably sharp ground-based image, an accumulation of 88 hours of exposure captured during 2012-2021, follows the faint tidal tails and distant background galaxies in the field of view. The suggestive overall visual appearance of the extended arcing structures gives the galaxy pair, also known as Arp 244, its popular name - The Antennae.<br/>
+<h3>:rocket:Leaning Tower, Active Sun</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2204&#x2F;sunspotsleaningtowerofpisa.jpg" /><br/>
+<b>Date:</b> 2022-04-01<br/>
+<b>Description:</b> The natural filter of a hazy atmosphere offered this recognizable architecture and sunset view on March 27. Dark against the solar disk, large sunspots in solar active regions 2975 and 2976 are wedged between the Duomo of Pisa and its famous Leaning Tower. Only one day later, Sun-staring spacecraft watched active region 2975 unleash a frenzy of solar flares along with two coronal mass ejections. The largest impacted the magnetosphere on March 31 triggering a geomagnetic storm and aurorae in high-latitude night skies. On March 30, active region 2975 erupted again with a powerful X-class solar flare that caused a temporary radio blackout on planet Earth.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Friday, 1 April, 8:57 am GMT+8<br />
+Last refresh: Saturday, 2 April, 8:48 am GMT+8<br />
