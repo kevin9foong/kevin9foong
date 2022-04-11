@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Mars-Saturn Conjunction</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2204&#x2F;mars_saturn_2022_04_04dp.jpg" /><br/>
-<b>Date:</b> 2022-04-09<br/>
-<b>Description:</b> Fainter stars in the zodiacal constellation Capricornus are scattered near the plane of the ecliptic in this field of view. The two brightest ones at center aren&#39;t stars at all though, but the planets Mars and Saturn. Taken on the morning of April 4, the telescopic snapshot captured their tantalizing close conjunction in a predawn sky, the pair of planets separated by only about 1&#x2F;3 of a degree. That&#39;s easily less than the apparent width of a Full Moon. Can you tell which planet is which? If you guessed Mars is the redder one , you&#39;d be right. Above Mars, slightly fainter Saturn still shines with a paler yellowish tinge in reflected sunlight.  Even at the low magnification, Saturn&#39;s largest and brightest moon Titan can be spotted hugging the planet very closely on the left.<br/>
+<h3>:rocket:Shadows at the Moon&#39;s South Pole</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2204&#x2F;SouthPoleShadows_LRO_1214.jpg" /><br/>
+<b>Date:</b> 2022-04-10<br/>
+<b>Description:</b> Was this image of the Moon&#39;s surface taken with a microscope? No -- it&#39;s a multi-temporal illumination map made with a wide-angle camera. 	 To create it, the Lunar Reconnaissance Orbiter spacecraft collected 1,700 images over a period of 6 lunar days (6 Earth months), repeatedly covering an area centered on the Moon&#39;s south pole from different angles.  The resulting images were stacked to produce the featured map -- representing the percentage of time each spot on the surface was illuminated by the Sun.  Remaining convincingly in shadow, the floor of the 19-kilometer diameter Shackleton crater is seen near the map&#39;s center.  The lunar south pole itself is at about 9 o&#39;clock on the crater&#39;s rim.  Crater floors near the lunar south and north poles can remain in permanent shadow, while mountain tops can remain in nearly continuous sunlight.  Useful for future outposts, the shadowed crater floors could offer reservoirs of water-ice, while the sunlit mountain tops offer good locations to collect solar power.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Sunday, 10 April, 8:53 am GMT+8<br />
+Last refresh: Monday, 11 April, 8:53 am GMT+8<br />
