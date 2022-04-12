@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Shadows at the Moon&#39;s South Pole</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2204&#x2F;SouthPoleShadows_LRO_1214.jpg" /><br/>
-<b>Date:</b> 2022-04-10<br/>
-<b>Description:</b> Was this image of the Moon&#39;s surface taken with a microscope? No -- it&#39;s a multi-temporal illumination map made with a wide-angle camera. 	 To create it, the Lunar Reconnaissance Orbiter spacecraft collected 1,700 images over a period of 6 lunar days (6 Earth months), repeatedly covering an area centered on the Moon&#39;s south pole from different angles.  The resulting images were stacked to produce the featured map -- representing the percentage of time each spot on the surface was illuminated by the Sun.  Remaining convincingly in shadow, the floor of the 19-kilometer diameter Shackleton crater is seen near the map&#39;s center.  The lunar south pole itself is at about 9 o&#39;clock on the crater&#39;s rim.  Crater floors near the lunar south and north poles can remain in permanent shadow, while mountain tops can remain in nearly continuous sunlight.  Useful for future outposts, the shadowed crater floors could offer reservoirs of water-ice, while the sunlit mountain tops offer good locations to collect solar power.<br/>
+<h3>:rocket:A Space Station Crosses a Busy Sun</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2204&#x2F;IssSunspot_Letian_2400.jpg" /><br/>
+<b>Date:</b> 2022-04-11<br/>
+<b>Description:</b> Typically, the International Space Station is visible only at night.  Slowly drifting across the night sky as it orbits the Earth, the International Space Station (ISS) can be seen as a bright spot several times a year from many locations.  The ISS is then visible only just after sunset or just before sunrise because it shines by reflected sunlight -- once the ISS enters the Earth&#39;s shadow, it will drop out of sight. The only occasion when the ISS is visible during the day is when it passes right in front of the Sun. Then, it passes so quickly that only cameras taking short exposures can visually freeze the ISS&#39;s silhouette onto the background Sun. The featured picture did exactly that -- it is actually a series of images taken earlier this month from Beijing, China with perfect timing.  This image series was later combined with separate images taken at nearly the same time but highlighting the texture and activity on the busy Sun. The solar activity included numerous gaseous prominences seen around the edge, highlighted in red, filaments seen against the Sun&#39;s face, and a dark sunspot.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Monday, 11 April, 8:53 am GMT+8<br />
+Last refresh: Tuesday, 12 April, 8:52 am GMT+8<br />
