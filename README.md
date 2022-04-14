@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:N11: Star Clouds of the LMC</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2204&#x2F;N11_HubbleLake_1600.jpg" /><br/>
-<b>Date:</b> 2022-04-12<br/>
-<b>Description:</b> Massive stars, abrasive winds, mountains of dust, and energetic light sculpt one of the largest and most picturesque regions of star formation in the Local Group of Galaxies.  Known as N11, the region is visible on the upper right of many images of its home galaxy, the Milky Way neighbor known as the Large Magellanic Cloud (LMC).  The featured image was taken for scientific purposes by the Hubble Space Telescope and reprocessed for artistry.  Although the section imaged above is known as NGC 1763, the entire N11 emission nebula is second in LMC size only to the Tarantula Nebula.  Compact globules of dark dust housing emerging young stars are also visible around the image.  A recent study of variable stars in the LMC with Hubble has helped to recalibrate the distance scale of the  observable universe, but resulted in a slightly different scale than found using the pervasive cosmic microwave background.   Astrophysicists: Browse 2,700+ codes in the Astrophysics Source Code Library<br/>
+<h3>:rocket:Milky Way over Devils Tower</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2204&#x2F;DevilsWay_Kiczenski_1402.jpg" /><br/>
+<b>Date:</b> 2022-04-13<br/>
+<b>Description:</b> What created Devils Tower? The origin of this extraordinary rock monolith in Wyoming, USA is still debated, with a leading hypothesis holding that it is a hardened lava plume that never reached the surface to become a volcano.  In this theory, the lighter rock that once surrounded the dense volcanic neck has now eroded away, leaving the dramatic tower. Known by Native Americans by names including  Bear&#39;s Lodge and Great Gray Horn, the dense rock includes the longest hexagonal columns known, some over 180-meters tall. High above, the central band of the Milky Way galaxy arches across the sky.  Many notable sky objects are visible, including dark strands of the Pipe Nebula and the reddish Lagoon Nebula to the tower&#39;s right.  Green grass and trees line the foreground, while clouds appear near the horizon to the tower&#39;s left.  Unlike many other international landmarks, mountaineers are permitted to climb Devils Tower.   Birthday Surprise: What picture did APOD feature on your birthday? (post 1995)<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Wednesday, 13 April, 8:55 am GMT+8<br />
+Last refresh: Thursday, 14 April, 8:59 am GMT+8<br />
