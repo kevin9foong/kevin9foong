@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Messier 96</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2204&#x2F;M_96_LRGB_CDK_1000_8April2022HansonSelbyFinal1024.jpg" /><br/>
-<b>Date:</b> 2022-04-14<br/>
-<b>Description:</b> Spiral arms seem to swirl around the core of Messier 96 in this colorful, detailed portrait of a beautiful island universe. Of course M96 is a spiral galaxy, and counting the faint arms extending beyond the brighter central region it spans 100 thousand light-years or so. That&#39;s about the size of our own Milky Way. M96 is known to be 38 million light-years distant, a dominant member of the Leo I galaxy group. Background galaxies and smaller Leo I group members can be found by examining the picture. The most intriguing one is itself a spiral galaxy seen nearly edge on behind the outer spiral arm near the 1 o&#39;clock position from center. Its bright central bulge cut by its own dark dust clouds, the edge-on background spiral appears to be about 1&#x2F;5 the size of M96. If that background galaxy is similar in actual size to M96, then it would be about 5 times farther away.<br/>
+<h3>:rocket:The Gator-back Rocks of Mars</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2204&#x2F;PIA25175.jpg" /><br/>
+<b>Date:</b> 2022-04-15<br/>
+<b>Description:</b> Wind-sharpened rocks known as ventifacts, cover this broad sloping plain in the foot hills of Mount Sharp, Gale crater, Mars. Dubbed gator-back rocks their rugged, scaly appearance is captured in these digitally stitched Mastcam frames from the Curiosity rover on mission sol 3,415 (March 15, 2022). Driving over gator-back rocks before has resulted in damage to the rover&#39;s wheels, so Curiosity team members decided to turn around and take another path to continue the rover&#39;s climb. Curiosity has been on an ascent of Gale crater&#39;s central 5.5 kilometer high mountain since 2014. As it climbs, it&#39;s been able to study layers shaped by water on Mars billions of years ago.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Friday, 15 April, 8:55 am GMT+8<br />
+Last refresh: Saturday, 16 April, 8:52 am GMT+8<br />
