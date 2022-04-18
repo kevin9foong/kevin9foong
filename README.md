@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Orion Pines</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2204&#x2F;orionpines_2k.jpg" /><br/>
-<b>Date:</b> 2022-04-16<br/>
-<b>Description:</b> Taken with a camera fixed to a tripod, many short exposures were aligned with the stars to unveil this beautiful, dark night sky. Captured near the rural village of Albany&#x60;a at the northeastern corner of Spain, the three stars of Orion&#39;s belt stretch across top center in the starry frame. Alnitak, the easternmost (left) of the belt stars is seen next to the more diffuse glow of the Flame Nebula and the dark notch of the famous Horsehead. Easily visible to the naked-eye The Great Nebula of Orion is below the belt stars. A mere 1,500 light-years distant, it is the closest large stellar nursery to our fair planet. Best seen in photographs, the broad and faint arc of Barnard&#39;s Loop seems to embrace Orion&#39;s brighter stars and nebulae though. In the northern spring the familiar northern winter constellation is setting. Near the western horizon toward lower right Orion&#39;s apparently bright blue supergiant Rigel just touches the branches of a pine tree.<br/>
+<h3>:rocket:Shuttle Over Earth</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2204&#x2F;shuttleAtm_nasa_6048.jpg" /><br/>
+<b>Date:</b> 2022-04-17<br/>
+<b>Description:</b> What&#39;s that approaching? Astronauts on board the International Space Station in 2010 first saw it far in the distance.  Soon it enlarged to become a dark silhouette. As it came even closer, the silhouette appeared to be a spaceship. Finally, the object revealed itself to be the Space Shuttle Endeavour, and it soon docked as expected with the Earth-orbiting space station.  Pictured here, Endeavour was imaged near Earth&#39;s horizon as it approached, where several layers of the Earth&#39;s atmosphere were visible. Directly behind the shuttle is the mesosphere, which appears blue.  The atmospheric layer that appears white is the stratosphere, while the orange layer is Earth&#39;s Troposphere. Together, these thin layers of air -- collectively spanning less than 2 percent of Earth&#39;s radius -- sustain us all in many ways, including providing oxygen to breath and a barrier to dangerous radiations from space.    Coming up Friday: Earth Day 2022<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Sunday, 17 April, 8:55 am GMT+8<br />
+Last refresh: Monday, 18 April, 9:00 am GMT+8<br />
