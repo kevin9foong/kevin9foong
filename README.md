@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Planet Line over New York Bridge</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2204&#x2F;PlanetBridge_Honda_3000.jpg" /><br/>
-<b>Date:</b> 2022-04-20<br/>
-<b>Description:</b> There&#39;s an interesting sky to see if you wake up before the Sun. Lined up on toward the eastern horizon are four planets in a row. The planets are so bright they can even be seen from the bright sky inside a city. In fact, the featured image was taken from New York City, USA, with the foreground highlighted by the RFK (Triborough) Bridge. Pictured, the planets are, left to right, Jupiter, Venus, Mars, and Saturn.  The planets all appear in a row because they all orbit the Sun in the same plane. This plane, called the ecliptic plane, was created in the early days of our Solar System and includes all planets, including Earth.  The morning planet parade will continue throughout April and May, and will even be joined by Mercury in June.   APOD volunteer programming opportunity: Discord<br/>
+<h3>:rocket:Apollo 16 Moon Panorama</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2204&#x2F;Apollo-16-station-10.jpg" /><br/>
+<b>Date:</b> 2022-04-21<br/>
+<b>Description:</b> Fifty years ago, April 20, 1972, Apollo 16&#39;s lunar module Orion touched down on the Moon&#39;s near side in the south-central Descartes Highlands. While astronaut Ken Mattingly orbited overhead in Casper the friendly command and service module the Orion brought John Young and Charles Duke to the lunar surface. The pair would spend nearly three days on the Moon. Constructed from images (AS16-117-18814 to AS16-117-18820) taken near the end of their third and final surface excursion this panoramic view puts the lunar module in the distance toward the left. Their electric lunar roving vehicle in the foreground, Duke is operating the camera while Young aims the high gain communications antenna skyward, toward planet Earth.   Celebrate: Earth Day<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Thursday, 21 April, 8:58 am GMT+8<br />
+Last refresh: Friday, 22 April, 8:59 am GMT+8<br />
