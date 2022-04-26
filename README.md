@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Split the Universe</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;1704&#x2F;SatelliteSale_NASA_960_split3.jpg" /><br/>
-<b>Date:</b> 2022-04-24<br/>
-<b>Description:</b> Just now, before you hit the button, two future universes are possible.  After pressing the button, though, you will live in only one.  A real-web version of the famous Schrödinger&#39;s cat experiment clicking the red button in the featured astronaut image should transform that image into a picture of the same astronaut holding one of two cats -- one living, or one dead.  The timing of your click, combined with the wiring of your brain and the millisecond timing of your device, will all conspire together to create a result dominated, potentially, by the randomness of quantum mechanics.  Some believe that your personally-initiated quantum decision will split the universe in two, and that both the live-cat and dead-cat universes exist in separate parts of a larger multiverse. Others believe that the result of your click will collapse the two possible universes into one -- in a way that could not have been predicted beforehand.  Yet others believe that the universe is classically deterministic, so that by pressing the button you did not really split the universe, but just carried out an action predestined since time began.   We at APOD believe that however silly you may feel clicking the red button, and regardless of the outcome,  you should have a thought-provoking day.  Or two.<br/>
+<h3>:rocket:The Great Nebula in Carina</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2204&#x2F;CarinaMosaic_Bobillo_1600.jpg" /><br/>
+<b>Date:</b> 2022-04-25<br/>
+<b>Description:</b> In one of the brightest parts of Milky Way lies a nebula where some of the oddest things occur. NGC 3372, known as the Great Nebula in Carina, is home to massive stars and changing nebulas. The Keyhole Nebula (NGC 3324), the bright structure just below the image center, houses several of these massive stars. The entire Carina Nebula, captured here, spans over 300 light years and lies about 7,500 light-years away in the constellation of Carina.  Eta Carinae, the most energetic star in the nebula, was one of the brightest stars in the sky in the 1830s, but then faded dramatically. While Eta Carinae itself maybe on the verge of a supernova explosion, X-ray images indicate that much of the Great Nebula in Carina has been a veritable supernova factory.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Monday, 25 April, 8:52 am GMT+8<br />
+Last refresh: Tuesday, 26 April, 8:58 am GMT+8<br />
