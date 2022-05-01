@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Portrait of NGC 3628</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2204&#x2F;NGC3628-crop.jpg" /><br/>
-<b>Date:</b> 2022-04-29<br/>
-<b>Description:</b> Sharp telescopic views of NGC 3628 show a puffy galactic disk divided by dark dust lanes. Of course, this portrait of the magnificent, edge-on spiral galaxy puts some astronomers in mind of its popular moniker, the Hamburger Galaxy. It also reveals a small galaxy nearby (below), likely a satellite of NGC 3628, and a very faint but extensive tidal tail. The drawn out tail stretches for about 300,000 light-years, even beyond the upper left edge of the frame. NGC 3628 shares its neighborhood in the local universe with two other large spirals M65 and M66 in a grouping otherwise known as the Leo Triplet. Gravitational interactions with its cosmic neighbors are likely responsible for creating the tidal tail, as well as the extended flare and warp of this spiral&#39;s disk. The tantalizing island universe itself is about 100,000 light-years across and 35 million light-years away in the northern springtime constellation Leo.<br/>
+<h3>:rocket:M44: The Beehive Cluster</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2204&#x2F;M44-resized.jpg" /><br/>
+<b>Date:</b> 2022-04-30<br/>
+<b>Description:</b> A mere 600 light-years away, M44 is one of the closest star clusters to our solar system. Also known as the Praesepe or the Beehive cluster its stars are young though, about 600 million years old compared to our Sun&#39;s 4.5 billion years. Based on similar ages and motion through space, M44 and the even closer Hyades star cluster in Taurus are thought to have been born together in the same large molecular cloud. An open cluster spanning some 15 light-years, M44 holds 1,000 stars or so and covers about 3 full moons (1.5 degrees) on the sky in the constellation Cancer. Visible to the unaided eye, M44 has been recognized since antiquity. Described as a faint cloud or celestial mist long before being included as the 44th entry in Charles Messier&#39;s 18th century catalog, the cluster was not resolved into its individual stars until telescopes were available. A popular target for modern, binocular-equipped sky gazers, the cluster&#39;s few yellowish tinted, cool, red giants are scattered through the field of its brighter hot blue main sequence stars in this telescopic group snapshot. Dramatic diffraction spikes highlighting the brighter cluster members were created with string crossed in front of the telescope&#39;s objective lens.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Saturday, 30 April, 9:02 am GMT+8<br />
+Last refresh: Sunday, 1 May, 9:14 am GMT+8<br />
