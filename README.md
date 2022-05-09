@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Firefall by Moonlight</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2205&#x2F;2021-04-15_443amLunarFirefall1080P.jpg" /><br/>
-<b>Date:</b> 2022-05-07<br/>
-<b>Description:</b> On certain dates in February, an elusive firefall can be spotted at sunset in Yosemite National Park, when water flows, the weather cooperates and the direction to the setting Sun is just right. Often photographed from vantage points below, at the right moment the park&#39;s seasonal Horsetail Fall is isolated in the shadows of the steep walls of El Capitan. Then, still illuminated with rays of reddened sunlight the waterfall briefly takes on a dramatic, fiery appearance. But a Horsetail firefall can be photographed by moonlight too. Even more elusive by moonlight, the firefall effect can also be seen when a bright Moon sets at the right direction along the western horizon. And skies were clear enough for this well-planned imaging of an ephemeral Horsetail firefall, lit by a bright gibbous Moon setting in the early morning hours of April 15.<br/>
+<h3>:rocket:Spiral Galaxy NGC 1512: The Inner Rings</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2205&#x2F;NGC1512inner_Hubble_5413.jpg" /><br/>
+<b>Date:</b> 2022-05-08<br/>
+<b>Description:</b> Most galaxies don&#39;t have any rings -- why does this galaxy have two?  To begin, the bright band near NGC 1512&#39;s center is a nuclear ring, a ring that surrounds the galaxy center and glows brightly with recently formed stars. Most stars and accompanying gas and dust, however, orbit the galactic center in a ring much further out -- here seen near the image edge. This ring is called, counter-intuitively, the inner ring.  If you look closely, you will see this the inner ring connects ends of a diffuse central bar that runs horizontally across the galaxy. These ring structures are thought to be caused by NGC 1512&#39;s own asymmetries in a drawn-out process called secular evolution.  The gravity of these galaxy asymmetries, including the bar of stars, cause gas and dust to fall from the inner ring to the nuclear ring, enhancing this ring&#39;s rate of star formation.  Some spiral galaxies also have a third ring -- an outer ring that circles the galaxy even further out.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Sunday, 8 May, 8:55 am GMT+8<br />
+Last refresh: Monday, 9 May, 8:58 am GMT+8<br />
