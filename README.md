@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Gravity&#39;s Grin</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2205&#x2F;cheshirecat_chandra_complg.jpg" /><br/>
-<b>Date:</b> 2022-05-11<br/>
-<b>Description:</b> Albert Einstein&#39;s general theory of relativity, published over 100 years ago, predicted the phenomenon of gravitational lensing. And that&#39;s what gives these distant galaxies such a whimsical appearance, seen through the looking glass of X-ray and optical image data from the Chandra and Hubble space telescopes. Nicknamed the Cheshire Cat galaxy group, the group&#39;s two large elliptical galaxies are suggestively framed by arcs. The arcs are optical images of distant background galaxies lensed by the foreground group&#39;s total distribution of gravitational mass. Of course, that gravitational mass is dominated by dark matter. The two large elliptical &quot;eye&quot; galaxies represent the brightest members of their own galaxy groups which are merging. Their relative collisional speed of nearly 1,350 kilometers&#x2F;second heats gas to millions of degrees producing the X-ray glow shown in purple hues. Curiouser about galaxy group mergers? The Cheshire Cat group grins in the constellation Ursa Major, some 4.6 billion light-years away.<br/>
+<h3>:rocket:Young Stars of NGC 346</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2205&#x2F;ngc346_hst_b.jpg" /><br/>
+<b>Date:</b> 2022-05-12<br/>
+<b>Description:</b> The massive stars of NGC 346 are short lived, but very energetic. The star cluster is embedded in the largest star forming region in the Small Magellanic Cloud, some 210,000 light-years distant. Their winds and radiation sweep out an interstellar cavern in the gas and dust cloud about 200 light-years across, triggering star formation and sculpting the region&#39;s dense inner edge. Cataloged as N66, the star forming region also appears to contain a large population of infant stars. A mere 3 to 5 million years old and not yet burning hydrogen in their cores, the infant stars are strewn about the embedded star cluster. In this false-color Hubble Space Telescope image, visible and near-infrared light are seen as blue and green, while light from atomic hydrogen emission is red.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Thursday, 12 May, 9:02 am GMT+8<br />
+Last refresh: Friday, 13 May, 9:08 am GMT+8<br />
