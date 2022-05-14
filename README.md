@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Young Stars of NGC 346</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2205&#x2F;ngc346_hst_b.jpg" /><br/>
-<b>Date:</b> 2022-05-12<br/>
-<b>Description:</b> The massive stars of NGC 346 are short lived, but very energetic. The star cluster is embedded in the largest star forming region in the Small Magellanic Cloud, some 210,000 light-years distant. Their winds and radiation sweep out an interstellar cavern in the gas and dust cloud about 200 light-years across, triggering star formation and sculpting the region&#39;s dense inner edge. Cataloged as N66, the star forming region also appears to contain a large population of infant stars. A mere 3 to 5 million years old and not yet burning hydrogen in their cores, the infant stars are strewn about the embedded star cluster. In this false-color Hubble Space Telescope image, visible and near-infrared light are seen as blue and green, while light from atomic hydrogen emission is red.<br/>
+<h3>:rocket:The Milky Way&#39;s Black Hole</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2205&#x2F;sgra_.jpg" /><br/>
+<b>Date:</b> 2022-05-13<br/>
+<b>Description:</b> There&#39;s a black hole at the center of the Milky Way. Stars are observed to orbit a very massive and compact object there known as Sgr A* (say &quot;sadge-ay-star&quot;). But this just released radio image (inset) from planet Earth&#39;s Event Horizon Telescope is the first direct evidence of the Milky Way&#39;s central black hole. As predicted by Einstein&#39;s Theory of General Relativity, the four million solar mass black hole&#39;s strong gravity is bending light and creating a shadow-like dark central region surrounded by a bright ring-like structure. Supporting observations made by space-based telescopes and ground-based observatories provide a wider view of the galactic center&#39;s dynamic environment and an important context for the Event Horizon Telescope&#39;s black hole image. The main panel image shows the X-ray data from Chandra and infrared data from Hubble. While the main panel is about 7 light-years across, the Event Horizon Telescope inset image itself spans a mere 10 light-minutes at the center of our galaxy, some 27,000 light-years away.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Friday, 13 May, 9:08 am GMT+8<br />
+Last refresh: Saturday, 14 May, 9:11 am GMT+8<br />
