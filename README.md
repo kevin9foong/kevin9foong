@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:A Jewel on the Flower Moon</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2205&#x2F;DiamondMoonWSMALL.jpg" /><br/>
-<b>Date:</b> 2022-05-18<br/>
-<b>Description:</b> Cloudy skies plagued some sky watchers on Sunday as May&#39;s Full Flower Moon slipped through Earth&#39;s shadow in a total lunar eclipse. In skies above Chile&#39;s Atacama desert this telephoto snapshot still captured an awesome spectacle though. Seen through thin high cirrus clouds just before totality began, a last sliver of sunlit crescent glistens like a hazy jewel atop the mostly shadowed lunar disk. This full moon was near perigee, the closest point in its elliptical orbit. It passed near the center of Earth&#39;s dark umbral shadow during the 90 minute long total eclipse phase. Faintly suffused with sunlight scattered by the atmosphere, the umbral shadow itself gave the eclipsed moon a reddened appearance and the very dramatic popular moniker of a Blood Moon.<br/>
+<h3>:rocket:A Digital Lunar Eclipse</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2205&#x2F;TLE_2022-05-16-02-59-35s.jpg" /><br/>
+<b>Date:</b> 2022-05-19<br/>
+<b>Description:</b> Recorded on May 15&#x2F;16 this sequence of exposures follows the Full Moon during a total lunar eclipse as it arcs above treetops in the clearing skies of central Florida. A frame taken every 5 minutes by a digital camera shows the progression of the eclipse over three hours. The bright lunar disk grows dark and red as it glides through planet Earth&#39;s shadow. In fact, counting the central frames in the sequence measures the roughly 90 minute duration of the total phase of this eclipse. Around 270 BC, the Greek astronomer Aristarchus also measured the duration of total lunar eclipses, but probably without the benefit of digital watches and cameras. Still, using geometry he devised a simple and impressively accurate way to calculate the Moon&#39;s distance in terms of the radius of planet Earth, from the eclipse duration.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Thursday, 19 May, 9:10 am GMT+8<br />
+Last refresh: Friday, 20 May, 9:01 am GMT+8<br />
