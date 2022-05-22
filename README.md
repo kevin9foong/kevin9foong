@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:A View from Earth&#39;s Shadow</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2205&#x2F;eclipse-lune-2022.jpg" /><br/>
-<b>Date:</b> 2022-05-20<br/>
-<b>Description:</b> This serene sand and skyscape finds the Dune of Pilat on the coast of France still in Earth&#39;s shadow during the early morning hours of May 16. Extending into space, the planet&#39;s dark umbral shadow covered the Moon on that date. From that location the total phase of a lunar eclipse had begun before moonset. Still in sunlight though, the International Space Station crossed from the western horizon and Earth&#39;s largest artificial moon traced the bright flat arc through the sky over 400 km above. Simply constructed, the well-planned panoramic scene was captured over a 5 minutes in a series of consecutive images.<br/>
+<h3>:rocket:Planetary Nebula Abell 7</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2205&#x2F;Abell_7-2022-02-20-HOO-1600.jpg" /><br/>
+<b>Date:</b> 2022-05-21<br/>
+<b>Description:</b> Very faint planetary nebula Abell 7 is some 1,800 light-years distant, just south of Orion in planet Earth&#39;s skies in the constellation Lepus, The Hare. Surrounded by Milky Way stars and near the line-of-sight to distant background galaxies, its generally simple spherical shape, about 8 light-years in diameter, is outlined in this deep telescopic image. Within its confines are beautiful, more complex details enhanced by the use of narrowband filters. Emission from hydrogen is shown in reddish hues with oxygen emission mapped to green and blue colors, giving Abell 7 a natural appearance that would otherwise be much too faint to be appreciated by eye. A planetary nebula represents a very brief final phase in stellar evolution that our own Sun will experience 5 billion years hence, as the nebula&#39;s central, once sun-like star shrugs off its outer layers. Abell 7 itself is estimated to be 20,000 years old. Its central star is seen here as a fading white dwarf some 10 billion years old.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Saturday, 21 May, 8:53 am GMT+8<br />
+Last refresh: Sunday, 22 May, 8:58 am GMT+8<br />
