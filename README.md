@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:A Large Tsunami Shock Wave on the Sun</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2205&#x2F;SunTsunami_nso_900.gif" /><br/>
-<b>Date:</b> 2022-05-22<br/>
-<b>Description:</b> Tsunamis this large don&#39;t happen on Earth.  During 2006, a large solar flare from an Earth-sized sunspot produced a tsunami-type shock wave that was spectacular even for the Sun.  Pictured here, the tsunami wave was captured moving out from active region AR 10930 by the Optical Solar Patrol Network (OSPAN) telescope in New Mexico, USA.  The resulting shock wave, known technically as a Moreton wave, compressed and heated up gasses including hydrogen in the photosphere of the Sun, causing a momentarily brighter glow.  The featured image was taken in a very specific red color emitted exclusively by hydrogen gas.  The rampaging tsunami took out some active filaments on the Sun, although many re-established themselves later.  The solar tsunami spread at nearly one million kilometers per hour, and circled the entire Sun in a matter of minutes.<br/>
+<h3>:rocket:The Once and Future Stars of Andromeda</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2205&#x2F;M31_HubbleSpitzerGendler_2000.jpg" /><br/>
+<b>Date:</b> 2022-05-23<br/>
+<b>Description:</b> This picture of Andromeda shows not only where stars are now, but where stars will soon be. Of course, the big, beautiful Andromeda Galaxy, M31, is a spiral galaxy -- and a mere 2.5 million light-years away.  Both space-based and ground-based observatories have been here combined to produce this intriguing composite image of Andromeda, at wavelengths both inside and outside normally visible light. The visible light shows where M31&#39;s stars are now -- as highlighted in white and blue hues and imaged by the Hubble, Subaru, and Mayall telescopes.  The infrared light shows where M31&#39;s future stars will soon form -- as highlighted in orange hues and imaged by NASA&#39;s Spitzer Space Telescope.  The infrared light tracks enormous lanes of dust, warmed by stars, sweeping along Andromeda&#39;s spiral arms.  This dust is a tracer of the galaxy&#39;s vast interstellar gas -- the raw material for future star formation.  These new stars will likely form over the next hundred million years, surely well before Andromeda merges with our Milky Way Galaxy in about 5 billion years.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Monday, 23 May, 8:56 am GMT+8<br />
+Last refresh: Tuesday, 24 May, 9:04 am GMT+8<br />
