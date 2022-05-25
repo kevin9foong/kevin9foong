@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:The Once and Future Stars of Andromeda</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2205&#x2F;M31_HubbleSpitzerGendler_2000.jpg" /><br/>
-<b>Date:</b> 2022-05-23<br/>
-<b>Description:</b> This picture of Andromeda shows not only where stars are now, but where stars will soon be. Of course, the big, beautiful Andromeda Galaxy, M31, is a spiral galaxy -- and a mere 2.5 million light-years away.  Both space-based and ground-based observatories have been here combined to produce this intriguing composite image of Andromeda, at wavelengths both inside and outside normally visible light. The visible light shows where M31&#39;s stars are now -- as highlighted in white and blue hues and imaged by the Hubble, Subaru, and Mayall telescopes.  The infrared light shows where M31&#39;s future stars will soon form -- as highlighted in orange hues and imaged by NASA&#39;s Spitzer Space Telescope.  The infrared light tracks enormous lanes of dust, warmed by stars, sweeping along Andromeda&#39;s spiral arms.  This dust is a tracer of the galaxy&#39;s vast interstellar gas -- the raw material for future star formation.  These new stars will likely form over the next hundred million years, surely well before Andromeda merges with our Milky Way Galaxy in about 5 billion years.<br/>
+<h3>:rocket:A Deep Sky Behind an Eclipsed Moon</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2205&#x2F;RhoLunarEclipse_Dascalu_1920.jpg" /><br/>
+<b>Date:</b> 2022-05-24<br/>
+<b>Description:</b> The plan was to capture a picturesque part of the sky that was hosting an unusual guest.  The result included a bonus — an additional and unexpected guest. The beautiful background features part of the central band of our Milky Way galaxy on the far left, and the colorful clouds of Rho Ophiuchi in the image center. The unusual guest, a dimmed and reddened Moon on the right, was expected because the image was taken during last week’s total lunar eclipse. The timing had to be right because the Moon — both before and after eclipse — would be so bright it would overwhelm the background.  The unexpected guest was the bright meteor across the image center. The fleeting meteor streak was captured on only one of the 10 consecutively-captured deep-field images from La Palma in the Spanish Canary Islands, while the eclipsed Moon image was taken immediately afterwards with the same camera and from the same location. The next total lunar eclipse — also quite expected — will occur in early November.    Notable Submissions to APOD: Total Lunar Eclipse of 2022 May<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Tuesday, 24 May, 9:04 am GMT+8<br />
+Last refresh: Wednesday, 25 May, 9:00 am GMT+8<br />
