@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:A Deep Sky Behind an Eclipsed Moon</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2205&#x2F;RhoLunarEclipse_Dascalu_1920.jpg" /><br/>
-<b>Date:</b> 2022-05-24<br/>
-<b>Description:</b> The plan was to capture a picturesque part of the sky that was hosting an unusual guest.  The result included a bonus — an additional and unexpected guest. The beautiful background features part of the central band of our Milky Way galaxy on the far left, and the colorful clouds of Rho Ophiuchi in the image center. The unusual guest, a dimmed and reddened Moon on the right, was expected because the image was taken during last week’s total lunar eclipse. The timing had to be right because the Moon — both before and after eclipse — would be so bright it would overwhelm the background.  The unexpected guest was the bright meteor across the image center. The fleeting meteor streak was captured on only one of the 10 consecutively-captured deep-field images from La Palma in the Spanish Canary Islands, while the eclipsed Moon image was taken immediately afterwards with the same camera and from the same location. The next total lunar eclipse — also quite expected — will occur in early November.    Notable Submissions to APOD: Total Lunar Eclipse of 2022 May<br/>
+<h3>:rocket:The Lively Center of the Lagoon Nebula</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2205&#x2F;LagoonCenter_HubbleOzsarac_3937.jpg" /><br/>
+<b>Date:</b> 2022-05-25<br/>
+<b>Description:</b> The center of the Lagoon Nebula is a whirlwind of spectacular star formation. Visible near the image center, at least two long funnel-shaped clouds, each roughly half a light-year long, have been formed by extreme stellar winds and intense energetic starlight.  A tremendously bright nearby star, Herschel 36, lights the area.  Vast walls of dust hide and redden other hot young stars.  As energy from these stars pours into the cool dust and gas, large temperature differences in adjoining regions can be created generating shearing winds which may cause the funnels.  This picture, spanning about 10 light years, combines images taken in six colors by the orbiting Hubble Space Telescope.  The Lagoon Nebula, also known as M8, lies about 5000 light years distant toward the constellation of the Archer (Sagittarius).   Almost hyperspace: Random APOD Generator<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Wednesday, 25 May, 9:00 am GMT+8<br />
+Last refresh: Thursday, 26 May, 9:02 am GMT+8<br />
