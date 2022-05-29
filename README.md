@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Titan: Moon over Saturn</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2205&#x2F;PIA19642Titan.jpg" /><br/>
-<b>Date:</b> 2022-05-27<br/>
-<b>Description:</b> Like Earth&#39;s moon, Saturn&#39;s largest moon Titan is locked in synchronous rotation. This mosaic of images recorded by the Cassini spacecraft in May of 2012 shows its anti-Saturn side, the side always facing away from the ringed gas giant. The only moon in the solar system with a dense atmosphere, Titan is the only solar system world besides Earth known to have standing bodies of liquid on its surface and an earthlike cycle of liquid rain and evaporation. Its high altitude layer of atmospheric haze is evident in the Cassini view of the 5,000 kilometer diameter moon over Saturn&#39;s rings and cloud tops. Near center is the dark dune-filled region known as Shangri-La. The Cassini-delivered Huygens probe rests below and left of center, after the most distant landing for a spacecraft from Earth.<br/>
+<h3>:rocket:RCW 86: Historical Supernova Remnant</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2205&#x2F;RCW86_MP.jpg" /><br/>
+<b>Date:</b> 2022-05-28<br/>
+<b>Description:</b> In 185 AD, Chinese astronomers recorded the appearance of a new star in the Nanmen asterism. That part of the sky is identified with Alpha and Beta Centauri on modern star charts. The new star was visible for months and is thought to be the earliest recorded supernova. This deep image shows emission nebula RCW 86, understood to be the remnant of that stellar explosion. The narrowband data trace gas ionized by the still expanding shock wave. Space-based images indicate an abundance of the element iron and lack of a neutron star or pulsar in the remnant, suggesting that the original supernova was Type Ia. Unlike the core collapse supernova explosion of a massive star, a Type Ia supernova is a thermonuclear detonation on a a white dwarf star that accretes material from a companion in a binary star system. Near the plane of our Milky Way galaxy and larger than a full moon on the sky this supernova remnant is too faint to be seen by eye though. RCW 86 is some 8,000 light-years distant and around 100 light-years across.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Saturday, 28 May, 8:57 am GMT+8<br />
+Last refresh: Sunday, 29 May, 9:00 am GMT+8<br />
