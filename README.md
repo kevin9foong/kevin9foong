@@ -11,11 +11,10 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:RCW 86: Historical Supernova Remnant</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2205&#x2F;RCW86_MP.jpg" /><br/>
-<b>Date:</b> 2022-05-28<br/>
-<b>Description:</b> In 185 AD, Chinese astronomers recorded the appearance of a new star in the Nanmen asterism. That part of the sky is identified with Alpha and Beta Centauri on modern star charts. The new star was visible for months and is thought to be the earliest recorded supernova. This deep image shows emission nebula RCW 86, understood to be the remnant of that stellar explosion. The narrowband data trace gas ionized by the still expanding shock wave. Space-based images indicate an abundance of the element iron and lack of a neutron star or pulsar in the remnant, suggesting that the original supernova was Type Ia. Unlike the core collapse supernova explosion of a massive star, a Type Ia supernova is a thermonuclear detonation on a a white dwarf star that accretes material from a companion in a binary star system. Near the plane of our Milky Way galaxy and larger than a full moon on the sky this supernova remnant is too faint to be seen by eye though. RCW 86 is some 8,000 light-years distant and around 100 light-years across.<br/>
+<h3>:rocket:Simulation TNG50: A Galaxy Cluster Forms</h3> 
+<b>Date:</b> 2022-05-29<br/>
+<b>Description:</b> How do clusters of galaxies form?  Since our universe moves too slowly to watch, faster-moving computer simulations are created to help find out. A recent effort is TNG50 from IllustrisTNG, an upgrade of the famous Illustris Simulation. The first part of the featured video tracks cosmic gas (mostly hydrogen) as it evolves into galaxies and galaxy clusters from the early universe to today, with brighter colors marking faster moving gas.  As the universe matures, gas falls into gravitational wells, galaxies forms, galaxies spin, galaxies collide and merge, all while black holes form in galaxy centers and expel surrounding gas at high speeds. The second half of the video switches to tracking stars, showing a galaxy cluster coming together complete with tidal tails and stellar streams. The outflow from black holes in TNG50 is surprisingly complex and details are being compared with our real universe.  Studying how gas coalesced in the early universe helps humanity better understand how our Earth, Sun, and Solar System originally formed.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Sunday, 29 May, 9:00 am GMT+8<br />
+Last refresh: Monday, 30 May, 9:05 am GMT+8<br />
