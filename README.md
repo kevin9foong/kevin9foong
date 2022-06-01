@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Red Crepuscular Rays from an Eclipse</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2205&#x2F;EclipseRays_Bouvier_1638.jpg" /><br/>
-<b>Date:</b> 2022-05-30<br/>
-<b>Description:</b> What&#39;s happening behind that island? Things both expected and unexpected. Expected, perhaps, the pictured rays of light -- called crepuscular rays -- originate from the Sun. Unexpected, though, the Sun was being partially eclipsed by the Moon at the time -- late last month. Expected, perhaps, the Sun&#39;s rays are quite bright as they shine through gaps in below-horizon clouds. Unexpected, though, the crepuscular rays are quite red, likely the result an abundance of aerosols in Earth&#39;s atmosphere scattering away much of the blue light.  Expected, with hope, a memorable scene featuring both the Moon and the Sun, superposed. Unfortunately, from this location -- in Uruguay looking toward Argentina -- clouds obscured the eclipse -- which wasn&#39;t completely unexpected.  However, after packing up to go home, the beauty of bright red crepuscular rays emerged -- quite unexpectedly.  Oh -- and that island on the horizon -- it&#39;s really two islands.<br/>
+<h3>:rocket:Rocket Transits Rippling Sun</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2205&#x2F;FalconSun_Cain_2166.jpg" /><br/>
+<b>Date:</b> 2022-05-31<br/>
+<b>Description:</b> The launch of a rocket at sunrise can result in unusual but intriguing images that feature both the rocket and the Sun. Such was the case last month when a SpaceX Falcon 9 rocket blasted off from NASA&#39;s Kennedy Space Center carrying 53 more Starlink satellites into low Earth orbit. In the featured launch picture, the rocket&#39;s exhaust plume glows beyond its projection onto the distant Sun, the rocket itself appears oddly jagged, and the Sun&#39;s lower edge shows peculiar drip-like ripples. The physical cause of all of these effects is pockets of relatively hot or rarefied air deflecting sunlight less strongly than pockets relatively cool or compressed air: refraction.  Unaware of the Earthly show, active sunspot region 3014 -- on the upper left -- slowly crosses the Sun.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Tuesday, 31 May, 9:00 am GMT+8<br />
+Last refresh: Wednesday, 1 June, 9:08 am GMT+8<br />
