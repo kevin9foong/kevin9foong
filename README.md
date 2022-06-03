@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Tau Herculids Meteors over Kitt Peak Telescopes</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2206&#x2F;TauHerMeteors_Lyu_1280.jpg" /><br/>
-<b>Date:</b> 2022-06-01<br/>
-<b>Description:</b> It wasn&#39;t the storm of the century -- but it was a night to remember. Last night was the peak of the Tau Herculids meteor shower, a usually modest dribble of occasional meteors originating from the disintegrating Comet 73P&#x2F;Schwassmann-Wachmann 3. This year, calculations showed that the Earth might be passing through a particularly dense stream of comet debris -- at best creating a storm of bright meteors streaking out from the constellation of Hercules. What actually happened fell short of a meteor storm, but could be called a decent meteor shower. Featured here is a composite image taken at Kitt Peak National Observatory in Arizona, USA accumulated over 2.5 hours very late on May 30.  Over that time, 19 Tau Herculids meteors were captured, along with 4 unrelated meteors. (Can you find them?)  In the near foreground is the Bok 2.3-meter Telescope with the 4.0-meter Mayall Telescope just behind it. Next year, the annual Tau Herculids are expected to return to its normal low rate, with the next active night forecast for 2049.<br/>
+<h3>:rocket:Lunar Occultation of Venus</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2206&#x2F;OccultationVenusQuentinGineys.gif" /><br/>
+<b>Date:</b> 2022-06-02<br/>
+<b>Description:</b> On May 27 Venus rose as the morning star, near the waning crescent Moon in a predawn sky already full of planets. It was close on the sky to the Moon&#39;s crescent and a conjunction of the second and third brightest celestial beacons was enjoyed by skygazers around the world. But seen from locations along a track through southeast Asia and the Indian Ocean the Moon actually passed in front of Venus in a lunar occultation. In this animated gif the 75 percent illuminated disk of Venus approaches and just begins to disappear behind the sunlit southwestern lunar limb. The telescopic frames used to construct it were captured from Reunion Island in the Indian Ocean around 4:50am local time, with the Moon and Venus very close to the eastern horizon. At the time Venus was over 180 million kilometers from Reunion Island, compared to a lunar distance of a mere 400 thousand kilometers or so. About 50 minutes later Venus emerged from behind the Moon.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Thursday, 2 June, 9:05 am GMT+8<br />
+Last refresh: Friday, 3 June, 8:54 am GMT+8<br />
