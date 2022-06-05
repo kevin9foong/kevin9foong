@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:A 10,000 Kilometer Galactic Bridge</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2206&#x2F;Oudoux-and-Jeff-Graphy-with10000km.jpg" /><br/>
-<b>Date:</b> 2022-06-03<br/>
-<b>Description:</b> With this creative astro-collaboration you can follow the plane of our Milky Way Galaxy as it bridges northern and southern hemisphere skies. To construct the expansive composite nightscape, skies over Observatorio El Sauce in Chile (top) were imaged on the same date but 6 hours later than the skies over the Saint-Veran observatory in the French Alps. The 6 hour time-lag allowed Earth&#39;s rotation to align the Milky Way above domes at the two sites. All exposures were made with similar cameras and lenses mounted on simple tripods. A faint greenish airglow is visible in the dark Chilean sky that also features the Large and Small Magellanic Clouds near the observatory dome. In the French Alps light pollution is apparent, but the distant Andromeda Galaxy can still be spotted near the horizon in the northern night. On planet Earth the two observatories are separated by about 10,000 kilometers.<br/>
+<h3>:rocket:Tau Herculids from Space</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2206&#x2F;20220531_0343HerTau_submit.png" /><br/>
+<b>Date:</b> 2022-06-04<br/>
+<b>Description:</b> On May 31 tens of parallel meteor streaks were recorded in this 8 degree wide field of view of planet Earth&#39;s limb from space. The image is one of a series of 5 minute long observations by the orbiting Yangwang-1 space telescope. It was captured at 03:43 UT, near the peak of the Tau Herculid meteor shower. As predicted, the meteor shower was an active one this year, caused as Earth swept through a relatively dense stream of debris from disintegrating Comet 73P&#x2F;Schwassmann-Wachmann 3, but was lacking bright meteors. Nearly all of the Tau Herculid meteors in the Yangwang-1 image are too faint to be detected by groundbased instruments. But on that date patient earthbound skywatchers under clear skies still enjoyed a memorable showing of the Tau Herculids.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Saturday, 4 June, 8:55 am GMT+8<br />
+Last refresh: Sunday, 5 June, 9:02 am GMT+8<br />
