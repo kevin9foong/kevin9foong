@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:NGC 6188: Dragons of Ara</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2206&#x2F;Ngc6188_Robertson_2000.jpg" /><br/>
-<b>Date:</b> 2022-06-07<br/>
-<b>Description:</b> Do dragons fight on the altar of the sky?  Although it might appear that way, these dragons are illusions made of thin gas and dust. The emission nebula NGC 6188, home to the glowing clouds, is found about 4,000 light years away near the edge of a large molecular cloud unseen at visible wavelengths, in the southern constellation Ara (the Altar). Massive, young stars of the embedded Ara OB1 association were formed in that region only a few million years ago, sculpting the dark shapes and powering the nebular glow with stellar winds and intense ultraviolet radiation. The recent star formation itself was likely triggered by winds and supernova explosions, from previous generations of massive stars, that swept up and compressed the molecular gas. Joining NGC 6188 on this cosmic canvas, visible toward the lower right, is rare emission nebula NGC 6164, also created by one of the region&#39;s massive O-type stars. Similar in appearance to many planetary nebulae, NGC 6164&#39;s striking, symmetric gaseous shroud and faint halo surround its bright central star near the bottom edge. This impressively wide field of view spans over 2 degrees (four full Moons), corresponding to over 150 light years at the estimated distance of NGC 6188.<br/>
+<h3>:rocket:Ship Tracks over the Pacific Ocean</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2206&#x2F;ShipTracks_Terra_4892.jpg" /><br/>
+<b>Date:</b> 2022-06-08<br/>
+<b>Description:</b> What are those unusual streaks? Some images of planet Earth show clear bright streaks that follow the paths of ships.  Known as ship tracks, these low and narrow bands are caused by the ship&#39;s engine exhaust. Water vapor condenses around small bits of exhaust known as aerosols, which soon grow into floating water drops that efficiently reflect sunlight. Ship tracks were first discovered in 1965 in Earth images taken by NASA&#39;s TIROS satellites.  Multiple ship tracks are visible across the featured image that was captured in 2009 over the Pacific Ocean by the MODIS instrument on NASA&#39;s Terra satellite. Inspired by ship-tracks, some scientists have suggested deploying a network of floating buoys in the worlds&#39; oceans that spray salt-aerosol containing sea-water into the air so that, with the help of the wind, streams of sunlight-reflecting clouds would also form.  Why do this?  These human-made clouds could reflect so much sunlight they might help fight global warming.    Today is: World Oceans Day<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Wednesday, 8 June, 8:57 am GMT+8<br />
+Last refresh: Thursday, 9 June, 8:58 am GMT+8<br />
