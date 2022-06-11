@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Cosmic Clouds in Cygnus</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2206&#x2F;CygWideHa-OIIIBiColorImage2_crop2_2048.jpg" /><br/>
-<b>Date:</b> 2022-06-09<br/>
-<b>Description:</b> These cosmic clouds of gas and dust drift through rich star fields along the plane of our Milky Way Galaxy toward the high flying constellation Cygnus. They&#39;re too faint to be seen with the unaided eye though, even on a clear, dark night. Image data from a camera and telephoto lens using narrowband filters was used to construct this 10 degree wide field of view. The deep mosaic reveals a region that includes star forming dust clouds seen in silhouette against the characteristic glow of atomic hydrogen and oxygen gas. NGC 6888 is the standout emission nebula near the top. Blown by winds from a massive Wolf-Rayet star it&#39;s about 25 light-years across and known as the Crescent Nebula. A faint bluish curl just below center in the frame is also the signature of a Wolf-Rayet star. Burning fuel at a prodigious rate and near the end of their stellar lives, both stars will ultimately go out with a bang in a spectacular supernova explosion. Toward the right, a massive, young O type star powers the glow of Sh2-101, the Tulip Nebula.<br/>
+<h3>:rocket:Arp 286: Trio in Virgo</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2206&#x2F;Arp286-202203-CDK24-FLIPL9000-LRGB_NicolasROLLAND_signature_LD.jpg" /><br/>
+<b>Date:</b> 2022-06-10<br/>
+<b>Description:</b> This colorful telescopic field of view features a trio of interacting galaxies almost 90 million light-years away, toward the constellation Virgo. On the right two spiky, foreground Milky Way stars echo the extragalactic hues, a reminder that stars in our own galaxy are like those in distant island universes. With sweeping spiral arms and obscuring dust lanes, the dominant member of the trio, NGC 5566, is enormous, about 150,000 light-years across. Just above it lies smaller, bluish NGC 5569. Near center a third galaxy, NGC 5560, is apparently stretched and distorted by its interaction with massive NGC 5566. The trio is also included in Halton Arp&#39;s 1966 Atlas of Peculiar Galaxies as Arp 286. Of course, such cosmic interactions are now appreciated as part of the evolution of galaxies.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Friday, 10 June, 9:03 am GMT+8<br />
+Last refresh: Saturday, 11 June, 8:56 am GMT+8<br />
