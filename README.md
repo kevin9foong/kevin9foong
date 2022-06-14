@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Find the Man in the Moon</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;1602&#x2F;ManInMoon_Caxete_2770.jpg" /><br/>
-<b>Date:</b> 2022-06-12<br/>
-<b>Description:</b> Have you ever seen the Man in the Moon? This common question plays on the ability of humans to see pareidolia -- imagining familiar icons where they don&#39;t actually exist. The textured surface of Earth&#39;s full Moon is home to numerous identifications of iconic objects, not only in modern western culture but in world folklore throughout history. Examples, typically dependent on the Moon&#39;s perceived orientation, include the Woman in the Moon and the Rabbit in the Moon. One facial outline commonly identified as the Man in the Moon starts by imagining the two dark circular areas -- lunar maria -- here just above the Moon&#39;s center, to be the eyes.  Surprisingly, there actually is a man in this Moon image -- a close look will reveal a real person -- with a telescope -- silhouetted against the Moon. This featured well-planned image was taken in 2016 in Cadalso de los Vidrios in Madrid, Spain. Do you have a favorite object that you see in the Moon?<br/>
+<h3>:rocket:M51: The Whirlpool Galaxy from Hubble</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2206&#x2F;M51_HubbleMiller_5688.jpg" /><br/>
+<b>Date:</b> 2022-06-13<br/>
+<b>Description:</b> The Whirlpool Galaxy is a classic spiral galaxy. At only 30 million light years distant and fully 60 thousand light years across, M51, also known as NGC 5194, is one of the brightest and most picturesque galaxies on the sky.  The featured image is a digital combination of images taken in different colors by the Earth-orbiting Hubble Space Telescope, highlighting many sharp features. Anyone with a good pair of binoculars, however, can see this Whirlpool toward the constellation of the Hunting Dogs (Canes Venatici). M51 is a spiral galaxy of type Sc and is the dominant member of a whole group of galaxies.  Astronomers speculate that M51&#39;s spiral structure is primarily due to its gravitational interaction with the smaller galaxy on the image left.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Monday, 13 June, 9:01 am GMT+8<br />
+Last refresh: Tuesday, 14 June, 9:09 am GMT+8<br />
