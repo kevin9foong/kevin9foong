@@ -11,10 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Game: Super Planet Crash</h3> 
-<b>Date:</b> 2022-06-19<br/>
-<b>Description:</b> Can you create a planetary system that lasts for 1000 years? Super Planet Crash, the featured game, allows you to try.  To create up to ten planets, just click anywhere near the central star.  Planet types can be selected on the left in order of increasing mass: Earth, Super-Earth, Ice giant, Giant planet, Brown dwarf, or Dwarf star. Each planet is gravitationally attracted not only to the central Sun-like star, but to other planets. Points are awarded, with bonus factors applied for increasingly crowded and habitable systems. The game ends after 1000 years or when a planet is gravitationally expelled. Many exoplanetary systems are being discovered in recent years, and Super Planet Crash demonstrates why some remain stable.  As you might suspect after playing Super Planet Crash a few times, there is reason to believe that our own Solar System has lost planets during its formation.<br/>
+<h3>:rocket:Rock Fingers on Mars</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2206&#x2F;MarsFingers_Curiosity_1338.jpg" /><br/>
+<b>Date:</b> 2022-06-20<br/>
+<b>Description:</b> There, just right of center, what is that? The surface of Mars keeps revealing new surprises with the recent discovery of finger-like rock spires. The small nearly-vertical rock outcrops were imaged last month by the robotic Curiosity rover on Mars. Although similar in size and shape to small snakes, the leading explanation for their origin is as conglomerations of small minerals left by water flowing through rock crevices. After these relatively dense minerals filled the crevices, they were left behind when the surrounding rock eroded away.  Famous rock outcrops on Earth with a similar origin are called hoodoos. NASA&#39;s Curiosity Rover continues to search for new signs of ancient water in Gale Crater on Mars, while also providing a geologic background important for future human exploration.   Explore Your Universe: Random APOD Generator<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Monday, 20 June, 9:01 am GMT+8<br />
+Last refresh: Tuesday, 21 June, 9:01 am GMT+8<br />
