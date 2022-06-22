@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Rock Fingers on Mars</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2206&#x2F;MarsFingers_Curiosity_1338.jpg" /><br/>
-<b>Date:</b> 2022-06-20<br/>
-<b>Description:</b> There, just right of center, what is that? The surface of Mars keeps revealing new surprises with the recent discovery of finger-like rock spires. The small nearly-vertical rock outcrops were imaged last month by the robotic Curiosity rover on Mars. Although similar in size and shape to small snakes, the leading explanation for their origin is as conglomerations of small minerals left by water flowing through rock crevices. After these relatively dense minerals filled the crevices, they were left behind when the surrounding rock eroded away.  Famous rock outcrops on Earth with a similar origin are called hoodoos. NASA&#39;s Curiosity Rover continues to search for new signs of ancient water in Gale Crater on Mars, while also providing a geologic background important for future human exploration.   Explore Your Universe: Random APOD Generator<br/>
+<h3>:rocket:Analemma over Taipei</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2206&#x2F;AnalemmaTaipei_Lee_1080.jpg" /><br/>
+<b>Date:</b> 2022-06-21<br/>
+<b>Description:</b> Does the Sun return to the same spot on the sky every day? No.  A better and more visual answer to that question is an analemma, a composite of images taken at the same time and from the same place over the course of a year. The featured analemma was compiled at 4:30 pm many afternoons from Taiwan during 2021, with the city skyline of Taipei in the foreground, including tall Taipei 101. The Sun&#39;s location in December -- at the December solstice -- is shown on the far left, while its location at the June solstice is captured on the far right. Also shown are the positions of the Sun throughout the rest of the day on the solstices and equinoxes.  Today is the June solstice of 2022, the day in Earth&#39;s northern hemisphere when the Sun spends the longest time in the sky.  In many countries, today marks the official beginning of a new season, for example winter in Earth&#39;s southern hemisphere.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Tuesday, 21 June, 9:01 am GMT+8<br />
+Last refresh: Wednesday, 22 June, 9:07 am GMT+8<br />
