@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Filaprom on the Western Limb</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2206&#x2F;AR3038_Filaprom_HA_DS_150mmF20_IMX174_Color_06222022.jpg" /><br/>
-<b>Date:</b> 2022-06-24<br/>
-<b>Description:</b> A solar filament is an enormous stream of incandescent plasma suspended above the active surface of the Sun by looping magnetic fields. Seen against the solar disk it looks dark only because it&#39;s a little cooler, and so slightly dimmer, than the solar photosphere. Suspended above the solar limb the same structure looks bright when viewed against the blackness of space and is called a solar prominence. A filaprom would be both of course, a stream of magnetized plasma that crosses in front of the solar disk and extends beyond the Sun&#39;s edge. In this hydrogen-alpha close-up of the Sun captured on June 22, active region AR3038 is near the center of the frame. Active region AR3032 is seen at the far right, close to the Sun&#39;s western limb. As AR3032 is carried by rotation toward the Sun&#39;s visible edge, what was once a giant filament above it is now partly seen as a prominence, How big is AR3032&#39;s filaprom? For scale planet Earth is shown near the top right corner.<br/>
+<h3>:rocket:Planets of the Solar System</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2206&#x2F;20220624_ALLINEAMENTO_SPECIALEweb.jpg" /><br/>
+<b>Date:</b> 2022-06-25<br/>
+<b>Description:</b> Simultaneous images from four cameras were combined to construct this atmospheric predawn skyscape. The cooperative astro-panorama captures all the planets of the Solar System, just before sunrise on June 24. That foggy morning found innermost planet Mercury close to the horizon but just visible against the twilight, below and left of brilliant Venus. Along with the waning crescent Moon, the other bright naked-eye planets, Mars, Jupiter, and Saturn lie near the ecliptic, arcing up and to the right across the wide field of view. Binoculars would have been required to spot the much fainter planets Uranus and Neptune, though they also were along the ecliptic in the sky. In the foreground are excavations at an ancient Roman villa near Marina di San Nicola, Italy, planet Earth.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Saturday, 25 June, 9:01 am GMT+8<br />
+Last refresh: Sunday, 26 June, 9:04 am GMT+8<br />
