@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Solargraphic Analemmas</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2207&#x2F;Analemma1.jpg" /><br/>
-<b>Date:</b> 2022-07-02<br/>
-<b>Description:</b> For the northern hemisphere June 21 was the summer solstice, the Sun reaching its northernmost declination for the year. That would put it at the top of each of these three figure-8 curves, or analemmas, as it passed through the daytime sky over the village of Proboszczow, Poland. No sequence of digital exposures was used to construct the remarkable image though. Using a pinhole camera fixed to face south during the period June 26, 2021 to June 26, 2022, the image was formed directly on a single sheet of photographic paper, a technique known as solargraphy. The three analemmas are the result of briefly exposing the photo paper through the pinhole each day at 11:00, 12:00, and 13:00 CET. Groups of dashed lines on the sides show partial tracks of the Sun from daily exposures made every 15 minutes. Over the year-long solargraphic photo opportunity clouds blocking the Sun during the pinhole exposures created the dark gaps.<br/>
+<h3>:rocket:Phobos: Doomed Moon of Mars</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2207&#x2F;Phobos_MRO_3374.jpg" /><br/>
+<b>Date:</b> 2022-07-03<br/>
+<b>Description:</b> This moon is doomed. Mars, the red planet named for the Roman god of war, has two tiny moons, Phobos and Deimos, whose names are derived from the Greek for Fear and Panic. These martian moons may well be captured asteroids originating in the main asteroid belt between Mars and Jupiter or perhaps from even more distant reaches of our Solar System. The larger moon, Phobos, is indeed seen to be a cratered, asteroid-like object in this stunning color image from the robotic Mars Reconnaissance Orbiter, with objects as small as 10 meters visible. But Phobos orbits so close to Mars - about 5,800 kilometers above the surface compared to 400,000 kilometers for our Moon - that gravitational tidal forces are dragging it down. In perhaps 50 million years, Phobos is expected to disintegrate into a ring of debris.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Sunday, 3 July, 9:08 am GMT+8<br />
+Last refresh: Monday, 4 July, 9:09 am GMT+8<br />
