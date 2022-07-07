@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:A Molten Galaxy Einstein Ring</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2207&#x2F;MoltenEinsteinRing_HubbleLodge_2972.jpg" /><br/>
-<b>Date:</b> 2022-07-05<br/>
-<b>Description:</b> It is difficult to hide a galaxy behind a cluster of galaxies.  The closer cluster&#39;s gravity will act like a huge lens, pulling images of the distant galaxy around the sides and greatly distorting them.  This is just the case observed in the featured image recently re-processed image from the Hubble Space Telescope.  The cluster GAL-CLUS-022058c is composed of many galaxies and is  lensing the image of a yellow-red background galaxy into arcs seen around the image center.  Dubbed a molten Einstein ring for its unusual shape, four images of the same background galaxy have been identified. Typically, a foreground galaxy cluster can only create such smooth arcs if most of its mass is smoothly distributed -- and therefore not concentrated in the cluster galaxies visible.  Analyzing the positions of these gravitational arcs gives astronomers a method to estimate the dark matter distribution in galaxy clusters, as well as infer when the stars in these early galaxies began to form.   New APOD Social Mirrors in Arabic: On Facebook, Instagram, and Twitter<br/>
+<h3>:rocket:Milky Way Motion in 3D from Gaia</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2207&#x2F;MilkyWayMotion_Gaia_2000.jpg" /><br/>
+<b>Date:</b> 2022-07-06<br/>
+<b>Description:</b> Our sky is alive with the streams of stars.  The motions of 26 million Milky Way stars are evident in the featured map constructed from recent data taken by ESA&#39;s Gaia satellite. Stars colored blue are moving toward us, while red indicates away. Lines depict the motion of the stars across the sky. The large blue areas on the left and red areas on the map&#39;s right give the overall impression that stars in the Milky Way are rotating around the center. Understanding details about the motion of stars is helping humanity to better understand the complex history of our Milky Way galaxy and the origin of our Sun.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Wednesday, 6 July, 9:14 am GMT+8<br />
+Last refresh: Thursday, 7 July, 9:06 am GMT+8<br />
