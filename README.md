@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Roots on a Rotating Planet</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2207&#x2F;StarTreels.jpg" /><br/>
-<b>Date:</b> 2022-07-08<br/>
-<b>Description:</b> With roots on a rotating planet, an old tree is centered in this sequence of 137 exposures each 20 seconds long, recorded one night from northern Sicily. Digital camera and fisheye lens were fixed to a tripod to capture the dramatic timelapse, so the stars trailed through the region&#39;s dark sky. Of course that makes it easy to spot the planet&#39;s north celestial pole. The extension of Earth&#39;s axis of rotation into space is toward the upper left, at the center of the concentric star trail arcs. The Milky Way is there too. The plane of our galaxy stretches across the wide field of view from north to east (left to right) creating a broader luminous band of diffuse starlight.<br/>
+<h3>:rocket:Saturn and the ISS</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2207&#x2F;ISS_Saturn_TGlenn.jpg" /><br/>
+<b>Date:</b> 2022-07-09<br/>
+<b>Description:</b> Soaring high in skies around planet Earth, bright planet Saturn was a star of June&#39;s morning planet parade. But very briefly on June 24 it posed with a bright object in low Earth orbit, the International Space Station. On that date from a school parking lot in Temecula, California the ringed-planet and International Space Station were both caught in this single high-speed video frame. Though Saturn was shining at +0.5 stellar magnitude the space station was an even brighter -3 on the magnitude scale. That difference in brightness is faithfully represented in the video capture frame. In the challenging image, the orbiting ISS was at a range of 602 kilometers. Saturn was about 1.4 billion kilometers from the school parking lot.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Saturday, 9 July, 8:55 am GMT+8<br />
+Last refresh: Sunday, 10 July, 9:10 am GMT+8<br />
