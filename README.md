@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Saturn and the ISS</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2207&#x2F;ISS_Saturn_TGlenn.jpg" /><br/>
-<b>Date:</b> 2022-07-09<br/>
-<b>Description:</b> Soaring high in skies around planet Earth, bright planet Saturn was a star of June&#39;s morning planet parade. But very briefly on June 24 it posed with a bright object in low Earth orbit, the International Space Station. On that date from a school parking lot in Temecula, California the ringed-planet and International Space Station were both caught in this single high-speed video frame. Though Saturn was shining at +0.5 stellar magnitude the space station was an even brighter -3 on the magnitude scale. That difference in brightness is faithfully represented in the video capture frame. In the challenging image, the orbiting ISS was at a range of 602 kilometers. Saturn was about 1.4 billion kilometers from the school parking lot.<br/>
+<h3>:rocket:In the Center of the Cat&#39;s Eye Nebula</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2207&#x2F;CatsEye_HubbleVillaVerde_960.jpg" /><br/>
+<b>Date:</b> 2022-07-10<br/>
+<b>Description:</b> Three thousand light-years away, a dying star throws off shells of glowing gas. This image from the Hubble Space Telescope reveals the Cat&#39;s Eye Nebula (NGC 6543), to be one of the most complex planetary nebulae known. Spanning half a light-year, the features seen in the Cat&#39;s Eye are so complex that astronomers suspect the bright central object may actually be a binary star system. The term planetary nebula, used to describe this general class of objects, is misleading. Although these objects may appear round and planet-like in small telescopes, high resolution images with large telescopes reveal them to be stars surrounded by cocoons of gas blown off in the late stages of stellar evolution. Gazing into this Cat&#39;s Eye, astronomers may well be seeing more than detailed structure, they may be seeing the fate of our Sun, destined to enter its own planetary nebula phase of evolution ... in about 5 billion years.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Sunday, 10 July, 9:10 am GMT+8<br />
+Last refresh: Monday, 11 July, 9:05 am GMT+8<br />
