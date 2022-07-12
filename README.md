@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:In the Center of the Cat&#39;s Eye Nebula</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2207&#x2F;CatsEye_HubbleVillaVerde_960.jpg" /><br/>
-<b>Date:</b> 2022-07-10<br/>
-<b>Description:</b> Three thousand light-years away, a dying star throws off shells of glowing gas. This image from the Hubble Space Telescope reveals the Cat&#39;s Eye Nebula (NGC 6543), to be one of the most complex planetary nebulae known. Spanning half a light-year, the features seen in the Cat&#39;s Eye are so complex that astronomers suspect the bright central object may actually be a binary star system. The term planetary nebula, used to describe this general class of objects, is misleading. Although these objects may appear round and planet-like in small telescopes, high resolution images with large telescopes reveal them to be stars surrounded by cocoons of gas blown off in the late stages of stellar evolution. Gazing into this Cat&#39;s Eye, astronomers may well be seeing more than detailed structure, they may be seeing the fate of our Sun, destined to enter its own planetary nebula phase of evolution ... in about 5 billion years.<br/>
+<h3>:rocket:Andromeda over the Sahara Desert</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2207&#x2F;SaharaAndromeda_Coy_6135.jpg" /><br/>
+<b>Date:</b> 2022-07-11<br/>
+<b>Description:</b> What is the oldest thing you can see? At 2.5 million light years distant, the answer for the unaided eye is the Andromeda galaxy, because its photons are 2.5 million years old when they reach you. Most other apparent denizens of the night sky -- stars, clusters, and nebulae -- appear as they were only a few hundred to a few thousand years ago, as they lie well within our own Milky Way Galaxy.  Given its distance, light from Andromeda is likely also the farthest object that you can see.  Also known as M31, the Andromeda Galaxy dominates the center of the featured zoomed image, taken from the Sahara Desert in Morocco last month.  The featured image is a combination of three background and one foreground exposure -- all taken with the same camera and from the same location and on the same calendar day -- with the foreground image taken during the evening blue hour. M110, a satellite galaxy of Andromenda is visible just above and to the left of M31&#39;s core. As cool as it may be to see this neighboring galaxy to our Milky Way with your own eyes, long duration camera exposures can pick up many faint and breathtaking details.  Recent data indicates that our Milky Way Galaxy will collide and combine with the similarly-sized Andromeda galaxy in a few billion years.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Monday, 11 July, 9:05 am GMT+8<br />
+Last refresh: Tuesday, 12 July, 9:08 am GMT+8<br />
