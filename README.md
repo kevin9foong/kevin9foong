@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Noctilucent Clouds over Paris</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2207&#x2F;NoctilucentParis_Kulik_1080.jpg" /><br/>
-<b>Date:</b> 2022-07-12<br/>
-<b>Description:</b> It&#39;s northern noctilucent cloud season. Composed of small ice crystals forming only during specific conditions in the upper atmosphere, noctilucent clouds may become visible at sunset during late summer when illuminated by sunlight from below.  Noctilucent clouds are the highest clouds known and now established to be polar mesospheric clouds observed from the ground.  Although observed with NASA&#39;s AIM satellite since 2007, much about noctilucent clouds remains unknown and so a topic of active research. The featured image shows expansive and rippled noctilucent clouds wafting over Paris, France. This year, several northern locations are already reporting especially vivid displays of noctilucent clouds.<br/>
+<h3>:rocket:Webb&#39;s First Deep Field</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2207&#x2F;STScI-SMACS0723_webb.png" /><br/>
+<b>Date:</b> 2022-07-13<br/>
+<b>Description:</b> This is the deepest, sharpest infrared image of the cosmos so far. The view of the early Universe toward the southern constellation Volans was achieved in 12.5 hours of exposure with the NIRCam instrument on the James Webb Space Telescope. Of course the stars with six visible spikes are well within our own Milky Way. That diffraction pattern is characteristic of Webb&#39;s 18 hexagonal mirror segments operating together as a single 6.5 meter diameter primary mirror. The thousands of galaxies flooding the field of view are members of the distant galaxy cluster SMACS0723-73, some 4.6 billion light-years away. Luminous arcs that seem to infest the deep field are even more distant galaxies though. Their images are distorted and magnified by the dark matter dominated mass of the galaxy cluster, an effect known as gravitational lensing. Analyzing light from two separate arcs below the bright spiky star, Webb&#39;s NIRISS instrument indicates the arcs are both images of the same background galaxy. And that galaxy&#39;s light took about 9.5 billion years to reach the James Webb Space Telescope.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Wednesday, 13 July, 9:02 am GMT+8<br />
+Last refresh: Thursday, 14 July, 9:08 am GMT+8<br />
