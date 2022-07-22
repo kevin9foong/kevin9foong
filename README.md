@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Jupiter and Ring in Infrared from Webb</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2207&#x2F;JupiterRing_WebbSchmidt_2429.jpg" /><br/>
-<b>Date:</b> 2022-07-20<br/>
-<b>Description:</b> Why does Jupiter have rings?  Jupiter&#39;s main ring was discovered in 1979 by NASA&#39;s passing Voyager 1 spacecraft, but its origin was then a mystery.  Data from NASA&#39;s Galileo spacecraft that orbited Jupiter from 1995 to 2003, however, confirmed the hypothesis that this ring was created by meteoroid impacts on small nearby moons.  As a small meteoroid strikes tiny Metis, for example, it will bore into the moon, vaporize, and explode dirt and dust off into a Jovian orbit. The featured image of Jupiter in infrared light by the James Webb Space Telescope shows not only Jupiter and its clouds, but this ring as well. Also visible is Jupiter&#39;s Great Red Spot (GRS) -- in comparatively light color on the right, Jupiter&#39;s large moon Europa -- in the center of diffraction spikes on the left, and Europa&#39;s shadow -- next to the GRS.  Several features in the image are not yet well understood, including the seemingly separated cloud layer on Jupiter&#39;s right limb.    Celestial Surprise: What picture did APOD feature on your birthday? (post 1995)<br/>
+<h3>:rocket:Messier 10 and Comet</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2207&#x2F;C2017k2cumuloM10v4_2048.jpg" /><br/>
+<b>Date:</b> 2022-07-21<br/>
+<b>Description:</b> Imaged on July 15 2022, comet C&#x2F;2017 K2 (PanSTARRS) had a Messier moment, sharing this wide telescopic field of view with globular star cluster Messier 10. Of course M10 was cataloged by 18th century comet hunter Charles Messier as the 10th object on his list of things that were definitely not comets. While M10 is about 14 thousand light-years distant, this comet PanSTARRS was about 15 light-minutes from our fair planet following its July 14 closest approach. Its greenish coma and dust tail entertaining 21st century comet watchers, C&#x2F;2017 K2 is expected to remain a fine telescopic comet in northern summer skies. On a maiden voyage from our Solar System&#39;s remote Oort Cloud this comet PanSTARRS was discovered in May 2017 when it was beyond the orbit of Saturn. At the time that made it the most distant active inbound comet known. Its closest approach to the Sun will be within 1.8 astronomical units on December 19, beyond the orbital distance of Mars.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Thursday, 21 July, 9:05 am GMT+8<br />
+Last refresh: Friday, 22 July, 9:08 am GMT+8<br />
