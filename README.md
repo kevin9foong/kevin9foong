@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Saturn in Infrared from Cassini</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2207&#x2F;SaturnIR_CassiniKakitsev_1024.jpg" /><br/>
-<b>Date:</b> 2022-07-24<br/>
-<b>Description:</b> Many details of Saturn appear clearly in infrared light.  Bands of clouds show great structure, including long stretching storms.  Also quite striking in infrared is the unusual hexagonal cloud pattern surrounding Saturn&#39;s North Pole.  Each side of the dark hexagon spans roughly the width of our Earth. The hexagon&#39;s existence was not predicted, and its origin and likely stability remains a topic of research.  Saturn&#39;s famous rings circle the planet and cast shadows below the equator. The featured image was taken by the robotic Cassini spacecraft in 2014 in several infrared colors.  In 2017 September, the Cassini mission was brought to a dramatic conclusion when the spacecraft was  directed to dive into ringed giant.    Explore Your Universe: Random APOD Generator<br/>
+<h3>:rocket:Find the New Moon</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2207&#x2F;FindTheMoon_soltanolkotabi_1500.jpg" /><br/>
+<b>Date:</b> 2022-07-25<br/>
+<b>Description:</b> Can you find the Moon? This usually simple task can be quite difficult.  Even though the Moon is above your horizon half of the time, its phase can be anything from crescent to full. The featured image was taken in late May from Sant Martí d&#39;Empúries, Spain, over the Mediterranean Sea in the early morning. One reason you can&#39;t find this moon is because it is very near to its new phase, when very little of the half illuminated by the Sun is visible to the Earth. Another reason is because this moon is near the horizon and so seen through a long path of Earth&#39;s atmosphere -- a path which dims the already faint crescent. Any crescent moon is only visible near the direction the Sun, and so only locatable near sunrise or sunset. The Moon runs through all of its phases in a month (moon-th), and this month the thinnest sliver of a crescent -- a new moon -- will occur in three days.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Monday, 25 July, 9:05 am GMT+8<br />
+Last refresh: Tuesday, 26 July, 9:07 am GMT+8<br />
