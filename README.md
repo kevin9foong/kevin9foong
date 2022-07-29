@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Crepuscular Moon Rays over Denmark</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2207&#x2F;CrepuscularMoonrise_Merzyakov_1308.jpg" /><br/>
-<b>Date:</b> 2022-07-27<br/>
-<b>Description:</b> This moon made quite an entrance. Typically, a moonrise is quiet and serene.  Taking a few minutes to fully peek above the horizon, Earth&#39;s largest orbital companion can remain relatively obscure until it rises high in the nighttime sky. About a week ago, however, and despite being only half lit by the Sun, this rising moon put on a show -- at least from this location. The reason was that, as seen from Limfjord in Nykøbing Mors, Denmark, the moon rose below scattered clouds near the horizon.  The result, captured here in a single exposure, was that moonlight poured through gaps in the clouds to created what are called crepuscular rays.  These rays can fan out dramatically across the sky when starting near the horizon, and can even appear to converge on the other side of the sky. Well behind our Moon, stars from our Milky Way galaxy dot the background, and our galaxy&#39;s largest orbital companion -- the Andromeda galaxy -- can be found on the upper left.    Almost Hyperspace: Random APOD Generator<br/>
+<h3>:rocket:North Celestial Tree</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2207&#x2F;AncientTreeNCP_Dai.jpg" /><br/>
+<b>Date:</b> 2022-07-28<br/>
+<b>Description:</b> An ancient tree seems to reach out and touch Earth&#39;s North Celestial Pole in this well-planned night skyscape. Consecutive exposures for the timelapse composition were recorded with a camera fixed to a tripod in the Yiwu Desert Poplar Forests in northwest Xinjiang, China. The graceful star trail arcs reflect Earth&#39;s daily rotation around its axis. By extension, the axis of rotation leads to the center of the concentric arcs in the night sky. Known as the North Star, bright star Polaris is a friend to northern hemisphere night sky photographers and celestial navigators alike. That&#39;s because Polaris lies very close to the North Celestial Pole on the sky. Of course it can be found at the tip of an outstretched barren branch in a postcard from a rotating planet.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Thursday, 28 July, 9:04 am GMT+8<br />
+Last refresh: Friday, 29 July, 9:06 am GMT+8<br />
