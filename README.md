@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:North Celestial Tree</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2207&#x2F;AncientTreeNCP_Dai.jpg" /><br/>
-<b>Date:</b> 2022-07-28<br/>
-<b>Description:</b> An ancient tree seems to reach out and touch Earth&#39;s North Celestial Pole in this well-planned night skyscape. Consecutive exposures for the timelapse composition were recorded with a camera fixed to a tripod in the Yiwu Desert Poplar Forests in northwest Xinjiang, China. The graceful star trail arcs reflect Earth&#39;s daily rotation around its axis. By extension, the axis of rotation leads to the center of the concentric arcs in the night sky. Known as the North Star, bright star Polaris is a friend to northern hemisphere night sky photographers and celestial navigators alike. That&#39;s because Polaris lies very close to the North Celestial Pole on the sky. Of course it can be found at the tip of an outstretched barren branch in a postcard from a rotating planet.<br/>
+<h3>:rocket:SOFIA&#39;s Southern Lights</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2207&#x2F;ASC05954-Edit.jpg" /><br/>
+<b>Date:</b> 2022-07-29<br/>
+<b>Description:</b> SOFIA, the Stratospheric Observatory for Infrared Astronomy, is a Boeing 747SP aircraft modified to carry a large reflecting telescope into the stratosphere. The ability of the airborne facility to climb above about 99 percent of Earth&#39;s infrared-blocking atmosphere has allowed researchers to observe from almost anywhere over the planet. On a science mission flying deep into the southern auroral oval, astronomer Ian Griffin, director of New Zealand’s Otago Museum, captured this view from the observatory&#39;s south facing starboard side on July 17. Bright star Canopus shines in the southern night above curtains of aurora australis, or southern lights. The plane was flying far south of New Zealand at the time at roughly 62 degrees southern latitude. Unfortunately, after a landing at Christchurch severe weather damaged SOFIA requiring repairs and the cancellation of the remainder of its final southern hemisphere deployment.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Friday, 29 July, 9:06 am GMT+8<br />
+Last refresh: Saturday, 30 July, 9:02 am GMT+8<br />
