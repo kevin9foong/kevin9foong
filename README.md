@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Meteor before Galaxy</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2208&#x2F;MeteorM31_hemmerich_1948.jpg" /><br/>
-<b>Date:</b> 2022-08-07<br/>
-<b>Description:</b> What&#39;s that green streak in front of the Andromeda galaxy? A meteor. While photographing the Andromeda galaxy in 2016, near the peak of the Perseid Meteor Shower, a small pebble from deep space crossed right in front of our Milky Way Galaxy&#39;s far-distant companion. The small meteor took only a fraction of a second to pass through this 10-degree field.  The meteor flared several times while braking violently upon entering Earth&#39;s atmosphere.  The green color was created, at least in part, by the meteor&#39;s gas glowing as it vaporized. Although the exposure was timed to catch a Perseid meteor, the orientation of the imaged streak seems a better match to a meteor from the Southern Delta Aquariids, a meteor shower that peaked a few weeks earlier.  Not coincidentally, the Perseid Meteor Shower peaks later this week, although this year the meteors will have to outshine a sky brightened by a nearly full moon.<br/>
+<h3>:rocket:The Lagoon Nebula without Stars</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2208&#x2F;LagoonStarFree_Dhar_1251.jpg" /><br/>
+<b>Date:</b> 2022-08-08<br/>
+<b>Description:</b> Ridges of glowing interstellar gas and dark dust clouds inhabit the turbulent, cosmic depths of the Lagoon Nebula. Also known as M8, the bright star forming region is about 5,000 light-years distant. But it still makes for a popular stop on telescopic tours of the constellation Sagittarius, toward the center of our Milky Way Galaxy. Dominated by the telltale red emission of ionized hydrogen atoms recombining with stripped electrons, this stunning, deep view of the Lagoon is nearly 100 light-years across.  Right of center, the bright, compact, hourglass shape is gas ionized and sculpted by energetic radiation and extreme stellar winds from a massive young star. In fact, although digitally removed from the featured image, the many bright stars of open cluster NGC 6530 drift within the nebula, just formed in the Lagoon several million years ago.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Monday, 8 August, 9:02 am GMT+8<br />
+Last refresh: Tuesday, 9 August, 9:09 am GMT+8<br />
