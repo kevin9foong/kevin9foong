@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Dust Clouds of the Pacman Nebula</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2208&#x2F;Pacman_Struble_1222.jpg" /><br/>
-<b>Date:</b> 2022-08-10<br/>
-<b>Description:</b> Stars can create huge and intricate dust sculptures from the dense and dark molecular clouds from which they are born.  The tools the stars use to carve their detailed works are high energy light and fast stellar winds.  The heat they generate evaporates the dark molecular dust as well as causing ambient hydrogen gas to disperse and glow red.   Pictured here, a new open cluster of stars designated IC 1590 is nearing completion around the intricate interstellar dust structures in the emission nebula  NGC 281, dubbed the Pac-man Nebula because of its overall shape.  The dust cloud on the upper left is classified as a  Bok Globule as it may gravitationally collapse and form a star -- or stars. The Pacman Nebula lies about 10,000 light years away toward the constellation of Cassiopeia.<br/>
+<h3>:rocket:Perseids and MAGIC</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2208&#x2F;MagicPerseid001.jpg" /><br/>
+<b>Date:</b> 2022-08-11<br/>
+<b>Description:</b> On August 11, 2021 a multi-mirror, 17 meter-diameter MAGIC telescope reflected this starry night sky from the Roque de los Muchachos European Northern Observatory on the Canary Island of La Palma. MAGIC stands for Major Atmospheric Gamma Imaging Cherenkov. The telescopes can see the brief flashes of optical light produced in particle air showers as high-energy gamma rays impact the Earth&#39;s upper atmosphere. To the dark-adapted eye the mirror segments offer a tantalizing reflection of stars and nebulae along the plane of our Milky Way galaxy. But directly behind the segmented mirror telescope, low on the horizon, lies the constellation Perseus. And on that date the dramatic composite nightscape also captured meteors streaming from the radiant of the annual Perseid meteor shower. This year the Perseid shower activity will again peak around August 13 but perseid meteors will have to compete with the bright light of a Full Moon.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Thursday, 11 August, 9:01 am GMT+8<br />
+Last refresh: Friday, 12 August, 9:01 am GMT+8<br />
