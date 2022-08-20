@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Full Moon Perseids</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2208&#x2F;perseids2022jcc2k.jpg" /><br/>
-<b>Date:</b> 2022-08-18<br/>
-<b>Description:</b> The annual Perseid meteor shower was near its peak on August 13. As planet Earth crossed through streams of debris left by periodic Comet Swift-Tuttle meteors rained in northern summer night skies. But even that night&#39;s nearly Full Moon shining near the top of this composited view couldn&#39;t hide all of the popular shower&#39;s meteor streaks. The image captures some of the brightest perseid meteors in many short exposures recorded over more than two hours before the dawn. It places the shower&#39;s radiant in the heroic constellation of Perseus just behind a well-lit medieval tower in the village of Sant Llorenc de la Muga, Girona, Spain. Observed in medieval times, the Perseid meteor shower is also known in Catholic tradition as the Tears of St. Lawrence, and festivities are celebrated close to the annual peak of the meteor shower. Joining the Full Moon opposite the Sun, bright planet Saturn also shines in the frame at the upper right.<br/>
+<h3>:rocket:Saturn: 1993 - 2022</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2208&#x2F;Saturn1993-2022Lb.jpg" /><br/>
+<b>Date:</b> 2022-08-19<br/>
+<b>Description:</b> Saturn is the most distant planet of the Solar System easily visible to the unaided eye. With this extraordinary, long-term astro-imaging project begun in 1993, you can follow the ringed gas giant for one Saturn year as it wanders once around the ecliptic plane, finishing a single orbit around the Sun by 2022. Constructed from individual images made over 29 Earth years, the split panorama is centered along the ecliptic and crossed by the plane of our Milky Way galaxy. Saturn&#39;s position in 1993 is at the right side, upper panel in the constellation Capricornus and progresses toward the left. It returns to the spot in Capricornus at left in the lower panel in 2022. The consistent imaging shows Saturn appears slightly brighter during the years 2000-2005 and 2015-2019, periods when its beautiful rings were tilted more face-on to planet Earth.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Friday, 19 August, 9:07 am GMT+8<br />
+Last refresh: Saturday, 20 August, 9:02 am GMT+8<br />
