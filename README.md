@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Saturn: 1993 - 2022</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2208&#x2F;Saturn1993-2022Lb.jpg" /><br/>
-<b>Date:</b> 2022-08-19<br/>
-<b>Description:</b> Saturn is the most distant planet of the Solar System easily visible to the unaided eye. With this extraordinary, long-term astro-imaging project begun in 1993, you can follow the ringed gas giant for one Saturn year as it wanders once around the ecliptic plane, finishing a single orbit around the Sun by 2022. Constructed from individual images made over 29 Earth years, the split panorama is centered along the ecliptic and crossed by the plane of our Milky Way galaxy. Saturn&#39;s position in 1993 is at the right side, upper panel in the constellation Capricornus and progresses toward the left. It returns to the spot in Capricornus at left in the lower panel in 2022. The consistent imaging shows Saturn appears slightly brighter during the years 2000-2005 and 2015-2019, periods when its beautiful rings were tilted more face-on to planet Earth.<br/>
+<h3>:rocket:Stardust and Comet Tails</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2208&#x2F;C2017K2_220818.jpg" /><br/>
+<b>Date:</b> 2022-08-20<br/>
+<b>Description:</b> Heading for its closest approach to the Sun, or perihelion, on December 19 comet C&#x2F;2017 K2 (PanSTARRS) remains a sight for telescopic observers as it sweeps through planet Earth&#39;s skies in the constellation Scorpius. The comet currently sports a greenish coma, long whitish dust tail, and short ion tail in this deep image from August 18. The 2x3 degree wide field of view includes part of the dusty nebula IC 4592 reflecting blue starlight. Also known as the Blue Horsehead Nebula, IC 4592 is about 400 light-years distant while the comet is just under 17 light-minutes away. First spotted at a distance well beyond the orbit of Saturn C&#x2F;2017 K2 is on its maiden voyage to the inner solar system, a pristine visitor from the remote Oort cloud.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Saturday, 20 August, 9:02 am GMT+8<br />
+Last refresh: Sunday, 21 August, 9:04 am GMT+8<br />
