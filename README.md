@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Meteor &amp; Milky Way over the Mediterranean</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2208&#x2F;MeteorGalaxy_Looten_6325.jpg" /><br/>
-<b>Date:</b> 2022-08-23<br/>
-<b>Description:</b> Careful planning made this a nightscape to remember. First, the night itself was chosen to occur during the beginning of this year&#39;s Perseid Meteor Shower.  Next, the time of night was chosen to be before the bright Moon would rise and dominate the night sky&#39;s brightness. The picturesque foreground was selected to be a rocky beach of the Mediterranean Sea in Le Dramont, France, with, at the time, île d’Or island situated near the ominously descending central band of our Milky Way Galaxy.  Once everything was set and with the weather cooperating, all of the frames for this seemingly surreal nightscape were acquired within 15 minutes. What you can&#39;t see is that, on this night, the astrophotographer brought along his father who, although unskilled in modern sky-capture techniques, once made it a point to teach his child about the sky.    Perseid Meteor Shower 2022 Gallery: Notable Submissions to APOD<br/>
+<h3>:rocket:The Cartwheel Galaxy from Webb</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2208&#x2F;Cartwheel_Webb_2000.jpg" /><br/>
+<b>Date:</b> 2022-08-24<br/>
+<b>Description:</b> To some, it looks like a wheel of a cart. In fact, because of its outward appearance, the presence of a central galaxy, and its connection with what looks like the spokes of a wheel, the galaxy on the right is known as the Cartwheel Galaxy. To others, however, it looks like a complicated interaction between galaxies awaiting explanation. Along with the two galaxies on the left, the Cartwheel is part of a group of galaxies about 500 million light years away in the constellation Sculptor.  The large galaxy&#39;s rim spans over 100,000 light years and is composed of star forming regions filled with extremely bright and massive stars.  The Cartwheel&#39;s ring-like shape is the result of gravitational disruption caused by a smaller galaxy passing through a large one, compressing the interstellar gas and dust and causing a star formation wave to move out like a ripple across the surface of a pond. The featured recent image of the Cartwheel Galaxy by the Webb Space Telescope reveals new details not only about where stars are forming, but also about activity near the galaxy&#39;s central black hole.   Teachers &amp; Students: Ideas for utilizing APOD in the classroom<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Wednesday, 24 August, 9:12 am GMT+8<br />
+Last refresh: Thursday, 25 August, 9:15 am GMT+8<br />
