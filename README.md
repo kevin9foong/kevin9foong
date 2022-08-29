@@ -11,11 +11,10 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:IC 5146: The Cocoon Nebula</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2208&#x2F;IC5146JenkinsAB3.jpg" /><br/>
-<b>Date:</b> 2022-08-27<br/>
-<b>Description:</b> Inside the Cocoon Nebula is a newly developing cluster of stars. Cataloged as IC 5146, the beautiful nebula is nearly 15 light-years wide. Climbing high in northern summer night skies, it&#39;s located some 4,000 light years away toward the constellation Cygnus the Swan. Like other star forming regions, it stands out in red, glowing, hydrogen gas excited by young, hot stars, and dust-reflected starlight at the edge of an otherwise invisible molecular cloud.  In fact, the bright star found near the center of this nebula is likely only a few hundred thousand years old, powering the nebular glow as it clears out a cavity in the molecular cloud&#39;s star forming dust and gas. A 29 hour long integration with a small telescope from Ayr, Ontario, Canada resulted in this exceptionally deep color view tracing tantalizing features within and surrounding the dusty stellar nursery.<br/>
+<h3>:rocket:Perijove 11: Passing Jupiter</h3> 
+<b>Date:</b> 2022-08-28<br/>
+<b>Description:</b> Here comes Jupiter! NASA&#39;s robotic spacecraft Juno is continuing on its highly-elongated orbits around our Solar System&#39;s largest planet.  The featured video is from perijove 11 in early 2018, the eleventh time Juno has passed near Jupiter since it arrived in mid-2016.  This time-lapse, color-enhanced movie covers about four hours and morphs between 36 JunoCam images. The video begins with Jupiter rising as Juno approaches from the north. As Juno reaches its closest view -- from about 3,500 kilometers over Jupiter&#39;s cloud tops -- the spacecraft captures the great planet in tremendous detail. Juno passes light zones and dark belt of clouds that circle the planet, as well as numerous swirling circular storms, many of which are larger than hurricanes on Earth.  After the perijove, Jupiter recedes into the distance, then displaying the unusual clouds that appear over Jupiter&#39;s south.  To get desired science data, Juno swoops so close to Jupiter that its instruments are exposed to very high levels of radiation.   Teachers &amp; Students: Ideas for utilizing APOD in the classroom<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Sunday, 28 August, 9:08 am GMT+8<br />
+Last refresh: Monday, 29 August, 9:19 am GMT+8<br />
