@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:A Long Snaking Filament on the Sun</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2209&#x2F;SnakingFilament_Friedman_960.jpg" /><br/>
-<b>Date:</b> 2022-09-13<br/>
-<b>Description:</b> rlier this month, the Sun exhibited one of the longer filaments on record.  Visible as the bright curving streak around the image center, the snaking filament&#39;s full extent was estimated to be over half of the Sun&#39;s radius -- more than 350,000 kilometers long. A filament is composed of  hot gas held aloft by the Sun&#39;s magnetic field, so that viewed from the side it would appear as a raised prominence.  A different, smaller prominence is simultaneously visible at the Sun&#39;s edge. The featured image is in false-color and color-inverted to highlight not only the filament but the Sun&#39;s carpet chromosphere.  The bright dot on the upper right is actually a dark sunspot about the size of the Earth.  Solar filaments typically last from hours to days, eventually collapsing to return hot plasma back to the Sun. Sometimes, though, they explode and expel particles into the Solar System, some of which trigger auroras on Earth. The pictured filament appeared in early September and continued to hold steady for about a week.<br/>
+<h3>:rocket:Waves of the Great Lacerta Nebula</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2209&#x2F;GreatLacerta_Ruuth_3719.jpg" /><br/>
+<b>Date:</b> 2022-09-14<br/>
+<b>Description:</b> It is one of the largest nebulas on the sky -- why isn&#39;t it better known? Roughly the same angular size as the Andromeda Galaxy, the Great Lacerta Nebula can be found toward the constellation of the Lizard (Lacerta). The emission nebula is difficult to see with wide-field binoculars because it is so faint, but also usually difficult to see with a large telescope because it is so great in angle -- spanning about three degrees. The depth, breadth, waves, and beauty of the nebula -- cataloged as Sharpless 126 (Sh2-126) -- can best be seen and appreciated with a long duration camera exposure. The featured image is one such combined exposure -- in this case 10 hours over five different colors and over six nights during this past June and July at the IC Astronomy Observatory in Spain. The hydrogen gas in the Great Lacerta Nebula glows red because it is excited by light from the bright star 10 Lacertae, one of the bright blue stars just above the red-glowing nebula&#39;s center.  The stars and nebula are about 1,200 light years distant.    Harvest Full Moon 2022: Notable Submissions to APOD<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Wednesday, 14 September, 9:10 am GMT+8<br />
+Last refresh: Thursday, 15 September, 9:18 am GMT+8<br />
