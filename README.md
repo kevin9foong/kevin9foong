@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Analemma over the Callanish Stones</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2209&#x2F;CallanishAnalemma_Petricca_1280.jpg" /><br/>
-<b>Date:</b> 2022-09-18<br/>
-<b>Description:</b> If you went outside at the same time every day and took a picture that included the Sun, how would the Sun&#39;s position change?  A more visual answer to that question is an analemma, a composite image taken from the same spot at the same time over the course of a year.  The featured analemma was composed from images taken every few days at noon near the village of Callanish in the Outer Hebrides in Scotland, UK.  In the foreground are the Callanish Stones, a stone circle built around 2700 BC during humanity&#39;s Bronze Age.  It is not known if the placement of the Callanish Stones has or had astronomical significance.  The ultimate causes for the figure-8 shape of this and all analemmas are the tilt of the Earth axis and the ellipticity of the Earth&#39;s orbit around the Sun.  At the solstices, the Sun will appear at the top or bottom of an analemma. The featured image was taken near the December solstice and so the Sun appears near the bottom.  Equinoxes, however, correspond to analemma middle points -- not the intersection point. This coming Friday at 1:04 am (UT) -- Thursday in the Americas -- is the equinox (&quot;equal night&quot;), when day and night are equal over all of planet Earth. Many cultures celebrate a change of season at an equinox.   Explore Your Universe: Random APOD Generator<br/>
+<h3>:rocket:Star Trails and Lightning over the Pyrenees</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2209&#x2F;LightningStarTrails_Llimos_5184.jpg" /><br/>
+<b>Date:</b> 2022-09-19<br/>
+<b>Description:</b> The beauty in this image comes in layers. On the bottom layer is the picturesque village of Manlleu in Barcelona, Spain.  The six-minute exposure makes car lights into streaks. The next layer is a mountain -- Serra de Bellmunt -- of Europe&#39;s famous Pyrenees. Next up is a tremendous lightning storm emanating from a classically-shaped anvil cloud. The long exposure allowed for the capture of many intricate lightning bolts.  Finally, at the top and furthest in the distance are stars.  Here, the multi-minute exposure made stars into trails.  The trailing effect is caused by the rotation of the Earth, and the curvature of the trails indicates their distance from the north spin pole of the Earth above. Taken after sunset in early June, the lightning storm soon moved off.  The stars, though, will continue to circle the pole for as long as the Earth spins -- surely billions of years into the future.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Monday, 19 September, 9:14 am GMT+8<br />
+Last refresh: Tuesday, 20 September, 9:15 am GMT+8<br />
