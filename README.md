@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:The Horsehead Nebula in Infrared from Hubble</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2209&#x2F;HorseheadIr_HubbleNachman_2691.jpg" /><br/>
-<b>Date:</b> 2022-09-21<br/>
-<b>Description:</b> While drifting through the cosmos, a magnificent interstellar dust cloud became sculpted by stellar winds and radiation to assume a recognizable shape.  Fittingly named the Horsehead Nebula, it is embedded in the vast and complex Orion Nebula (M42).  A potentially rewarding but difficult object to view personally with a small telescope, the featured gorgeously detailed image was taken in infrared light by the orbiting Hubble Space Telescope.  The dark molecular cloud, roughly 1,500 light years distant, is cataloged as Barnard 33 and is seen above primarily because it is backlit by the nearby massive star Sigma Orionis. The Horsehead Nebula will slowly shift its apparent shape over the next few million years and will eventually be destroyed by high energy starlight.   Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)<br/>
+<h3>:rocket:NGC 7331 Close Up</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2209&#x2F;potw1805a_ngc7331.jpg" /><br/>
+<b>Date:</b> 2022-09-22<br/>
+<b>Description:</b> Big, beautiful spiral galaxy NGC 7331 is often touted as an analog to our own Milky Way. About 50 million light-years distant in the northern constellation Pegasus, NGC 7331 was recognized early on as a spiral nebula and is actually one of the brighter galaxies not included in Charles Messier&#39;s famous 18th century catalog. Since the galaxy&#39;s disk is inclined to our line-of-sight, long telescopic exposures often result in an image that evokes a strong sense of depth. This Hubble Space Telescope close-up spans some 40,000 light-years. The galaxy&#39;s magnificent spiral arms feature dark obscuring dust lanes, bright bluish clusters of massive young stars, and the telltale reddish glow of active star forming regions. The bright yellowish central regions harbor populations of older, cooler stars. Like the Milky Way, a supermassive black hole lies at the core of spiral galaxy NGC 7331.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Thursday, 22 September, 9:12 am GMT+8<br />
+Last refresh: Friday, 23 September, 9:19 am GMT+8<br />
