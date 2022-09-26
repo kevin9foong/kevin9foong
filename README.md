@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:September Sunrise Shadows</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2209&#x2F;DSCF4968_PS_Lioce.jpg" /><br/>
-<b>Date:</b> 2022-09-24<br/>
-<b>Description:</b> The defining astronomical moment for this September&#39;s equinox was on Friday, September 23, 2022 at 01:03 UTC, when the Sun crossed the celestial equator moving south in its yearly journey through planet Earth&#39;s sky. That marked the beginning of fall for our fair planet in the northern hemisphere and spring in the southern hemisphere, when day and night are nearly equal around the globe.  Of course, if you celebrate the astronomical change of seasons by watching a sunrise you can also look for crepuscular rays. The shadows cast by clouds can have a dramatic appearance in the twilight sky during any sunrise or sunset. Due to perspective, the parallel shadows will seem to point back to the rising Sun and a place due east on your horizon near the equinox date. Taken on September 15, this sunrise sea and skyscape captured crepuscular rays in the sky and watery specular reflections from the Mediterranean coast near the village of Petacciato, Italy.<br/>
+<h3>:rocket:The Fairy of Eagle Nebula</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2209&#x2F;FairyPillar_Hubble_3857.jpg" /><br/>
+<b>Date:</b> 2022-09-25<br/>
+<b>Description:</b> The dust sculptures of the Eagle Nebula are evaporating.  As powerful starlight whittles away these cool cosmic mountains, the statuesque pillars that remain might be imagined as mythical beasts.  Featured here is one of several striking dust pillars of the Eagle Nebula that might be described as a gigantic alien fairy.   This fairy, however, is ten light years tall and spews radiation much hotter than common fire. The greater Eagle Nebula, M16, is actually a giant evaporating shell of gas and dust inside of which is a growing cavity filled with a spectacular stellar nursery currently forming an open cluster of stars.  This great pillar, which is about 7,000 light years away, will likely evaporate away in about 100,000 years.  The featured image is in scientifically re-assigned colors and was taken by the Earth-orbiting Hubble Space Telescope.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Sunday, 25 September, 9:13 am GMT+8<br />
+Last refresh: Monday, 26 September, 9:16 am GMT+8<br />
