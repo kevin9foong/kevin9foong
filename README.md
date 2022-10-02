@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Equinox Sunrise Around the World</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2209&#x2F;SunriseATWImageCollageFinal4800px.jpg" /><br/>
-<b>Date:</b> 2022-09-30<br/>
-<b>Description:</b> A planet-wide collaboration resulted in this remarkable array of sunrise photographs taken around the September 2022 equinox. The images were contributed by 24 photographers, one in each of 24 nautical time zones around the world. Unlike more complicated civil time zone boundaries, the 24 nautical time zones are simply 15 degree longitude bands corresponding to 1 hour steps that span the globe. Start at the upper right for the first to experience a sunrise in the nautical time zone corresponding to Coordinated Universal Time (UTC) + 12 hours. In that time zone, the photographer was located in Christchurch, New Zealand. Travel to the west by looking down the column and then moving to the column toward the left for later sunrises as the time zone offset in hours from UTC decreases. Or, you can watch a video of September 2022 equinox sunrises around planet Earth.<br/>
+<h3>:rocket:Lunation Matrix</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2210&#x2F;Lu20220729-0826.jpg" /><br/>
+<b>Date:</b> 2022-10-01<br/>
+<b>Description:</b> Observe the Moon every night and you&#39;ll see its visible sunlit portion gradually change. In phases progressing from New Moon to Full Moon to New Moon again, a lunar cycle or lunation is completed in about 29.5 days. Top left to bottom right, this 7x4 matrix of telescopic images captures the range of lunar phases for 28 consecutive nights, from the evening of July 29 to the morning of August 26, following an almost complete lunation. No image was taken 24 hours or so just after and just before New Moon, when the lunar phase is at best a narrow crescent, close to the Sun and really hard to see. Finding mostly clear Mediterranean skies required an occasional road trip to complete this lunar cycle project, imaging in early evening for the first half and late evening and early morning for the second half of the lunation. Since all the images are registered at the same scale you can use this matrix to track the change in the Moon&#39;s apparent size during the single lunation. For extra credit, find the lunar phase that occurred closest to perigee.  Tonight: International Observe the Moon Night<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Saturday, 1 October, 9:28 am GMT+8<br />
+Last refresh: Sunday, 2 October, 9:23 am GMT+8<br />
