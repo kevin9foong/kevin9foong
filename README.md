@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Supernova Cannon Expels Pulsar J0002</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2210&#x2F;CannonSupernova_English_8404.jpg" /><br/>
-<b>Date:</b> 2022-10-02<br/>
-<b>Description:</b> What could shoot out a neutron star like a cannon ball? A supernova.  About 10,000 years ago, the supernova that created the nebular remnant CTB 1 not only destroyed a massive star but blasted its newly formed neutron star core -- a pulsar -- out into the Milky Way Galaxy.  The pulsar, spinning 8.7 times a second, was discovered using downloadable software Einstein@Home searching through data taken by NASA&#39;s orbiting Fermi Gamma-Ray Observatory.  Traveling over 1,000 kilometers per second, the pulsar PSR J0002+6216 (J0002 for short) has already left the supernova remnant CTB 1, and is even fast enough to leave our Galaxy. Pictured, the trail of the pulsar is visible extending to the lower left of the supernova remnant.  The featured image is a combination of radio images from the VLA and DRAO radio observatories, as well as data archived from NASA&#39;s orbiting IRAS infrared observatory. It is well known that supernovas can act as cannons, and even that pulsars can act as cannonballs -- what is not known is how supernovas do it.<br/>
+<h3>:rocket:Jupiter&#39;s Europa from Spacecraft Juno</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2210&#x2F;Europa_JunoLuck_2611.jpg" /><br/>
+<b>Date:</b> 2022-10-03<br/>
+<b>Description:</b> What mysteries might be solved by peering into this crystal ball?  In this case, the ball is actually a moon of Jupiter, the crystals are ice, and the moon is not only dirty but cracked beyond repair.  Nevertheless, speculation is rampant that oceans exist under Europa&#39;s fractured ice-plains that could support life.  Europa, roughly the size of Earth&#39;s Moon, is pictured here in an image taken a few days ago when the Jupiter-orbiting robotic spacecraft Juno passed within 325 kilometers of its streaked and shifting surface. Underground oceans are thought likely because Europa undergoes global flexing due to its changing gravitational attraction with Jupiter during its slightly elliptical orbit, and this flexing heats the interior. Studying Juno&#39;s close-up images may further humanity&#39;s understanding not only of Europa and the early Solar System but also of the possibility that life exists elsewhere in the universe.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Monday, 3 October, 9:13 am GMT+8<br />
+Last refresh: Tuesday, 4 October, 9:21 am GMT+8<br />
