@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Jupiter&#39;s Europa from Spacecraft Juno</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2210&#x2F;Europa_JunoLuck_2611.jpg" /><br/>
-<b>Date:</b> 2022-10-03<br/>
-<b>Description:</b> What mysteries might be solved by peering into this crystal ball?  In this case, the ball is actually a moon of Jupiter, the crystals are ice, and the moon is not only dirty but cracked beyond repair.  Nevertheless, speculation is rampant that oceans exist under Europa&#39;s fractured ice-plains that could support life.  Europa, roughly the size of Earth&#39;s Moon, is pictured here in an image taken a few days ago when the Jupiter-orbiting robotic spacecraft Juno passed within 325 kilometers of its streaked and shifting surface. Underground oceans are thought likely because Europa undergoes global flexing due to its changing gravitational attraction with Jupiter during its slightly elliptical orbit, and this flexing heats the interior. Studying Juno&#39;s close-up images may further humanity&#39;s understanding not only of Europa and the early Solar System but also of the possibility that life exists elsewhere in the universe.<br/>
+<h3>:rocket:Star-Forming Eagle Nebula without Stars</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2210&#x2F;M16Eagle_Akar_3365_starless.jpg" /><br/>
+<b>Date:</b> 2022-10-04<br/>
+<b>Description:</b> The whole thing looks like an eagle.  A closer look at the Eagle Nebula&#39;s center, however, shows the bright region is actually a window into the center of a larger dark shell of dust.  Through this window, a brightly-lit workshop appears where a whole open cluster of stars is being formed.  In this cavity tall pillars and round globules of dark dust and cold molecular gas remain where stars are still forming.  Paradoxically, it is perhaps easier to appreciate this impressive factory of star formation by seeing it without its stars -- which have been digitally removed in the featured image. The Eagle emission nebula, tagged M16, lies about 6500 light years away, spans about 20 light-years, and is visible with binoculars toward the constellation of the Serpent (Serpens).  Creating this picture involved over 22 hours of imaging and combining colors emitted specifically by hydrogen (red), and oxygen (blue).<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Tuesday, 4 October, 9:21 am GMT+8<br />
+Last refresh: Wednesday, 5 October, 9:19 am GMT+8<br />
