@@ -11,11 +11,10 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Star-Forming Eagle Nebula without Stars</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2210&#x2F;M16Eagle_Akar_3365_starless.jpg" /><br/>
-<b>Date:</b> 2022-10-04<br/>
-<b>Description:</b> The whole thing looks like an eagle.  A closer look at the Eagle Nebula&#39;s center, however, shows the bright region is actually a window into the center of a larger dark shell of dust.  Through this window, a brightly-lit workshop appears where a whole open cluster of stars is being formed.  In this cavity tall pillars and round globules of dark dust and cold molecular gas remain where stars are still forming.  Paradoxically, it is perhaps easier to appreciate this impressive factory of star formation by seeing it without its stars -- which have been digitally removed in the featured image. The Eagle emission nebula, tagged M16, lies about 6500 light years away, spans about 20 light-years, and is visible with binoculars toward the constellation of the Serpent (Serpens).  Creating this picture involved over 22 hours of imaging and combining colors emitted specifically by hydrogen (red), and oxygen (blue).<br/>
+<h3>:rocket:Expanding Plume from DART&#39;s Impact</h3> 
+<b>Date:</b> 2022-10-05<br/>
+<b>Description:</b> What happens if you crash a spaceship into an asteroid? In the case of NASA&#39;s DART spaceship and the small asteroid Dimorphos, as happened last week, you get quite a plume. The goal of the planned impact was planetary protection -- to show that the path of an asteroid can be slightly altered, so that, if done right, a big space rock will miss the Earth. The high brightness of the plume, though, was unexpected by many, and what it means remains a topic of research. One possibility is that 170-meter wide Dimorphos is primarily a rubble pile asteroid and the collision dispersed some of the rubble in the pile.  The featured time-lapse video covers about 20 minutes and was taken from the Les Makes Observatory on France&#39;s Reunion Island, off the southeast coast of southern Africa.  One of many Earth-based observatories following the impact, the initial dot is primarily Dimorphos&#39;s larger companion: asteroid Didymos. 	 Most recently, images show that the Didymos - Dimorphos system has developed comet-like tails.    DART Impact on Dimorphos: Notable images submitted to APOD<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Wednesday, 5 October, 9:19 am GMT+8<br />
+Last refresh: Thursday, 6 October, 9:13 am GMT+8<br />
