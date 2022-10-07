@@ -11,10 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Expanding Plume from DART&#39;s Impact</h3> 
-<b>Date:</b> 2022-10-05<br/>
-<b>Description:</b> What happens if you crash a spaceship into an asteroid? In the case of NASA&#39;s DART spaceship and the small asteroid Dimorphos, as happened last week, you get quite a plume. The goal of the planned impact was planetary protection -- to show that the path of an asteroid can be slightly altered, so that, if done right, a big space rock will miss the Earth. The high brightness of the plume, though, was unexpected by many, and what it means remains a topic of research. One possibility is that 170-meter wide Dimorphos is primarily a rubble pile asteroid and the collision dispersed some of the rubble in the pile.  The featured time-lapse video covers about 20 minutes and was taken from the Les Makes Observatory on France&#39;s Reunion Island, off the southeast coast of southern Africa.  One of many Earth-based observatories following the impact, the initial dot is primarily Dimorphos&#39;s larger companion: asteroid Didymos. 	 Most recently, images show that the Didymos - Dimorphos system has developed comet-like tails.    DART Impact on Dimorphos: Notable images submitted to APOD<br/>
+<h3>:rocket:NGC 4631: The Whale Galaxy</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2210&#x2F;ngc4631_sherick.jpg" /><br/>
+<b>Date:</b> 2022-10-06<br/>
+<b>Description:</b> NGC 4631 is a big beautiful spiral galaxy. Seen edge-on, it lies only 25 million light-years away in the well-trained northern constellation Canes Venatici. The galaxy&#39;s slightly distorted wedge shape suggests to some a cosmic herring and to others its popular moniker, The Whale Galaxy. Either way, it is similar in size to our own Milky Way. In this sharp color image, the galaxy&#39;s yellowish core, dark dust clouds, bright blue star clusters, and red star forming regions are easy to spot. A companion galaxy, the small elliptical NGC 4627 is just above the Whale Galaxy. Faint star streams seen in deep images are the remnants of small companion galaxies disrupted by repeated encounters with the Whale in the distant past. The Whale Galaxy is also known to have spouted a halo of hot gas glowing in X-rays.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Thursday, 6 October, 9:13 am GMT+8<br />
+Last refresh: Friday, 7 October, 9:24 am GMT+8<br />
