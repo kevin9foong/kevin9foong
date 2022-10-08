@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:NGC 4631: The Whale Galaxy</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2210&#x2F;ngc4631_sherick.jpg" /><br/>
-<b>Date:</b> 2022-10-06<br/>
-<b>Description:</b> NGC 4631 is a big beautiful spiral galaxy. Seen edge-on, it lies only 25 million light-years away in the well-trained northern constellation Canes Venatici. The galaxy&#39;s slightly distorted wedge shape suggests to some a cosmic herring and to others its popular moniker, The Whale Galaxy. Either way, it is similar in size to our own Milky Way. In this sharp color image, the galaxy&#39;s yellowish core, dark dust clouds, bright blue star clusters, and red star forming regions are easy to spot. A companion galaxy, the small elliptical NGC 4627 is just above the Whale Galaxy. Faint star streams seen in deep images are the remnants of small companion galaxies disrupted by repeated encounters with the Whale in the distant past. The Whale Galaxy is also known to have spouted a halo of hot gas glowing in X-rays.<br/>
+<h3>:rocket:In Ganymede&#39;s Shadow</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2210&#x2F;JovianEclipse.jpg" /><br/>
+<b>Date:</b> 2022-10-07<br/>
+<b>Description:</b> At opposition, opposite the Sun in Earth&#39;s sky, late last month Jupiter is also approaching perihelion, the closest point to the Sun in its elliptical orbit, early next year. That makes Jupiter exceptionally close to our fair planet, currently resulting in excellent views of the Solar System&#39;s ruling gas giant. On September 27, this sharp image of Jupiter was recorded with a small telescope from a backyard in Florence, Arizona. The stacked video frames reveal the massive world bounded by planet girdling winds. Dark belts and light zones span the gas giant, along with rotating oval storms and its signature Great Red Spot. Galilean moon Ganymede is below and right in the frame. The Solar System&#39;s largest moon and its shadow are in transit across the southern Jovian cloud tops.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Friday, 7 October, 9:24 am GMT+8<br />
+Last refresh: Saturday, 8 October, 9:08 am GMT+8<br />
