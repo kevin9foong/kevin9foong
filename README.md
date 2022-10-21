@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:A Galaxy Beyond Stars, Gas, Dust</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2210&#x2F;Ngc7497Cirrus_Trottier_2976.jpg" /><br/>
-<b>Date:</b> 2022-10-19<br/>
-<b>Description:</b> Do we dare believe our eyes?  When we look at images of space, we often wonder whether they are &quot;real&quot;, and just as often the best answer varies.  In this case, the scene appears much as our eyes would see it, because it was obtained using  RGB (Red, Green, Blue) filters like the cone cells in our eyes, except collecting light for 19 hours, not a fraction of a second.  The featured image was captured over six nights, using a 24-inch diameter telescope in the Sierra Nevada Mountains, in California, USA. The bright spiral galaxy at the center (NGC 7497) looks like it is being grasped by an eerie tendril of a space ghost, and therein lies the trick. The galaxy is actually 59 million light years away, while the nebulosity is MBM 54, less than one thousand light years away, making it one of the nearest cool clouds of gas and dust -- galactic cirrus -- within our own Milky Way Galaxy.  Both are in the constellation of Pegasus, which can be seen high overhead from northern latitudes in the autumn.<br/>
+<h3>:rocket:Pillars of Creation</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2210&#x2F;stsci-pillarsofcreation.png" /><br/>
+<b>Date:</b> 2022-10-20<br/>
+<b>Description:</b> A now famous picture from the Hubble Space Telescope featured these star forming columns of cold gas and dust light-years long inside M16, the Eagle Nebula, dubbed the Pillars of Creation. This James Webb Space Telescope NIRCam image expands Hubble&#39;s exploration of that region in greater detail and depth inside the iconic stellar nursery. Particularly stunning in Webb&#39;s near infrared view is the telltale reddish emission from knots of material undergoing gravitational collapse to form stars within the natal clouds. The Eagle Nebula is some 6,500 light-years distant. The larger bright emission nebula is itself an easy target for binoculars or small telescopes. M16 lies along the plane of our Milky Way galaxy in a nebula rich part of the sky, toward the split constellation Serpens Cauda (the tail of the snake).<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Thursday, 20 October, 9:16 am GMT+8<br />
+Last refresh: Friday, 21 October, 9:13 am GMT+8<br />
