@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Pillars of Creation</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2210&#x2F;stsci-pillarsofcreation.png" /><br/>
-<b>Date:</b> 2022-10-20<br/>
-<b>Description:</b> A now famous picture from the Hubble Space Telescope featured these star forming columns of cold gas and dust light-years long inside M16, the Eagle Nebula, dubbed the Pillars of Creation. This James Webb Space Telescope NIRCam image expands Hubble&#39;s exploration of that region in greater detail and depth inside the iconic stellar nursery. Particularly stunning in Webb&#39;s near infrared view is the telltale reddish emission from knots of material undergoing gravitational collapse to form stars within the natal clouds. The Eagle Nebula is some 6,500 light-years distant. The larger bright emission nebula is itself an easy target for binoculars or small telescopes. M16 lies along the plane of our Milky Way galaxy in a nebula rich part of the sky, toward the split constellation Serpens Cauda (the tail of the snake).<br/>
+<h3>:rocket:Andromeda in Southern Skies</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2210&#x2F;andromeda-over-alps.jpg" /><br/>
+<b>Date:</b> 2022-10-21<br/>
+<b>Description:</b> Looking north from southern New Zealand, the Andromeda Galaxy never gets more than about five degrees above the horizon. As spring comes to the southern hemisphere, in late September Andromeda is highest in the sky around midnight though. In a single 30 second exposure this telephoto image tracked the stars to capture the closest large spiral galaxy from Mount John Observatory as it climbed just over the rugged peaks of the south island&#39;s Southern Alps. In the foreground, stars are reflected in the still waters of Lake Alexandrina. Also known as M31, the Andromeda Galaxy is one of the brightest objects in the Messier catalog, usually visible to the unaided eye as a small, faint, fuzzy patch. But this clear, dark sky and long exposure reveal the galaxy&#39;s greater extent in planet Earth&#39;s night, spanning nearly 6 full moons.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Friday, 21 October, 9:13 am GMT+8<br />
+Last refresh: Saturday, 22 October, 9:20 am GMT+8<br />
