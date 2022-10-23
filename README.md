@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Andromeda in Southern Skies</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2210&#x2F;andromeda-over-alps.jpg" /><br/>
-<b>Date:</b> 2022-10-21<br/>
-<b>Description:</b> Looking north from southern New Zealand, the Andromeda Galaxy never gets more than about five degrees above the horizon. As spring comes to the southern hemisphere, in late September Andromeda is highest in the sky around midnight though. In a single 30 second exposure this telephoto image tracked the stars to capture the closest large spiral galaxy from Mount John Observatory as it climbed just over the rugged peaks of the south island&#39;s Southern Alps. In the foreground, stars are reflected in the still waters of Lake Alexandrina. Also known as M31, the Andromeda Galaxy is one of the brightest objects in the Messier catalog, usually visible to the unaided eye as a small, faint, fuzzy patch. But this clear, dark sky and long exposure reveal the galaxy&#39;s greater extent in planet Earth&#39;s night, spanning nearly 6 full moons.<br/>
+<h3>:rocket:NGC 1499: The California Nebula</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2210&#x2F;20221011NGC1499CaliforniaNebula4096.jpg" /><br/>
+<b>Date:</b> 2022-10-22<br/>
+<b>Description:</b> Drifting through the Orion Arm of the spiral Milky Way Galaxy, this cosmic cloud by chance echoes the outline of California on the west coast of the United States. Our own Sun also lies within the Milky Way&#39;s Orion Arm, only about 1,500 light-years from the California Nebula. Also known as NGC 1499, the classic emission nebula is around 100 light-years long. The California Nebula shines with the telltale reddish glow characteristic of hydrogen atoms recombining with long lost electrons. The electrons have been stripped away, ionized by energetic starlight. Most likely providing the energetic starlight that ionizes much of the nebular gas is the bright, hot star Xi Persei just to the right of the nebula.  A popular target for astrophotographers, this deep image reveals the glowing nebula, obscuring dust, and stars across a 3 degree wide field of view. The California nebula lies toward the constellation Perseus, not far from the Pleiades.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Saturday, 22 October, 9:20 am GMT+8<br />
+Last refresh: Sunday, 23 October, 9:19 am GMT+8<br />
