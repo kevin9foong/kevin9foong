@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Night on a Spooky Planet</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2210&#x2F;Hverir_Vetter_1300.jpg" /><br/>
-<b>Date:</b> 2022-10-30<br/>
-<b>Description:</b> What spooky planet is this? Planet Earth of course, on a dark and stormy night in 2013 at Hverir, a geothermally active area along the volcanic landscape in northeastern Iceland. Triggered by solar activity, geomagnetic storms produced the auroral display in the starry night sky. The ghostly towers of steam and gas are venting from fumaroles and danced against the eerie greenish light. For now, auroral apparitions are increasing as our Sun approaches a maximum in its 11 year solar activity cycle. And pretty soon, ghostly shapes may dance in your neighborhood too.<br/>
+<h3>:rocket:LDN 43: The Cosmic Bat Nebula</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2210&#x2F;LDN43_SelbyHanson_3993.jpg" /><br/>
+<b>Date:</b> 2022-10-31<br/>
+<b>Description:</b> What is the most spook-tacular nebula in the galaxy?   One contender is LDN 43, which bears an astonishing resemblance to a vast cosmic bat flying amongst the stars on a dark Halloween night.  Located about 1400 light years away in the constellation Ophiuchus, this molecular cloud is dense enough to block light not only from background stars, but from wisps of gas lit up by the nearby reflection nebula LBN 7.  Far from being a harbinger of death, this 12-light year-long filament of gas and dust is actually a stellar nursery.  Glowing with eerie light, the bat is lit up from inside by dense gaseous knots that have just formed young stars.    Celebrate: Halloween With NASA Online<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Monday, 31 October, 9:17 am GMT+8<br />
+Last refresh: Tuesday, 1 November, 9:23 am GMT+8<br />
