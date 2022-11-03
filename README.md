@@ -11,11 +11,10 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:NGC 6357: The Lobster Nebula</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2211&#x2F;Lobster_Blanco_4000.jpg" /><br/>
-<b>Date:</b> 2022-11-01<br/>
-<b>Description:</b> Why is the Lobster Nebula forming some of the most massive stars known? No one is yet sure.  Cataloged as NGC 6357, the Lobster Nebula houses the open star cluster Pismis 24 near its center -- a home to unusually bright and massive stars.  The overall red glow near the inner star forming region results from the emission of ionized hydrogen gas.   The surrounding nebula, featured here, holds a complex tapestry of gas, dark dust, stars still forming, and newly born stars.  The intricate patterns are caused by complex interactions between interstellar winds, radiation pressures, magnetic fields, and gravity.  The image was taken with DOE&#39;s Dark Energy Camera on the 4-meter Blanco Telescope at the Cerro Tololo Inter-American Observatory in Chile. NGC 6357 spans about 400 light years and lies about 8,000 light years away toward the constellation of the Scorpion.<br/>
+<h3>:rocket:A Partial Eclipse of an Active Sun</h3> 
+<b>Date:</b> 2022-11-02<br/>
+<b>Description:</b> Watch for three things in this unusual eclipse video.  First, watch for a big dark circle to approach from the right to block out more and more of the Sun. This dark circle is the Moon, and the video was made primarily to capture this partial solar eclipse last week. Next, watch a large solar prominence hover and shimmer over the Sun&#39;s edge. A close look will show that part of it is actually falling back to the Sun. The prominence is made of hot plasma that is temporarily held aloft by the Sun&#39;s changing magnetic field. Finally, watch the Sun&#39;s edge waver. What is wavering is a dynamic carpet of hot gas tubes rising and falling through the Sun&#39;s chromosphere -- tubes known as spicules. The entire 4-second time-lapse video covers a time of about ten minutes, although the Sun itself is expected to last another 5 billion years.   Partial Solar Eclipse in October 2022: Notable Submissions to APOD<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Wednesday, 2 November, 9:15 am GMT+8<br />
+Last refresh: Thursday, 3 November, 9:09 am GMT+8<br />
