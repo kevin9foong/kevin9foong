@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:NGC 7380: The Wizard Nebula</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2211&#x2F;Wizard_Popa_1975.jpg" /><br/>
-<b>Date:</b> 2022-11-14<br/>
-<b>Description:</b> What powers are being wielded in the Wizard Nebula?  Gravitation strong enough to form stars, and stellar winds and radiations powerful enough to create and dissolve towers of gas.  Located only 8,000 light years away, the Wizard nebula, featured here, surrounds developing open star cluster NGC 7380.  Visually, the interplay of stars, gas, and dust has created a shape that appears to some like a fictional medieval sorcerer.  The active star forming region spans 100 about light years, making it appear larger than the angular extent of the Moon.  The Wizard Nebula can be located with a small telescope toward the constellation of the King of Aethiopia (Cepheus).  Although the nebula may last only a few million years, some of the stars being formed may outlive our Sun.<br/>
+<h3>:rocket:Wolf&#39;s Cave Nebula</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2211&#x2F;WolfsCave_Lacroce_3053.jpg" /><br/>
+<b>Date:</b> 2022-11-15<br/>
+<b>Description:</b> The mysterious blue reflection nebula found in catalogs as VdB 152 or Ced 201 really is very faint. It lies at the tip of the long dark nebula Barnard 175 in a dusty complex that has also been called Wolf&#39;s Cave. At the center of this deep telescopic view, the cosmic apparitions are nearly 1,400 light-years away along the northern Milky Way in the royal constellation Cepheus. Interstellar dust in the region blocks light from background stars and scatters light from the embedded bright star, giving the end nebula its characteristic blue color. Though stars do form in molecular clouds, this star seems to have only accidentally wandered into the area, as its measured velocity through space is very different from the cloud&#39;s velocity. At the image bottom is the planetary nebula Dengel-Hartl 5, while red glowing gas from an ancient supernova remnant is also visible along the image&#39;s right side.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Tuesday, 15 November, 9:03 am GMT+8<br />
+Last refresh: Wednesday, 16 November, 9:03 am GMT+8<br />
