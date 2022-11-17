@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Wolf&#39;s Cave Nebula</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2211&#x2F;WolfsCave_Lacroce_3053.jpg" /><br/>
-<b>Date:</b> 2022-11-15<br/>
-<b>Description:</b> The mysterious blue reflection nebula found in catalogs as VdB 152 or Ced 201 really is very faint. It lies at the tip of the long dark nebula Barnard 175 in a dusty complex that has also been called Wolf&#39;s Cave. At the center of this deep telescopic view, the cosmic apparitions are nearly 1,400 light-years away along the northern Milky Way in the royal constellation Cepheus. Interstellar dust in the region blocks light from background stars and scatters light from the embedded bright star, giving the end nebula its characteristic blue color. Though stars do form in molecular clouds, this star seems to have only accidentally wandered into the area, as its measured velocity through space is very different from the cloud&#39;s velocity. At the image bottom is the planetary nebula Dengel-Hartl 5, while red glowing gas from an ancient supernova remnant is also visible along the image&#39;s right side.<br/>
+<h3>:rocket:In the Arms of NGC 1097</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2211&#x2F;NGC-1097-LRGB_Ha-rev-12-2022.jpg" /><br/>
+<b>Date:</b> 2022-11-16<br/>
+<b>Description:</b> Spiral galaxy NGC 1097 shines in southern skies, about 45 million light-years away in the heated constellation Fornax. Its blue spiral arms are mottled with pinkish star forming regions in this colorful galaxy portrait. They seem to have wrapped around a small companion galaxy above and right of center, about 40,000 light-years from the spiral&#39;s luminous core. That&#39;s not NGC 1097&#39;s only peculiar feature, though. This very deep exposure hints of faint, mysterious jets, seen to extend well beyond the bluish arms. In fact, four faint jets are ultimately recognized in optical images of NGC 1097. The jets trace an X centered on the galaxy&#39;s nucleus, but probably don&#39;t originate there. Instead, they could be fossil star streams, trails left over from the capture and disruption of a much smaller galaxy in the large spiral&#39;s ancient past. A Seyfert galaxy, NGC 1097&#39;s nucleus also harbors a supermassive black hole.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Wednesday, 16 November, 9:03 am GMT+8<br />
+Last refresh: Thursday, 17 November, 9:02 am GMT+8<br />
