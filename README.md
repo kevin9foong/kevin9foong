@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Earthset from Orion</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2211&#x2F;earthset-snap00.png" /><br/>
-<b>Date:</b> 2022-11-23<br/>
-<b>Description:</b> ght billion people are about to disappear in this snapshot from space. Taken on November 21, the sixth day of the Artemis 1 mission, their home world is setting behind the Moon&#39;s bright edge as viewed by an external camera on the outbound Orion spacecraft. The Orion was headed for a powered flyby that took it to within 130 kilometers of the lunar surface. Velocity gained in the flyby maneuver will be used to reach a distant retrograde orbit around the Moon. That orbit is considered distant because it&#39;s another 92,000 kilometers beyond the Moon, and retrograde because the spacecraft will orbit in the opposite direction of the Moon&#39;s orbit around planet Earth. Orion will enter its distant retrograde orbit on Friday, November 25. Swinging around the Moon, Orion will reach a maximum distance (just over 400,000 kilometers) from Earth on Monday November 28 exceeding a record set by Apollo 13 for most distant spacecraft designed for human space exploration.<br/>
+<h3>:rocket:Lynds Dark Nebula 1251</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2211&#x2F;LDN1251v7social.png" /><br/>
+<b>Date:</b> 2022-11-24<br/>
+<b>Description:</b> Stars are forming in Lynds Dark Nebula (LDN) 1251. About 1,000 light-years away and drifting above the plane of our Milky Way galaxy, the dusty molecular cloud is part of a complex of dark nebulae mapped toward the Cepheus flare region. Across the spectrum, astronomical explorations of the obscuring interstellar clouds reveal energetic shocks and outflows associated with newborn stars, including the telltale reddish glow from scattered Herbig-Haro objects hiding in the image. Distant background galaxies also lurk on the scene, almost buried behind the dusty expanse. This alluring view spans over four full moons on the sky, or 35 light-years at the estimated distance of LDN 1251.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Thursday, 24 November, 9:02 am GMT+8<br />
+Last refresh: Friday, 25 November, 8:57 am GMT+8<br />
