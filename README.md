@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Saturn at Night</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2211&#x2F;LastRingPortrait_Cassini_4472.jpg" /><br/>
-<b>Date:</b> 2022-11-26<br/>
-<b>Description:</b> Saturn is still bright in planet Earth&#39;s night skies. Telescopic views of the distant gas giant and its beautiful rings often make it a star at star parties. But this stunning view of Saturn&#39;s rings and night side just isn&#39;t possible from telescopes closer to the Sun than the outer planet. They can only bring Saturn&#39;s day into view. In fact, this image of Saturn&#39;s slender sunlit crescent with night&#39;s shadow cast across its broad and complex ring system was captured by the Cassini spacecraft. A robot spacecraft from planet Earth, Cassini called Saturn orbit home for 13 years before it was directed to dive into the atmosphere of the gas giant on September 15, 2017. This magnificent mosaic is composed of frames recorded by Cassini&#39;s wide-angle camera only two days before its grand final plunge. Saturn&#39;s night will not be seen again until another spaceship from Earth calls.<br/>
+<h3>:rocket:Supernumerary Rainbows over New Jersey</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2211&#x2F;SupernumeraryRainbows_Entwistle_1362.jpg" /><br/>
+<b>Date:</b> 2022-11-27<br/>
+<b>Description:</b> Yes, but can your rainbow do this?  After the remnants of Hurricane Florence passed over the Jersey Shore, New Jersey, USA in 2018, the Sun came out in one direction but something quite unusual appeared in the opposite direction: a hall of rainbows.  Over the course of a next half hour, to the delight of the photographer and his daughter, vibrant supernumerary rainbows faded in and out, with at least five captured in this featured single shot.  Supernumerary rainbows only form when falling water droplets are all nearly the same size and typically less than a millimeter across.  Then, sunlight will not only reflect from inside the raindrops, but interfere, a wave phenomenon similar to ripples on a pond when a stone is thrown in. In fact, supernumerary rainbows can only be explained with waves, and their noted existence in the early 1800s was considered early evidence of light&#39;s wave nature.   Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Sunday, 27 November, 9:01 am GMT+8<br />
+Last refresh: Monday, 28 November, 8:55 am GMT+8<br />
