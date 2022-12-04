@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Merging Galaxy Pair IIZw096</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2212&#x2F;potm2211a.jpg" /><br/>
-<b>Date:</b> 2022-12-02<br/>
-<b>Description:</b> Bright at infrared wavelengths, this merging galaxy pair is some 500 million light-years away toward the constellation Delphinus. The cosmic mashup is seen against a background of even more distant galaxies, and occasional spiky foreground stars. But the galaxy merger itself spans about 100,000 light-years in this deep James Webb Space Telescope image. The image data is from Webb&#39;s Near-InfraRed Camera (NIRCam) and Mid-InfraRed Instrument (MIRI). Their combined, sharp infrared view follows galactic scale restructuring in the dusty merger&#39;s wild jumble of intense star forming regions  and distorted spiral arms<br/>
+<h3>:rocket:Stereo Mars near Opposition</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2212&#x2F;Mars-Stereo.png" /><br/>
+<b>Date:</b> 2022-12-03<br/>
+<b>Description:</b> Mars looks sharp in these two rooftop telescope views captured in late November from Singapore, planet Earth. At the time, Mars was about 82 million kilometers from Singapore and approaching its opposition, opposite the Sun in planet Earth&#39;s sky on December 8. Olympus Mons, largest of the volcanoes in the Tharsis Montes region (and largest known volcano in the Solar System), is near Mars&#39; western limb. In both the images it&#39;s the whitish donut-shape at the upper right. The dark area visible near center is the Terra Sirenum region while the long dark peninsula closest to the planet&#39;s eastern limb is Sinus Gomer. Near its tip is Gale crater, the Curiosity rover&#39;s landing site in 2012. Above Sinus Gomer, white spots are other volcanoes in the Elysium region. At top of the planet is the north polar cap covered with ice and clouds. Taken about two days apart, these images of the same martian hemisphere form a stereo pair. Look at the center of the frame and cross your eyes until the separate images come together to see the Red Planet in 3D.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Saturday, 3 December, 8:51 am GMT+8<br />
+Last refresh: Sunday, 4 December, 8:54 am GMT+8<br />
