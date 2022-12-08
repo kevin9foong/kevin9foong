@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:M16: A Star Forming Pillar from Webb</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2212&#x2F;M16Pillar_WebbOzsarac_1668.jpg" /><br/>
-<b>Date:</b> 2022-12-06<br/>
-<b>Description:</b> What’s happening inside this interstellar mountain? Stars are forming. The mountain is actually a column of gas and dust in the picturesque Eagle Nebula (M16).  A pillar like this is so low in density that you could easily fly though it -- it only appears solid because of its high dust content and great depth. The glowing areas are lit internally by newly formed stars. These areas shine in red and infrared light because blue light is scattered away by intervening interstellar dust. The featured image was captured recently in near-infrared light in unprecedented detail by the James Webb Space Telescope (JWST), launched late last year. Energetic light, abrasive winds, and final supernovas from these young stars will slowly destroy this stellar birth column over the next 100,000 years.   Astrophysicists: Browse 2,900+ codes in the Astrophysics Source Code Library<br/>
+<h3>:rocket:NGC 7293: The Helix Nebula</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2212&#x2F;NGC7293-TommasoStella2022WEB.jpg" /><br/>
+<b>Date:</b> 2022-12-07<br/>
+<b>Description:</b> A mere seven hundred light years from Earth, toward the constellation Aquarius, a sun-like star is dying. The dying star&#39;s last few thousand years have produced the Helix Nebula (NGC 7293), a well studied and nearby example of a Planetary Nebula, typical of this final phase of stellar evolution.  Combining narrow band image data from emission lines of hydrogen atoms in red and oxygen atoms in blue-green hues, it shows tantalizing details of the Helix, including its bright inner region about 3 light-years across. The white dot at the Helix&#39;s center is this Planetary Nebula&#39;s hot, central star. A simple looking nebula at first glance, the Helix is now understood to have a surprisingly complex geometry.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Wednesday, 7 December, 8:56 am GMT+8<br />
+Last refresh: Thursday, 8 December, 8:53 am GMT+8<br />
