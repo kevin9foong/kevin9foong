@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Orion and the Ocean of Storms</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2212&#x2F;art001e002132.jpg" /><br/>
-<b>Date:</b> 2022-12-08<br/>
-<b>Description:</b> A camera on board the uncrewed Orion spacecraft captured this view on December 5 as Orion approached its return powered flyby of the Moon.  Below one of Orion&#39;s extended solar arrays lies dark, smooth, terrain along the western edge of the Oceanus Procellarum. Prominent on the lunar nearside Oceanus Procellarum, the Ocean of Storms, is the largest of the Moon&#39;s lava-flooded maria. The lunar terminator, shadow line between lunar night and day, runs along the left of the frame. The 41 kilometer diameter crater Marius is top center, with ray crater Kepler peeking in at the edge, just right of the solar array wing. Kepler&#39;s bright rays extend to the north and west, reaching the dark-floored Marius. Of course the Orion spacecraft is now headed toward a December 11 splashdown in planet Earth&#39;s water-flooded Pacific Ocean.<br/>
+<h3>:rocket:Mars Rises above the Lunar Limb</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2212&#x2F;Mars_Moon_fullsize_TGlenn.jpg" /><br/>
+<b>Date:</b> 2022-12-09<br/>
+<b>Description:</b> On the night of December 7 Mars wandered near the Full Moon. In fact the Red Planet was occulted, passing behind the Moon, when viewed from locations across Europe and North America. About an hour after disappearing behind the lunar disk Mars reappears in this stack of sharp video frames captured from San Diego, planet Earth. With the Moon in the foreground Mars was a mere 82 million kilometers distant, near its own opposition. Full Moon and full Mars were bright enough to provide the spectacular image with no exposure adjustments necessary. In the image Mars appears to rise just over ancient, dark-floored, lunar crater Abel very close to the southeastern edge of the Moon&#39;s near side. Humboldt is the large impact crater to its north (left).<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Friday, 9 December, 8:55 am GMT+8<br />
+Last refresh: Saturday, 10 December, 8:51 am GMT+8<br />
