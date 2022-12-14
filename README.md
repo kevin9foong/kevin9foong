@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:An Unusual Globule in IC 1396</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2212&#x2F;IC1396_Miller_2370.jpg" /><br/>
-<b>Date:</b> 2022-12-12<br/>
-<b>Description:</b> Is there a monster in IC 1396?  Known to some as the Elephant&#39;s Trunk Nebula, parts of gas and dust clouds of this star formation region may appear to take on foreboding forms, some nearly human.  The only real monster here, however, is a bright young star too far from Earth to hurt us.  Energetic light from this star is eating away the dust of the dark cometary globule near the top of the featured image.  Jets and winds of particles emitted from this star are also pushing away ambient gas and dust.  Nearly 3,000 light-years distant, the relatively faint IC 1396 complex covers a much larger region on the sky than shown here, with an apparent width of more than 10 full moons.<br/>
+<h3>:rocket:An Artful Sky over Lofoten Islands</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2212&#x2F;SkyArt_Cobianchi_2048.jpg" /><br/>
+<b>Date:</b> 2022-12-13<br/>
+<b>Description:</b> Can the night sky be both art and science? If so, perhaps the featured image is an example. The digital panorama was composed of 10 landscape and 10 sky images all taken on the same night, from the same location, and with the same camera.  Iconic features in the image have been artfully brightened, and the ground nearby was artfully illuminated. Visible in the foreground is the creative photographer anchoring an amazing view from the rugged Lofoten Islands of Norway, two months ago, by holding a lamp. Far in the distance are three prominent arches: our Milky Way Galaxy on the left, while a scientifically-unusual double-arced aurora is documented on the right. A meteor is highlighted between them. Other notable skylights include, left to right, the Andromeda Galaxy, the planet Jupiter, the star Vega, and the stars that compose the Big Dipper asterism.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Tuesday, 13 December, 8:58 am GMT+8<br />
+Last refresh: Wednesday, 14 December, 8:54 am GMT+8<br />
