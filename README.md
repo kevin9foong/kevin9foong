@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:The Geminid</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2212&#x2F;GeminidoverBluemoonvalley-2000.jpg" /><br/>
-<b>Date:</b> 2022-12-16<br/>
-<b>Description:</b> Returning from beyond the Moon, on December 11 the Orion spacecraft entered Earth&#39;s atmosphere at almost 11 kilometers per second. That&#39;s half the speed of the grain of dust that created this long fireball meteor when it entered the atmosphere on December 13, near the peak of the annual Geminid meteor shower. As our fair planet makes its yearly pass through the dust trail of mysterious asteroid 3200 Phaethon, the parallel tracks of all Geminid meteors appear to radiate from a point in the constellation Gemini. But the twin stars of Gemini hide just behind the trees on the left in this night skyscape from the beautiful Blue Moon Valley, Yunnan, China. Reflected in the still waters of the mountain lake, stars of the constellation Orion are rising near center. Captured before moonrise, dazzling Mars is still the brightest celestial beacon in the scene.<br/>
+<h3>:rocket:Apollo 17 VIP Site Anaglyph</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2212&#x2F;a17anaglyph_vanMeijgaarden_f.jpg" /><br/>
+<b>Date:</b> 2022-12-17<br/>
+<b>Description:</b> Get out your red&#x2F;blue glasses and check out this stereo scene from Taurus-Littrow valley on the Moon! The color anaglyph features a detailed 3D view of Apollo 17&#39;s Lunar Rover in the foreground -- behind it lies the Lunar Module and distant lunar hills. Because the world was going to be able to watch the Lunar Module&#39;s ascent stage liftoff via the rover&#39;s TV camera, this parking place was also known as the VIP Site. Fifty years ago, in December of 1972, Apollo 17 astronauts Eugene Cernan and Harrison Schmitt spent about 75 hours on the Moon, while colleague Ronald Evans orbited overhead. The crew returned with 110 kilograms of rock and soil samples, more than from any of the other lunar landing sites. Cernan and Schmitt are still the last to walk (or drive) on the Moon.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Saturday, 17 December, 8:49 am GMT+8<br />
+Last refresh: Sunday, 18 December, 8:51 am GMT+8<br />
