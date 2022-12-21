@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:The Tadpole Nebula in Gas and Dust</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2212&#x2F;Tadpoles_Stocks_2560.jpg" /><br/>
-<b>Date:</b> 2022-12-19<br/>
-<b>Description:</b> What&#39;s causing the commotion in the Tadpole Nebula? Star formation.  Dusty emission in the Tadpole Nebula, IC 410, lies about 12,000 light-years away in the northern constellation of the Charioteer (Auriga). The cloud of glowing gas is over 100 light-years across, sculpted by stellar winds and radiation from embedded open star cluster NGC 1893. Formed in the interstellar cloud a mere 4 million years ago, bright newly formed cluster stars are seen all around the star-forming nebula.  Notable on the lower-right of the featured image are two relatively dense streamers of material trailing away from the nebula&#39;s central regions. Potentially sites of ongoing star formation in IC 410, these cosmic tadpole shapes are about 10 light-years long. The image was processed highlighting the emission from sulfur (red), hydrogen (green), and oxygen (blue) gas -- but with the stars digitally removed.<br/>
+<h3>:rocket:Thor&#39;s Helmet</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2212&#x2F;Thor_Rochford_2404.jpg" /><br/>
+<b>Date:</b> 2022-12-20<br/>
+<b>Description:</b> Thor not only has his own day (Thursday), but a helmet in the heavens.  Popularly called Thor&#39;s Helmet, NGC 2359 is a hat-shaped cosmic cloud with wing-like appendages. Heroically sized even for a Norse god, Thor&#39;s Helmet is about 30 light-years across. In fact, the cosmic head-covering is more like an interstellar bubble, blown with a fast wind from the bright, massive star near the bubble&#39;s center. Known as a Wolf-Rayet star, the central star is an extremely hot giant thought to be in a brief, pre-supernova stage of evolution. NGC 2359 is located about 15,000 light-years away toward the constellation of the Great Overdog. This remarkably sharp image is a mixed cocktail of data from  narrowband filters, capturing not only natural looking stars but details of the nebula&#39;s filamentary structures. The star in the center of Thor&#39;s Helmet is expected to explode in a spectacular supernova sometime within the next few thousand years.    Almost Hyperspace: Random APOD Generator<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Tuesday, 20 December, 8:54 am GMT+8<br />
+Last refresh: Wednesday, 21 December, 8:49 am GMT+8<br />
