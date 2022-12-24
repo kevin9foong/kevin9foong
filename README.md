@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:NGC 1365: Majestic Island Universe</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2212&#x2F;NGC1365-CDK24-CDK17.jpg" /><br/>
-<b>Date:</b> 2022-12-22<br/>
-<b>Description:</b> Barred spiral galaxy NGC 1365 is truly a majestic island universe some 200,000 light-years across. Located a mere 60 million light-years away toward the faint but heated constellation Fornax, NGC 1365 is a dominant member of the well-studied Fornax Cluster of galaxies. This impressively sharp color image shows the intense, reddish star forming regions near the ends of central bar and along the spiral arms, with details of the obscuring dust lanes cutting across the galaxy&#39;s bright core. At the core lies a supermassive black hole. Astronomers think NGC 1365&#39;s prominent bar plays a crucial role in the galaxy&#39;s evolution, drawing gas and dust into a star-forming maelstrom and ultimately feeding material into the central black hole.<br/>
+<h3>:rocket:Cassini Looks Out from Saturn</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2212&#x2F;SaturnInsideOut2_cassini_960.jpg" /><br/>
+<b>Date:</b> 2022-12-23<br/>
+<b>Description:</b> This is what Saturn looks like from inside the rings. In 2017, for the first time, NASA directed the Cassini spacecraft to swoop between Saturn and its rings. During the dive, the robotic spacecraft took hundreds of images showing unprecedented detail for structures in Saturn&#39;s atmosphere. Looking back out, however, the spacecraft was also able to capture impressive vistas. In the featured image, taken a few hours before closest approach, Saturn&#39;s unusual northern hexagon is seen surrounding the North Pole. Saturn&#39;s B ring is the closest visible, while the dark Cassini Division separates B from the outer A.  A close inspection will find the two small moons that shepherd the F-ring, the farthest ring discernable.  A few months after this image was taken -- and after more than a decade of exploration and discovery -- the Cassini spacecraft ran low on fuel and was directed to enter Saturn&#39;s atmosphere, where it surely melted.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Friday, 23 December, 8:51 am GMT+8<br />
+Last refresh: Saturday, 24 December, 8:45 am GMT+8<br />
