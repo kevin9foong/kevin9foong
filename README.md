@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Cassini Looks Out from Saturn</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2212&#x2F;SaturnInsideOut2_cassini_960.jpg" /><br/>
-<b>Date:</b> 2022-12-23<br/>
-<b>Description:</b> This is what Saturn looks like from inside the rings. In 2017, for the first time, NASA directed the Cassini spacecraft to swoop between Saturn and its rings. During the dive, the robotic spacecraft took hundreds of images showing unprecedented detail for structures in Saturn&#39;s atmosphere. Looking back out, however, the spacecraft was also able to capture impressive vistas. In the featured image, taken a few hours before closest approach, Saturn&#39;s unusual northern hexagon is seen surrounding the North Pole. Saturn&#39;s B ring is the closest visible, while the dark Cassini Division separates B from the outer A.  A close inspection will find the two small moons that shepherd the F-ring, the farthest ring discernable.  A few months after this image was taken -- and after more than a decade of exploration and discovery -- the Cassini spacecraft ran low on fuel and was directed to enter Saturn&#39;s atmosphere, where it surely melted.<br/>
+<h3>:rocket:Comet 2022 E3 (ZTF)</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2212&#x2F;c2022E3_ZTF_Bartlett.png" /><br/>
+<b>Date:</b> 2022-12-24<br/>
+<b>Description:</b> Comet C&#x2F;2022 E3 (ZTF) was discovered by astronomers using the wide-field survey camera at the Zwicky Transient Facility this year in early March. Since then the new long-period comet has brightened substantially and is now sweeping across the northern constellation Corona Borealis in predawn skies. It&#39;s still too dim to see without a telescope though. But this fine telescopic image from December 19 does show the comet&#39;s brighter greenish coma, short broad dust tail, and long faint ion tail stretching across a 2.5 degree wide field-of-view. On a voyage through the inner Solar System comet 2022 E3 will be at perihelion, its closest to the Sun, in the new year on January 12 and at perigee, its closest to our fair planet, on February 1. The brightness of comets is notoriously unpredictable, but by then C&#x2F;2022 E3 (ZTF) could become only just visible to the eye in dark night skies.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Saturday, 24 December, 8:45 am GMT+8<br />
+Last refresh: Sunday, 25 December, 8:54 am GMT+8<br />
