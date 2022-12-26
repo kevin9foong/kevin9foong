@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Comet 2022 E3 (ZTF)</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2212&#x2F;c2022E3_ZTF_Bartlett.png" /><br/>
-<b>Date:</b> 2022-12-24<br/>
-<b>Description:</b> Comet C&#x2F;2022 E3 (ZTF) was discovered by astronomers using the wide-field survey camera at the Zwicky Transient Facility this year in early March. Since then the new long-period comet has brightened substantially and is now sweeping across the northern constellation Corona Borealis in predawn skies. It&#39;s still too dim to see without a telescope though. But this fine telescopic image from December 19 does show the comet&#39;s brighter greenish coma, short broad dust tail, and long faint ion tail stretching across a 2.5 degree wide field-of-view. On a voyage through the inner Solar System comet 2022 E3 will be at perihelion, its closest to the Sun, in the new year on January 12 and at perigee, its closest to our fair planet, on February 1. The brightness of comets is notoriously unpredictable, but by then C&#x2F;2022 E3 (ZTF) could become only just visible to the eye in dark night skies.<br/>
+<h3>:rocket:Geminids and the Mittens</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2212&#x2F;J7A6402-Edit-copy-sharpened.jpg" /><br/>
+<b>Date:</b> 2022-12-25<br/>
+<b>Description:</b> Asteroid 3200 Phaethon&#39;s annual gift to planet Earth always arrives in December. Otherwise known as the Geminid meteor shower, the source of the meteroid stream is dust shed along the orbit of the mysterious asteroid. Near the December 13&#x2F;14 peak of the shower&#39;s activity, geminid meteors are captured in this night skyscape, composited from 22 images of starry sky taken before the moon rose over Monument Valley in the American southwest. The bright stars near the position of the shower&#39;s radiant are the constellation Gemini&#39;s twin stars Castor (blue) and Pollux (yellow). As Earth sweeps through the dusty stream, the parallel meteor trails appear to radiate from a point on the sky in Gemini due to perspective, and so the yearly shower is named for the constellation. From the camera&#39;s perspective, this view of three prominent buttes across Monument Valley also suggests appropriate names for two of them. The third one is called Merrick Butte.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Sunday, 25 December, 8:54 am GMT+8<br />
+Last refresh: Monday, 26 December, 8:52 am GMT+8<br />
