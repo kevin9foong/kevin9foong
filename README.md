@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Geminids and the Mittens</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2212&#x2F;J7A6402-Edit-copy-sharpened.jpg" /><br/>
-<b>Date:</b> 2022-12-25<br/>
-<b>Description:</b> Asteroid 3200 Phaethon&#39;s annual gift to planet Earth always arrives in December. Otherwise known as the Geminid meteor shower, the source of the meteroid stream is dust shed along the orbit of the mysterious asteroid. Near the December 13&#x2F;14 peak of the shower&#39;s activity, geminid meteors are captured in this night skyscape, composited from 22 images of starry sky taken before the moon rose over Monument Valley in the American southwest. The bright stars near the position of the shower&#39;s radiant are the constellation Gemini&#39;s twin stars Castor (blue) and Pollux (yellow). As Earth sweeps through the dusty stream, the parallel meteor trails appear to radiate from a point on the sky in Gemini due to perspective, and so the yearly shower is named for the constellation. From the camera&#39;s perspective, this view of three prominent buttes across Monument Valley also suggests appropriate names for two of them. The third one is called Merrick Butte.<br/>
+<h3>:rocket:NGC 6164: Dragon&#39;s Egg Nebula and Halo</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2212&#x2F;DragonsEgg_Croman_4231.jpg" /><br/>
+<b>Date:</b> 2022-12-26<br/>
+<b>Description:</b> The star at the center created everything.  Known as the Dragon&#39;s Egg, this star -- a rare, hot, luminous O-type star some 40 times as massive as the Sun -- created not only the complex nebula (NGC 6164) that immediately surrounds it, but also the encompassing blue halo. Its name is derived, in part, from the region&#39;s proximity to the picturesque NGC 6188, known as the fighting Dragons of Ara. In another three to four million years the massive star will likely end its life in a supernova explosion. Spanning around 4 light-years, the nebula itself has a bipolar symmetry making it similar in appearance to more common planetary nebulae - the gaseous shrouds surrounding dying sun-like stars. Also like many planetary nebulae, NGC 6164 has been found to have an extensive, faint halo, revealed in blue in this deep telescopic image of the region. Expanding into the surrounding interstellar medium, the material in the blue halo was likely expelled from an earlier active phase of the O-star. NGC 6164 lies 4,200 light-years away in the southern constellation of the Carpenter&#39;s Square (Norma).<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Monday, 26 December, 8:52 am GMT+8<br />
+Last refresh: Tuesday, 27 December, 8:52 am GMT+8<br />
