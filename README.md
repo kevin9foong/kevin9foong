@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:A Full Circle Rainbow over Norway</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2212&#x2F;FullCircleRainbow_Moesch_4500.jpg" /><br/>
-<b>Date:</b> 2022-12-27<br/>
-<b>Description:</b> Have you ever seen an entire rainbow? From the ground, typically, only the top portion of a rainbow is visible because directions toward the ground have fewer raindrops. From the air, though, the entire 360-degree circle of a rainbow is more commonly visible. Pictured here, a full-circle rainbow was captured over the Lofoten Islands of Norway in September by a drone passing through a rain shower. An observer-dependent phenomenon primarily caused by the internal reflection of sunlight by raindrops, the rainbow has a full diameter of 84 degrees. The Sun is in the exact opposite direction from the rainbow&#39;s center.  As a bonus, a second rainbow that was more faint and color-reversed was visible outside the first.<br/>
+<h3>:rocket:Messier 88</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2212&#x2F;M88_2022weebly.jpg" /><br/>
+<b>Date:</b> 2022-12-28<br/>
+<b>Description:</b> Charles Messier described the 88th entry in his 18th century catalog of Nebulae and Star Clusters as a nebula without stars. Of course the gorgeous M88 is now understood to be a spiral galaxy full of stars, gas, and dust, not unlike our own Milky Way. In fact, M88 is one of the brightest galaxies in the Virgo Galaxy Cluster some 50 million light-years away. M88&#39;s beautiful spiral arms are easy to trace in this sharp cosmic portait.  The arms are lined with young blue star clusters, pink star-forming regions, and obscuring dust lanes extending from a yellowish core dominated by an older population of stars. Spiral galaxy M88 spans over 100,000 light-years.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Wednesday, 28 December, 8:51 am GMT+8<br />
+Last refresh: Thursday, 29 December, 8:53 am GMT+8<br />
