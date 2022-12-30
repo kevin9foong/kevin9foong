@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Messier 88</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2212&#x2F;M88_2022weebly.jpg" /><br/>
-<b>Date:</b> 2022-12-28<br/>
-<b>Description:</b> Charles Messier described the 88th entry in his 18th century catalog of Nebulae and Star Clusters as a nebula without stars. Of course the gorgeous M88 is now understood to be a spiral galaxy full of stars, gas, and dust, not unlike our own Milky Way. In fact, M88 is one of the brightest galaxies in the Virgo Galaxy Cluster some 50 million light-years away. M88&#39;s beautiful spiral arms are easy to trace in this sharp cosmic portait.  The arms are lined with young blue star clusters, pink star-forming regions, and obscuring dust lanes extending from a yellowish core dominated by an older population of stars. Spiral galaxy M88 spans over 100,000 light-years.<br/>
+<h3>:rocket:Horsehead and Flame</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2212&#x2F;B33LRGB_fb.png" /><br/>
+<b>Date:</b> 2022-12-29<br/>
+<b>Description:</b> The Horsehead Nebula, famous celestial dark marking also known as Barnard 33, is notched against a background glow of emission nebulae in this sharp cosmic skyscape. About five light-years &quot;tall&quot; the Horsehead lies some 1,500 light-years away in the constellation of Orion. Within the region&#39;s fertile molecular cloud complex, the expanse of obscuring dust has a recognizable shape only by chance from our perspective in the Milky Way though. Orion&#39;s easternmost belt star, bright Alnitak, is to the left of center.  Energetic ultraviolet light from Alnitak powers the glow of dusty NGC 2024, the Flame Nebula, just below it. Completing a study in cosmic contrasts, bluish reflection nebula NGC 2023 is below the Horsehead itself. This well-framed telescopic field spans about 3 full moons on the sky.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Thursday, 29 December, 8:53 am GMT+8<br />
+Last refresh: Friday, 30 December, 8:53 am GMT+8<br />
