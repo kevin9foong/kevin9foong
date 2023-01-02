@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Moon over Makemake</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2212&#x2F;Makemakemoon100mile2000px.jpg" /><br/>
-<b>Date:</b> 2022-12-31<br/>
-<b>Description:</b> Makemake (sounds like MAH-kay MAH-kay), second brightest dwarf planet of the Kuiper belt, has a moon. Nicknamed MK2, Makemake&#39;s moon reflects sunlight with a charcoal-dark surface, about 1,300 times fainter than its parent body. Still, in 2016 it was spotted in Hubble Space Telescope observations intended to search for faint companions with the same technique used to find the small satellites of Pluto. Just as for Pluto and its satellites, further observations of Makemake and orbiting moon will measure the system&#39;s mass and density and allow a broader understanding of the distant worlds. About 160 kilometers (100 miles) across compared to Makemake&#39;s 1,400 kilometer diameter, MK2&#39;s relative size and contrast are shown in this artist&#39;s vision. An imagined scene of an unexplored frontier of the Solar System, it looks back from a spacecraft&#39;s vantage as the dim Sun shines along the Milky Way. Of course, the Sun is over 50 times farther from Makemake than it is from planet Earth.<br/>
+<h3>:rocket:The Largest Rock in our Solar System</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2301&#x2F;PaleBlueDotOrig_Voyager1_960.jpg" /><br/>
+<b>Date:</b> 2023-01-01<br/>
+<b>Description:</b> There, that dot on the right, that&#39;s the largest rock known in our Solar System. It is larger than every known asteroid, moon, and comet nucleus.  It is larger than any other local rocky planet.  This rock is so large its gravity makes it into a large ball that holds heavy gases near its surface.  (It used to be the largest known rock of any type until the recent discoveries of large dense planets orbiting other stars.)  The Voyager 1 spacecraft took the featured picture -- famously called Pale Blue Dot -- of this giant space rock in 1990 from the outer Solar System.  Today, this rock starts another orbit around its parent star, for roughly the 5 billionth time, spinning over 350 times during each trip.  Happy Gregorian Calendar New Year to all inhabitants of this rock we call Earth.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Sunday, 1 January, 9:00 am GMT+8<br />
+Last refresh: Monday, 2 January, 8:52 am GMT+8<br />
