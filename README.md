@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:CG4: The Globule and the Galaxy</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2301&#x2F;cg4_selby_5430.jpg" /><br/>
-<b>Date:</b> 2023-01-04<br/>
-<b>Description:</b> Can a gas cloud eat a galaxy?  It&#39;s not even close.  The &quot;claw&quot; of this odd looking &quot;creature&quot; in the featured photo is a gas cloud known as a cometary globule.  This globule, however, has ruptured.  Cometary globules are typically characterized by dusty heads and elongated tails.  These features cause cometary globules to have visual similarities to comets, but in reality they are very much different.  Globules are frequently the birthplaces of stars, and many show very young stars in their heads. The reason for the rupture in the head of this object is not yet known. The galaxy to the left of the globule is huge, very far in the distance, and only placed near CG4 by chance superposition.   Discovery + Outreach: Graduate student research position open for APOD<br/>
+<h3>:rocket:Messier 45: The Daughters of Atlas and Pleione</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2301&#x2F;M_45_Plejarden_Stefan_Thrun_klein4096.jpg" /><br/>
+<b>Date:</b> 2023-01-05<br/>
+<b>Description:</b> Hurtling through a cosmic dust cloud a mere 400 light-years away, the lovely Pleiades or Seven Sisters open star cluster is well-known for its striking blue reflection nebulae. It lies in the night sky toward the constellation Taurus and the Orion Arm of our Milky Way galaxy. The sister stars are not related to the dusty cloud though. They just happen to be passing through the same region of space. Known since antiquity as a compact grouping of stars, Galileo first sketched the star cluster viewed through his telescope with stars too faint to be seen by eye. Charles Messier recorded the position of the cluster as the 45th entry in his famous catalog of things which are not comets. In Greek myth, the Pleiades were seven daughters of the astronomical titan Atlas and sea-nymph Pleione. Their parents names are included in the cluster&#39;s nine brightest stars. This well-processed, color-calibrated telescopic image features pin-point stars and detailed filaments of interstellar dust captured in over 9 hours of exposure. It spans more than 20 light-years across the Pleiades star cluster.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Thursday, 5 January, 8:58 am GMT+8<br />
+Last refresh: Friday, 6 January, 8:55 am GMT+8<br />
