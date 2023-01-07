@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Messier 45: The Daughters of Atlas and Pleione</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2301&#x2F;M_45_Plejarden_Stefan_Thrun_klein4096.jpg" /><br/>
-<b>Date:</b> 2023-01-05<br/>
-<b>Description:</b> Hurtling through a cosmic dust cloud a mere 400 light-years away, the lovely Pleiades or Seven Sisters open star cluster is well-known for its striking blue reflection nebulae. It lies in the night sky toward the constellation Taurus and the Orion Arm of our Milky Way galaxy. The sister stars are not related to the dusty cloud though. They just happen to be passing through the same region of space. Known since antiquity as a compact grouping of stars, Galileo first sketched the star cluster viewed through his telescope with stars too faint to be seen by eye. Charles Messier recorded the position of the cluster as the 45th entry in his famous catalog of things which are not comets. In Greek myth, the Pleiades were seven daughters of the astronomical titan Atlas and sea-nymph Pleione. Their parents names are included in the cluster&#39;s nine brightest stars. This well-processed, color-calibrated telescopic image features pin-point stars and detailed filaments of interstellar dust captured in over 9 hours of exposure. It spans more than 20 light-years across the Pleiades star cluster.<br/>
+<h3>:rocket:Moon O&#39;Clock 2022</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2301&#x2F;MoonOClock.jpg" /><br/>
+<b>Date:</b> 2023-01-06<br/>
+<b>Description:</b> The first Full Moon of 2023 is in the sky tonight opposite the Sun at 23:08 UTC. Big and beautiful, the Moon at its brightest phase should be easy to spot. Still, for quick reference images captured near the times of all the full moons of 2022 are aranged in this dedicated astro-imaging project from Sri Lanka, planet Earth. The day, month, and a traditional popular name for 2022&#39;s twelve full moons are given in the chart. The apparent size of each full moon depends on how close the full lunar phase is to perigee or apogee, the closest or farthest point in the Moon&#39;s elliptical orbit. Like the 2022 Wolf Moon at the 1 o&#39;clock position, tonight&#39;s Full Moon occurs within a about two days of apogee. But unlike in 2022, the year 2023 will have 13 full moons that won&#39;t all fit nicely on the twelve hour clock.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Friday, 6 January, 8:55 am GMT+8<br />
+Last refresh: Saturday, 7 January, 8:52 am GMT+8<br />
