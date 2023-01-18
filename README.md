@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Moon Enhanced</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2301&#x2F;MoonEnhanced_Mirza_4085.jpg" /><br/>
-<b>Date:</b> 2023-01-16<br/>
-<b>Description:</b> Our Moon doesn&#39;t really look like this.  Earth&#39;s Moon, Luna, doesn&#39;t naturally show this rich texture, and its colors are more subtle. But this digital creation is based on reality.  The featured image is a composite of multiple images and enhanced to bring up real surface features.  The enhancements, for example, show more clearly craters that illustrate the tremendous bombardment our Moon has been through during its 4.6-billion-year history.  The dark areas, called maria, have fewer craters and were once seas of molten lava. Additionally, the image colors, although based on the moon&#39;s real composition, are changed and exaggerated.  Here, a blue hue indicates a region that is iron rich, while orange indicates a slight excess of aluminum.  Although the Moon has shown the same side to the Earth for billions of years, modern technology is allowing humanity to learn much more about it -- and how it affects the Earth.<br/>
+<h3>:rocket:Unexpected Clouds Toward the Andromeda Galaxy</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2301&#x2F;M31OiiiArc_Strottner_5000.jpg" /><br/>
+<b>Date:</b> 2023-01-17<br/>
+<b>Description:</b> Why are there oxygen-emitting arcs near the direction of the Andromeda galaxy? No one is sure. The gas arcs, shown in blue, were discovered and first confirmed by amateur astronomers just last year. The two main origin hypotheses for the arcs are that they really are close to Andromeda (M31), or that they are just coincidentally placed gas filaments in our Milky Way galaxy.  Adding to the mystery is that arcs were not seen in previous deep images of M31 taken primarily in light emitted by hydrogen, and that other, more distant galaxies have not been generally noted as showing similar oxygen-emitting structures.  Dedicated amateurs using commercial telescopes made this discovery because, in part, professional telescopes usually investigate angularly small patches of the night sky, whereas these arcs span several times the angular size of the full moon.  Future observations -- both in light emitted by oxygen and by other elements -- are sure to follow.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Tuesday, 17 January, 8:54 am GMT+8<br />
+Last refresh: Wednesday, 18 January, 8:56 am GMT+8<br />
