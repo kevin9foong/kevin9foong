@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Unexpected Clouds Toward the Andromeda Galaxy</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2301&#x2F;M31OiiiArc_Strottner_5000.jpg" /><br/>
-<b>Date:</b> 2023-01-17<br/>
-<b>Description:</b> Why are there oxygen-emitting arcs near the direction of the Andromeda galaxy? No one is sure. The gas arcs, shown in blue, were discovered and first confirmed by amateur astronomers just last year. The two main origin hypotheses for the arcs are that they really are close to Andromeda (M31), or that they are just coincidentally placed gas filaments in our Milky Way galaxy.  Adding to the mystery is that arcs were not seen in previous deep images of M31 taken primarily in light emitted by hydrogen, and that other, more distant galaxies have not been generally noted as showing similar oxygen-emitting structures.  Dedicated amateurs using commercial telescopes made this discovery because, in part, professional telescopes usually investigate angularly small patches of the night sky, whereas these arcs span several times the angular size of the full moon.  Future observations -- both in light emitted by oxygen and by other elements -- are sure to follow.<br/>
+<h3>:rocket:MACS0647: Gravitational Lensing of the Early Universe by Webb</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2301&#x2F;MacsClusterLens_Webb_2000.jpg" /><br/>
+<b>Date:</b> 2023-01-18<br/>
+<b>Description:</b> Gravitational lensing by the galaxy cluster MACS0647 -- in which the massive foreground cluster distorts and lenses the light emitted by distant background galaxies along the line of sight — is on vivid display here in this recent multi-color infrared image from the James Webb Space Telescope (JWST).  In particular, the background source MACS0647-JD is seen to be lensed three times by the cluster.  When first discovered with the Hubble Space Telescope, MACS0647-JD was observed as an amorphous blob.  With Webb though, this single source is revealed to be a pair or small group of galaxies.  The colors of the MACS0647-JD objects are different as well -- indicating differences potentially in the age or dust content of these galaxies.  These new images provide rare examples of galaxies in an era only a few 100 million years after the Big Bang.   Explore Your Universe: Random APOD Generator<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Wednesday, 18 January, 8:56 am GMT+8<br />
+Last refresh: Thursday, 19 January, 8:55 am GMT+8<br />
