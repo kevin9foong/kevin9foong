@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Galaxy Wars: M81 and M82</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2301&#x2F;AUFSCHNAITER_Andreas_APOD_Bode_Cigare2048.jpg" /><br/>
-<b>Date:</b> 2023-01-20<br/>
-<b>Description:</b> The two dominant galaxies near center are far far away, 12 million light-years distant toward the northern constellation of the Great Bear. On the right, with grand spiral arms and bright yellow core is spiral galaxy M81. Also known as Bode&#39;s galaxy, M81 spans some 100,000 light-years. On the left is cigar-shaped irregular galaxy M82.  The pair have been locked in gravitational combat for a billion years. Gravity from each galaxy has profoundly affected the other during a series of cosmic close encounters.  Their last go-round lasted about 100 million years and likely raised density waves rippling around M81, resulting in the richness of M81&#39;s spiral arms.  M82 was left with violent star forming regions and colliding gas clouds so energetic that the galaxy glows in X-rays.  In the next few billion years, their continuing gravitational encounters will result in a merger, and a single galaxy will remain. This extragalactic scenario also includes other members of the interacting M81 galaxy group with NGC 3077 below and right of the large spiral, and NGC 2976 at upper right in the frame. Captured under dark night skies in the Austrian Alps, the foreground of the wide-field image is filled with integrated flux nebulae. Those faint, dusty interstellar clouds reflect starlight above the plane of our own Milky Way galaxy.<br/>
+<h3>:rocket:Naked-eye Comet ZTF</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2301&#x2F;ZTF_salamanca.jpg" /><br/>
+<b>Date:</b> 2023-01-21<br/>
+<b>Description:</b> Comet C&#x2F;2022E3 (ZTF) no longer requires a telescope for viewing. By January 19, it could just be seen with the naked eye in this rural sky with little light pollution from a location about 20 kilometers from Salamanca, Spain. Still, telescopic images are needed to show any hint of the comet&#39;s pretty green coma, stubby whitish dust tail, and long ion tail. Its faint ion tail has been buffeted by recent solar activity. This visitor from the distant Oort cloud rounded the Sun on January 12. and is now sweeping through stars near the northern boundary of the constellation Bootes. Outward bound but still growing brighter, Comet ZTF makes its closest approach on February 2, coming to within about 2.4 light-minutes of our fair planet.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Saturday, 21 January, 8:54 am GMT+8<br />
+Last refresh: Sunday, 22 January, 8:57 am GMT+8<br />
