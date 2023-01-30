@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Comet ZTF over Mount Etna</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2301&#x2F;C2022E3ZTFMountEtna.jpg" /><br/>
-<b>Date:</b> 2023-01-28<br/>
-<b>Description:</b> Comet-like plumes are blowing over the volcanic peaks of Mount Etna in this wintry mountain-and-skyscape from planet Earth. The stacked and blended combination of individual exposures recorded during the cold night of January 23, also capture naked-eye Comet ZTF just above Etna&#39;s snowy slopes. Of course increasing sunlight and the solar wind are responsible for the comet&#39;s greenish coma and broad dusty tail. This weekend Comet ZTF is dashing across northern skies between north star Polaris and the Big Dipper. From a dark site you can only just spot it as a fuzzy patch though. That&#39;s still an impressive achievement if you consider you are gazing at a visitor from the distant Oort cloud with your own eyes. But binoculars or a small telescope will make for an even more enjoyable view of this Comet ZTF in the coming days.   Comet ZTF Gallery: Notable Submissions to APOD<br/>
+<h3>:rocket:Barnard 68: Dark Molecular Cloud</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2301&#x2F;barnard68v2_vlt_4000.jpg" /><br/>
+<b>Date:</b> 2023-01-29<br/>
+<b>Description:</b> Where did all the stars go?  What used to be considered a hole in the sky is now known to astronomers as a dark molecular cloud.  Here, a high concentration of dust and molecular gas absorb practically all the visible light emitted from background stars.  The eerily dark surroundings help make the interiors of molecular clouds some of the coldest and most isolated places in the universe.  One of the most notable of these dark absorption nebulae is a cloud toward the constellation Ophiuchus known as Barnard 68, pictured here.  That no stars are visible in the center indicates that Barnard 68 is relatively nearby, with measurements placing it about 500 light-years away and half a light-year across.  It is not known exactly how molecular clouds like Barnard 68 form, but it is known that these clouds are themselves likely places for new stars to form. In fact, Barnard 68 itself has been found likely to collapse and form a new star system. It is possible to look right through the cloud in infrared light.   Postcards from the Universe 2022: APOD Year in Review<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Sunday, 29 January, 8:58 am GMT+8<br />
+Last refresh: Monday, 30 January, 8:51 am GMT+8<br />
