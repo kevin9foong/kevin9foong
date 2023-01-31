@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Barnard 68: Dark Molecular Cloud</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2301&#x2F;barnard68v2_vlt_4000.jpg" /><br/>
-<b>Date:</b> 2023-01-29<br/>
-<b>Description:</b> Where did all the stars go?  What used to be considered a hole in the sky is now known to astronomers as a dark molecular cloud.  Here, a high concentration of dust and molecular gas absorb practically all the visible light emitted from background stars.  The eerily dark surroundings help make the interiors of molecular clouds some of the coldest and most isolated places in the universe.  One of the most notable of these dark absorption nebulae is a cloud toward the constellation Ophiuchus known as Barnard 68, pictured here.  That no stars are visible in the center indicates that Barnard 68 is relatively nearby, with measurements placing it about 500 light-years away and half a light-year across.  It is not known exactly how molecular clouds like Barnard 68 form, but it is known that these clouds are themselves likely places for new stars to form. In fact, Barnard 68 itself has been found likely to collapse and form a new star system. It is possible to look right through the cloud in infrared light.   Postcards from the Universe 2022: APOD Year in Review<br/>
+<h3>:rocket:Globular Star Cluster NGC 6355 from Hubble</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2301&#x2F;ngc6355_hubble_3769.jpg" /><br/>
+<b>Date:</b> 2023-01-30<br/>
+<b>Description:</b> Globular clusters once ruled the Milky Way.  Back in the old days, back when our Galaxy first formed, perhaps thousands of globular clusters roamed our Galaxy.  Today, there are less than 200 left.  Over the eons, many globular clusters were destroyed by repeated fateful encounters with each other or the Galactic center.  Surviving relics are older than any Earth fossil, older than any other structures in our Galaxy, and limit the universe itself in raw age.  There are few, if any, young globular clusters left in our Milky Way Galaxy because conditions are not ripe for more to form. The featured image shows a Hubble Space Telescope view of 13-billion year old NGC 6355, a surviving globular cluster currently passing near the Milky Way&#39;s center.  Globular cluster stars are concentrated toward the image center and highlighted by bright blue stars. Most other stars in the frame are dimmer, redder, and just coincidently lie near the direction to NGC 6355.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Monday, 30 January, 8:51 am GMT+8<br />
+Last refresh: Tuesday, 31 January, 8:57 am GMT+8<br />
