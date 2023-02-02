@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:A Triple View of Comet ZTF</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2301&#x2F;TripleCometZTF_Caldera_3574.jpg" /><br/>
-<b>Date:</b> 2023-01-31<br/>
-<b>Description:</b> Comet ZTF has a distinctive shape. The now bright comet visiting the inner Solar System has been showing not only a common dust tail, ion tail, and green gas coma, but also an uncommonly distinctive antitail. The antitail does not actually lead the comet -- it is just that the head of the comet is seen superposed on part of the fanned-out and trailing dust tail.  The giant dirty snowball that is Comet C&#x2F;2022 E3 (ZTF) has now passed its closest to the Sun and tomorrow will pass its closest to the Earth. The main panel of the featured triple image shows how Comet ZTF looked last week to the unaided eye under a dark and clear sky over Cáceres, Spain.  The top inset image shows how the comet looked through binoculars, while the lower inset shows how the comet looked through a small telescope.  The comet is now visible all night long from northern latitudes but will surely fade from easy observation during the next few weeks.    Comet ZTF Gallery: Notable Submissions to APOD<br/>
+<h3>:rocket:The Seventh World of Trappist-1</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2302&#x2F;Trappist1h_Carroll_1238.jpg" /><br/>
+<b>Date:</b> 2023-02-01<br/>
+<b>Description:</b> Seven worlds orbit the ultracool dwarf star TRAPPIST-1. A mere 40 light-years away, many of the exoplanets were discovered in 2016 using the Transiting Planets and Planetesimals Small Telescope (TRAPPIST) located in the Atlas Mountains of Morocco, and later confirmed with telescope including NASA&#39;s Spitzer Space Telescope. The TRAPPIST-1 planets are likely all rocky and similar in size to Earth, and so compose one of the largest treasure troves of terrestrial planets ever detected around a single star. Because they orbit very close to their faint, tiny star they could also have regions where surface temperatures allow for the presence of ice or even liquid water, a key ingredient for life. Their tantalizing proximity to Earth makes them prime candidates for future telescopic explorations of the atmospheres of potentially habitable planets.  All seven exoplanets appear in the featured illustration, which imagines a view from the most distant known world of this system, TRAPPIST-1h, as having a rocky landscape covered in ice. Meanwhile, in the imagined background, one of the system&#39;s inner planets crosses in front of the dim, orange, nearly Jupiter-sized parent star.   Astrophysicists: Browse 3,000+ codes in the Astrophysics Source Code Library<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Wednesday, 1 February, 9:01 am GMT+8<br />
+Last refresh: Thursday, 2 February, 8:55 am GMT+8<br />
