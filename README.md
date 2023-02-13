@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Magellanic Clouds over Chile</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2302&#x2F;magellanic.jpg" /><br/>
-<b>Date:</b> 2023-02-11<br/>
-<b>Description:</b> The two prominent clouds in this Chilean Atacama Desert skyscape captured on January 21 actually lie beyond our Milky Way galaxy.  Known as the Large and the Small Magellanic Clouds they are so named for the 16th century Portuguese explorer Ferdinand Magellan, leader of the first circumnavigation of planet Earth. Famous jewels of southern hemisphere skies, they are the brightest satellite galaxies of the Milky Way. The larger cloud is some 160,000 light-years, and the smaller 210,000 light-years distant. While both are irregular dwarf galaxies in their own right, they exhibit central barred structures in the deep wide-angle view. Wide and deep exposures also reveal faint dusty galactic cirrus nebulae and the imprints of gravitational tidal interactions between the Large and Small Magellanic Clouds.<br/>
+<h3>:rocket:Mammatus Clouds over Nebraska</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2302&#x2F;mammatus_olson_1024.jpg" /><br/>
+<b>Date:</b> 2023-02-12<br/>
+<b>Description:</b> When do cloud bottoms appear like bubbles? Normally, cloud bottoms are flat. This is because moist warm air that rises and cools will condense into water droplets at a specific temperature, which usually corresponds to a very specific height.  As water droplets grow, an opaque cloud forms.  Under some conditions, however, cloud pockets can develop that contain large droplets of water or ice that fall into clear air as they evaporate.  Such pockets may occur in turbulent air near a thunderstorm.  Resulting mammatus clouds can appear especially dramatic if sunlit from the side.  The mammatus clouds pictured here were photographed over Hastings, Nebraska during 2004 June.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Sunday, 12 February, 8:59 am GMT+8<br />
+Last refresh: Monday, 13 February, 8:57 am GMT+8<br />
