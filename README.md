@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Mammatus Clouds over Nebraska</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2302&#x2F;mammatus_olson_1024.jpg" /><br/>
-<b>Date:</b> 2023-02-12<br/>
-<b>Description:</b> When do cloud bottoms appear like bubbles? Normally, cloud bottoms are flat. This is because moist warm air that rises and cools will condense into water droplets at a specific temperature, which usually corresponds to a very specific height.  As water droplets grow, an opaque cloud forms.  Under some conditions, however, cloud pockets can develop that contain large droplets of water or ice that fall into clear air as they evaporate.  Such pockets may occur in turbulent air near a thunderstorm.  Resulting mammatus clouds can appear especially dramatic if sunlit from the side.  The mammatus clouds pictured here were photographed over Hastings, Nebraska during 2004 June.<br/>
+<h3>:rocket:Comet ZTF and Mars</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2302&#x2F;CometZtfMars_Lioce_4229.jpg" /><br/>
+<b>Date:</b> 2023-02-13<br/>
+<b>Description:</b> No, Comet ZTF is not going to hit Mars. Nicknamed the Green Comet for its bright green coma, C&#x2F;2022 E3 (ZTF) did, however, pass almost in front of the much-more distant planet a few days ago, very near in time to when the featured picture was taken. The two sky icons were here captured behind a famous Earth icon -- the Matterhorn, a mountain in the Alps between Switzerland and Italy with a  picturesque peak. Both the foreground and background images were taken on the same evening by the same camera and from the same location. The comet&#39;s  white dust tail is visible to the right of the green coma, while the light blue ion tail trails towards the top of the image. Orange Mars is well in front of the numerous background stars as well as the dark nebula Barnard 22 to its lower right. Although Mars remains visible in the evening sky for the next few months, Comet ZTF has already begun to fade as it returns to the outer Solar System.    Comet ZTF Gallery: Notable Submissions to APOD<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Monday, 13 February, 8:57 am GMT+8<br />
+Last refresh: Tuesday, 14 February, 8:57 am GMT+8<br />
