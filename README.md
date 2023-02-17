@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Airglow Sky over France</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2302&#x2F;AirglowFrance_Looten_2048.jpg" /><br/>
-<b>Date:</b> 2023-02-15<br/>
-<b>Description:</b> This unusual sky was both familiar and unfamiliar. The photographer&#39;s mission was to capture the arch of the familiar central band of our Milky Way Galaxy over a picturesque medieval manor.  The surprise was that on this January evening, the foreground sky was found glowing in a beautiful but unfamiliar manner. The striped bands are called airglow and they result from air high in Earth&#39;s atmosphere being excited by the Sun&#39;s light and emitting a faint light of its own. The bands cross the entire sky -- their curved appearance is due to the extremely wide angle of the camera lens. In the foreground lies Château de Losse in southwest France.  Other familiar sky delights dot the distant background including the bright white star Sirius, the orange planet Mars, the blue Pleiades star cluster, the red California Nebula, and, on the far right, the extended Andromeda Galaxy. The initial mission was also successful: across the top of the frame is the arching band of our Milky Way.   What if:  ChatGPT rewrote this text in the style of Shakespeare, Carl Sagan, or Scotty from Star Trek?<br/>
+<h3>:rocket:The Hydra Cluster of Galaxies</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2302&#x2F;ABELL1060_LRGB_NASA.jpg" /><br/>
+<b>Date:</b> 2023-02-16<br/>
+<b>Description:</b> Once upon a midnight dreary, while I pondered weak and weary, O&#39;er volumes of astronomy and forgotten lore, I stumbled upon this snapshot, cosmic and eerie, A sight that filled my heart with awe and more. Two stars, like sentinels, anchored the foreground, Of our Milky Way galaxy, a sight to behold, Beyond them, a cluster of Hydra, galaxies abound, 100 million light-years away, a story to be told. Three large galaxies, ellipticals and a spiral blue, Dominant and grand, each 150,000 light-years wide, But it was the overlapping pair that caught my view, Cataloged as NGC 3314, a sight I cannot hide. Abell 1060, the Hydra galaxy cluster&#39;s name, One of three large galaxy clusters close to our Milky Way, A universe bound by gravity, a celestial game, Where clusters align over larger scales, I cannot sway. At a distance of 100 million light-years, this snapshot&#39;s size, 1.3 million light-years across, a cosmic delight, A momentary glimpse into the universe&#39;s guise, But even this shall fade, and be nevermore in sight.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Thursday, 16 February, 8:56 am GMT+8<br />
+Last refresh: Friday, 17 February, 8:59 am GMT+8<br />
