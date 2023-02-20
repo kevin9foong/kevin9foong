@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Barred Spiral Galaxy NGC 1365 from Webb</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2302&#x2F;JWSTMIRI_ngc1365.png" /><br/>
-<b>Date:</b> 2023-02-18<br/>
-<b>Description:</b> A mere 56 million light-years distant toward the southern constellation Fornax, NGC 1365 is an enormous barred spiral galaxy about 200,000 light-years in diameter. That&#39;s twice the size of our own barred spiral Milky Way. This sharp image from the James Webb Space Telescope&#39;s Mid-Infrared Instrument (MIRI) reveals stunning details of this magnificent spiral in infrared light. Webb&#39;s field of view stretches about 60,000 light-years across NGC 1365, exploring the galaxy&#39;s core and bright newborn star clusters. The intricate network of dusty filaments and bubbles is created by young stars along spiral arms winding from the galaxy&#39;s central bar. Astronomers suspect the gravity field of NGC 1365&#39;s bar plays a crucial role in the galaxy&#39;s evolution, funneling gas and dust into a star-forming maelstrom and ultimately feeding material into the active galaxy&#39;s central, supermassive black hole.<br/>
+<h3>:rocket:Seven Dusty Sisters in Infrared</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2302&#x2F;Pleiades_WiseAntonucci_5000.jpg" /><br/>
+<b>Date:</b> 2023-02-19<br/>
+<b>Description:</b> Is this really the famous Pleiades star cluster? Known for its iconic blue stars, the Pleiades is shown here in infrared light where the surrounding dust outshines the stars. Here three infrared colors have been mapped into visual colors (R&#x3D;24, G&#x3D;12, B&#x3D;4.6 microns). The base images were taken by NASA&#39;s orbiting Wide Field Infrared Survey Explorer (WISE) spacecraft. Cataloged as M45 and nicknamed the Seven Sisters, the Pleiades star cluster is by chance situated in a passing dust cloud. The light and winds from the massive Pleiades stars preferentially repel smaller dust particles, causing the dust to become stratified into filaments, as seen. The featured image spans about 20 light years at the distance of the Pleiades, which lies about 450 light years distant toward the constellation of the Bull (Taurus).<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Sunday, 19 February, 8:57 am GMT+8<br />
+Last refresh: Monday, 20 February, 8:58 am GMT+8<br />
