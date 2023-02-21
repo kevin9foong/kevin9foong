@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Seven Dusty Sisters in Infrared</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2302&#x2F;Pleiades_WiseAntonucci_5000.jpg" /><br/>
-<b>Date:</b> 2023-02-19<br/>
-<b>Description:</b> Is this really the famous Pleiades star cluster? Known for its iconic blue stars, the Pleiades is shown here in infrared light where the surrounding dust outshines the stars. Here three infrared colors have been mapped into visual colors (R&#x3D;24, G&#x3D;12, B&#x3D;4.6 microns). The base images were taken by NASA&#39;s orbiting Wide Field Infrared Survey Explorer (WISE) spacecraft. Cataloged as M45 and nicknamed the Seven Sisters, the Pleiades star cluster is by chance situated in a passing dust cloud. The light and winds from the massive Pleiades stars preferentially repel smaller dust particles, causing the dust to become stratified into filaments, as seen. The featured image spans about 20 light years at the distance of the Pleiades, which lies about 450 light years distant toward the constellation of the Bull (Taurus).<br/>
+<h3>:rocket:NGC 1850: Not Found in the Milky Way</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2302&#x2F;Ngc1850_HubbleOzsarac_2048.jpg" /><br/>
+<b>Date:</b> 2023-02-20<br/>
+<b>Description:</b> There is nothing like this ball of stars in our Milky Way Galaxy. This is surprising because, at first glance, this featured image by the Hubble Space Telescope suggests that star cluster NGC 1850&#39;s size and shape are reminiscent of the many ancient globular star clusters which roam our own Milky Way Galaxy&#39;s halo.  But NGC 1850&#39;s stars are all too young, making it a type of star cluster with no known counterpart in the Milky Way.  Moreover, NGC 1850 is also a double star cluster, with a second, compact cluster of stars visible here just to the right of the large cluster&#39;s center.  Stars in the large cluster are estimated to be 50 million years young, while stars in the compact cluster are younger still, with an age of about 4 million years.  A mere 168,000 light-years distant, NGC 1850 is located near the outskirts of the Large Magellanic Cloud galaxy.  The glowing gas filaments across the image left, like supernova remnants in our own galaxy, testify to violent stellar explosions and indicate that short-lived massive stars have recently been present in the region.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Monday, 20 February, 8:58 am GMT+8<br />
+Last refresh: Tuesday, 21 February, 8:58 am GMT+8<br />
