@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Crescent Moon Occultation</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2302&#x2F;JupiterOccultationFefoBouvier.jpg" /><br/>
-<b>Date:</b> 2023-02-25<br/>
-<b>Description:</b> On February 22, a young Moon shared the western sky at sunset with bright planets Venus and Jupiter along the ecliptic plane. The beautiful celestial conjunction was visible around planet Earth. But from some locations Jupiter hid for a while, occulted by the crescent lunar disk. The Solar System&#39;s ruling gas giant was captured here just before it disappeared behind the Moon&#39;s dark edge, seen over the Río de la Plata at Colonia del Sacramento, Uruguay.  In the serene river and skyscape Venus is not so shy, shining brightly closer to the horizon through the fading twilight. Next week Venus and Jupiter will appear even closer in your evening sky.<br/>
+<h3>:rocket:Saturn&#39;s Iapetus: Moon with a Strange Surface</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2302&#x2F;iapetus_cassini_960.jpg" /><br/>
+<b>Date:</b> 2023-02-26<br/>
+<b>Description:</b> What would make a moon look like a walnut?  A strange ridge that circles Saturn&#39;s moon Iapetus&#39;s equator, visible near the bottom of the featured image, makes it appear similar to a popular edible nut.  The origin of the ridge remains unknown, though, with hypotheses including ice that welled up from below, a ring that crashed down from above, and structure left over from its formation perhaps 100 million years ago. Also strange is that about half of Iapetus is so dark that it can nearly disappear when viewed from Earth, while the rest is, reflectively, quite bright. Observations show that the degree of darkness of the terrain is strangely uniform, as if a dark coating was somehow recently applied to an ancient and highly cratered surface.  Last, several large impact basins occur around Iapetus, with a 400-kilometer wide crater visible near the image center, surrounded by deep cliffs that drop sharply to the crater floor.  The featured image was taken by the Saturn-orbiting Cassini spacecraft during a flyby of Iapetus at the end of 2004.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Sunday, 26 February, 9:02 am GMT+8<br />
+Last refresh: Monday, 27 February, 8:56 am GMT+8<br />
