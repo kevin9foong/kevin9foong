@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Artificial Night Sky Brightness</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2303&#x2F;WorldSkyBrightness_JpssLorenz_5848.jpg" /><br/>
-<b>Date:</b> 2023-03-08<br/>
-<b>Description:</b> Where have all the dim stars gone?  From many places on the Earth including major cities, the night sky has been reduced from a fascinating display of thousands of stars to a diffuse glow through which only a few stars are visible.  The featured map indicates the relative amount of light pollution that occurs across the Earth.  The cause of the pollution is artificial light reflecting off molecules and aerosols in the atmosphere.  Parts of the Eastern United States and Western Europe  colored red, for example, have an artificial night sky glow over ten times that of the natural sky.  In any area marked orange or red, the central band of our Milky Way Galaxy is no longer visible. The International Dark Sky Association suggests common types of fixtures that provide relatively little amounts of light pollution.   Light Up Your Internal Night Sky: Random APOD Generator<br/>
+<h3>:rocket:DART vs Dimorphos</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2303&#x2F;pressdracowithspacecraft1_1.jpg" /><br/>
+<b>Date:</b> 2023-03-09<br/>
+<b>Description:</b> On the first planetary defense test mission from planet Earth, the DART spacecraft captured this close-up on 26 September 2022, three seconds before slamming into the surface of asteroid moonlet Dimorphos. The spacecraft&#39;s outline with two long solar panels is traced at its projected point of impact between two boulders. The larger boulder is about 6.5 meters across. While the DART (Double Asteroid Redirection Test) spacecraft had a mass of some 570 kilograms, the estimated mass of Dimorphos, the smaller member of a near-Earth binary asteroid system, was about 5 billion kilograms. The direct kinetic impact of the spacecraft measurably altered the speed of Dimorphos by a fraction of a percent, reducing its 12 hour orbital period around its larger companion asteroid 65803 Didymos by about 33 minutes. Beyond successfully demonstrating a technique to change an asteroid&#39;s orbit that can prevent future asteroid strikes on planet Earth, the planetary-scale impact experiment has given the 150-meter-sized Dimorphos a comet-like tail of material.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Thursday, 9 March, 8:59 am GMT+8<br />
+Last refresh: Friday, 10 March, 8:58 am GMT+8<br />
