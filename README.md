@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Orion and the Running Man</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2303&#x2F;my_hero_rot.jpg" /><br/>
-<b>Date:</b> 2023-03-10<br/>
-<b>Description:</b> Few cosmic vistas excite the imagination like The Great Nebula in Orion. Visible as a faint celestial smudge to the naked-eye, the nearest large star-forming region sprawls across this sharp telescopic image, recorded on a cold January night in dark skies from West Virginia, planet Earth. Also known as M42, the Orion Nebula&#39;s glowing gas surrounds hot, young stars. About 40 light-years across, it lies at the edge of an immense interstellar molecular cloud only 1,500 light-years away within the same spiral arm of our Milky Way galaxy as the Sun. Along with dusty bluish reflection nebula NGC 1977 and friends near the top of the frame, the eye-catching nebulae represent only a small fraction of our galactic neighborhood&#39;s wealth of star-forming material. Within the well-studied stellar nursery, astronomers have also identified what appear to be numerous infant solar systems.<br/>
+<h3>:rocket:3D Bennu</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2303&#x2F;ana03BennuVantuyne1465c.jpg" /><br/>
+<b>Date:</b> 2023-03-11<br/>
+<b>Description:</b> Put on your red&#x2F;blue glasses and float next to asteroid 101955 Bennu. Shaped like a spinning toy top with boulders littering its rough surface, the tiny Solar System world is about one Empire State Building (less than 500 meters) across. Frames used to construct this 3D anaglyph were taken by PolyCam on the OSIRIS_REx spacecraft on December 3, 2018 from a distance of about 80 kilometers. With a sample from the asteroid&#39;s rocky surface on board, OSIRIS_REx departed Bennu&#39;s vicinity in May of 2021 and is now enroute to planet Earth. The robotic spacecraft is scheduled to return the sample to Earth this September.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Saturday, 11 March, 8:50 am GMT+8<br />
+Last refresh: Sunday, 12 March, 8:58 am GMT+8<br />
