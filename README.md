@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Rainbow Tree</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2303&#x2F;RainbowTree_Houck_3198.jpg" /><br/>
-<b>Date:</b> 2023-03-13<br/>
-<b>Description:</b> What lies at the end of a rainbow? Something different for everyone.  For the photographer taking this picture, for example, one end of the rainbow ended at a tree. Others nearby, though, would likely see the rainbow end somewhere else.  The reason is because a rainbow&#39;s position depends on the observer.  The center of a rainbow always appears in the direction opposite the Sun, but that direction lines up differently on the horizon from different locations. This rainbow&#39;s arc indicates that its center is about 40 degrees to the left and slightly below the horizon, while the Sun is well behind the camera and just above the horizon. Reflections and refractions of sunlight from raindrops in a distant storm in the direction of the rainbow are what causes the colorful bands of light. This single exposure image was captured in early January near Knight&#39;s Ferry, California, USA.<br/>
+<h3>:rocket:W5: The Soul Nebula</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2303&#x2F;Soul_Jimenez_3940.jpg" /><br/>
+<b>Date:</b> 2023-03-14<br/>
+<b>Description:</b> Stars are forming in the Soul of the Queen of Aethopia. More specifically, a large star forming region called the Soul Nebula can be found in the direction of the constellation Cassiopeia, whom Greek mythology credits as the vain wife of a King who long ago ruled lands surrounding the upper Nile river. Also known as Westerhout 5 (W5), the Soul Nebula houses several open clusters of stars, ridges and pillars darkened by cosmic dust, and huge evacuated bubbles formed by the winds of young massive stars. Located about 6,500 light years away, the Soul Nebula spans about 100 light years and is usually imaged next to its celestial neighbor the Heart Nebula (IC 1805). The featured image is a composite of exposures made in different colors: red as emitted by hydrogen gas, yellow as emitted by sulfur, and blue as emitted by oxygen.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Tuesday, 14 March, 8:48 am GMT+8<br />
+Last refresh: Wednesday, 15 March, 8:55 am GMT+8<br />
