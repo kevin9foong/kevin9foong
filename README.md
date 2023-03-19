@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:The Medusa Nebula</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2303&#x2F;medusaNeb.jpg" /><br/>
-<b>Date:</b> 2023-03-17<br/>
-<b>Description:</b> Braided and serpentine filaments of glowing gas suggest this nebula&#39;s popular name, The Medusa Nebula. Also known as Abell 21, this Medusa is an old planetary nebula some 1,500 light-years away in the constellation Gemini. Like its mythological namesake, the nebula is associated with a dramatic transformation. The planetary nebula phase represents a final stage in the evolution of low mass stars like the sun as they transform themselves from red giants to hot white dwarf stars and in the process shrug off their outer layers. Ultraviolet radiation from the hot star powers the nebular glow. The Medusa&#39;s transforming star is the faint one near the center of the overall bright crescent shape. In this deep telescopic view, fainter filaments clearly extend below and right of the bright crescent region. The Medusa Nebula is estimated to be over 4 light-years across.<br/>
+<h3>:rocket:Wolf-Rayet 124</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2303&#x2F;WR124_Webb.png" /><br/>
+<b>Date:</b> 2023-03-18<br/>
+<b>Description:</b> Driven by powerful stellar winds, expanding shrouds of gas and dust frame hot, luminous star Wolf-Rayet 124 in this sharp infrared view. The eye-catching 6-spike star pattern is characteristic of stellar images made with the 18 hexagonal mirrors of the James Webb Space Telescope. About 15,000 light-years distant toward the pointed northern constellation Sagitta, WR 124 has over 30 times the mass of the Sun. Produced in a brief and rarely spotted phase of massive star evolution in the Milky Way, this star&#39;s turbulent nebula is nearly 6 light-years across. It heralds WR 124&#39;s impending stellar death in a supernova explosion.  Formed in the expanding nebula, dusty interstellar debris that survives the supernova will influence the formation of future generations of stars.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Saturday, 18 March, 8:54 am GMT+8<br />
+Last refresh: Sunday, 19 March, 9:00 am GMT+8<br />
