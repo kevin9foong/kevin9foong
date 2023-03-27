@@ -11,11 +11,10 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Venus and the Da Vinci Glow</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2303&#x2F;_GHR3094-venerelunafirma.jpg" /><br/>
-<b>Date:</b> 2023-03-25<br/>
-<b>Description:</b> On March 23 early evening skygazers could watch Venus and a young crescent moon, both near the western horizon. On that date Earth&#39;s brilliant evening star, faint lunar night side and slender sunlit crescent were captured in this telephoto skyscape posing alongside a church tower from Danta di Cadore, Dolomiti, Italy. Of course the subtle lunar illumination is earthshine, earthlight reflected from the Moon&#39;s night side. A description of earthshine, in terms of sunlight reflected by Earth&#39;s oceans illuminating the Moon&#39;s dark surface, was written over 500 years ago by Leonardo da Vinci. On March 24, from some locations the Moon could be seen to occult or pass in front of Venus. Around the planet tonight, a waxing lunar crescent will appear near the Pleiades star cluster.<br/>
+<h3>:rocket:Wanderers</h3> 
+<b>Date:</b> 2023-03-26<br/>
+<b>Description:</b> How far out will humanity explore? If this video&#39;s fusion of real space imagery and fictional space visualizations is on the right track, then at least the Solar System. Some of the video&#39;s wondrous sequences depict future humans drifting through the rings of Saturn, exploring Jupiter from a nearby spacecraft, and jumping off a high cliff in the low gravity of a moon of Uranus. Although no one can know the future, wandering and exploring beyond boundaries -- both physical and intellectual -- is part of the human spirit and has frequently served humanity well in the past.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Sunday, 26 March, 8:56 am GMT+8<br />
+Last refresh: Monday, 27 March, 8:51 am GMT+8<br />
