@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Seeing Titan</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2303&#x2F;PIA21923_fig1SeeingTitan2400.jpg" /><br/>
-<b>Date:</b> 2023-03-31<br/>
-<b>Description:</b> Shrouded in a thick atmosphere, Saturn&#39;s largest moon Titan really is hard to see. Small particles suspended in the upper atmosphere cause an almost impenetrable haze, strongly scattering light at visible wavelengths and hiding Titan&#39;s surface features from prying eyes. But Titan&#39;s surface is better imaged at infrared wavelengths where scattering is weaker and atmospheric absorption is reduced. Arrayed around this visible light image (center) of Titan are some of the clearest global infrared views of the tantalizing moon so far. In false color, the six panels present a consistent processing of 13 years of infrared image data from the Visual and Infrared Mapping Spectrometer (VIMS) on board the Cassini spacecraft orbiting Saturn from 2004 to 2017. They offer a stunning comparison with Cassini&#39;s visible light view. NASA&#39;s revolutionary rotorcraft mission to Titan is due to launch in 2027.<br/>
+<h3>:rocket:NGC 2442: Galaxy in Volans</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2304&#x2F;NGC2442-NicolasROLLAND_signatur.jpg" /><br/>
+<b>Date:</b> 2023-04-01<br/>
+<b>Description:</b> Distorted galaxy NGC 2442 can be found in the southern constellation of the flying fish, (Piscis) Volans. Located about 50 million light-years away, the galaxy&#39;s two spiral arms extending from a pronounced central bar give it a hook-shaped appearance in this deep colorful image, with spiky foreground stars scattered across the telescopic field of view. The image also reveals the distant galaxy&#39;s obscuring dust lanes, young blue star clusters and reddish star forming regions surrounding a core of yellowish light from an older population of stars. But the star forming regions seem more concentrated along the drawn-out (upper right) spiral arm. The distorted structure is likely the result of an ancient close encounter with the smaller galaxy seen near the top left of the frame. The two interacting galaxies are separated by about 150,000 light-years at the estimated distance of NGC 2442.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Saturday, 1 April, 8:52 am GMT+8<br />
+Last refresh: Sunday, 2 April, 8:54 am GMT+8<br />
