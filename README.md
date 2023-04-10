@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:M100: A Grand Design Spiral Galaxy</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2304&#x2F;M100_HubbleWfc3_3679.jpg" /><br/>
-<b>Date:</b> 2023-04-08<br/>
-<b>Description:</b> Majestic on a truly cosmic scale, M100 is appropriately known as a grand design spiral galaxy.  It is a large galaxy of over 100 billion stars with well-defined spiral arms that is similar to our own Milky Way Galaxy.  One of the brightest members of the Virgo Cluster of galaxies, M100 (alias NGC 4321) is 56 million light-years distant toward the constellation of Berenice&#39;s Hair (Coma Berenices).  This Hubble Space Telescope image of M100 was taken with the Wide Field Camera 3 and accentuates bright blue star clusters and intricate winding dust lanes which are hallmarks of this class of galaxies.  Studies of variable stars in M100 have played an important role in determining the size and age of the Universe.<br/>
+<h3>:rocket:The Egg Nebula in Polarized Light</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2304&#x2F;egg_hst_0.jpg" /><br/>
+<b>Date:</b> 2023-04-09<br/>
+<b>Description:</b> Where is the center of the Egg Nebula? Emerging from a cosmic egg, the star in the center of the Egg Nebula is casting away shells of gas and dust as it slowly transforms itself into a white dwarf star.  The Egg Nebula is a rapidly evolving pre- planetary nebula spanning about one light year. It lies some 3,000 light-years away toward the northern constellation Cygnus. Thick dust blocks the center star from view, while the dust shells farther out reflect light from this star.  Light vibrating in the plane defined by each dust grain, the central star, and the observer is preferentially reflected, causing an effect known as polarization.  Measuring the orientation of the polarized light for the Egg Nebula gives clues to location of the hidden source.  Taken by Hubble&#39;s Advanced Camera for Surveys<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Sunday, 9 April, 8:51 am GMT+8<br />
+Last refresh: Monday, 10 April, 8:50 am GMT+8<br />
