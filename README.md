@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:The Egg Nebula in Polarized Light</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2304&#x2F;egg_hst_0.jpg" /><br/>
-<b>Date:</b> 2023-04-09<br/>
-<b>Description:</b> Where is the center of the Egg Nebula? Emerging from a cosmic egg, the star in the center of the Egg Nebula is casting away shells of gas and dust as it slowly transforms itself into a white dwarf star.  The Egg Nebula is a rapidly evolving pre- planetary nebula spanning about one light year. It lies some 3,000 light-years away toward the northern constellation Cygnus. Thick dust blocks the center star from view, while the dust shells farther out reflect light from this star.  Light vibrating in the plane defined by each dust grain, the central star, and the observer is preferentially reflected, causing an effect known as polarization.  Measuring the orientation of the polarized light for the Egg Nebula gives clues to location of the hidden source.  Taken by Hubble&#39;s Advanced Camera for Surveys<br/>
+<h3>:rocket:IC 2944: The Running Chicken Nebula</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2304&#x2F;ChickenRun_Stern_9006.jpg" /><br/>
+<b>Date:</b> 2023-04-10<br/>
+<b>Description:</b> To some, it looks like a giant chicken running across the sky. To others, it looks like a gaseous nebula where star formation takes place. Cataloged as IC 2944, the Running Chicken Nebula spans about 100 light years and lies about 6,000 light years away toward the constellation of the Centaur (Centaurus).  The featured image, shown in scientifically assigned colors, was captured recently in a 16-hour exposure over three nights. The star cluster Collinder 249 is visible embedded in the nebula&#39;s glowing gas.  Although difficult to discern here, several dark molecular clouds with distinct shapes can be found inside the nebula.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Monday, 10 April, 8:50 am GMT+8<br />
+Last refresh: Tuesday, 11 April, 8:53 am GMT+8<br />
