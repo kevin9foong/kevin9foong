@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Map of Total Solar Eclipse Path in 2024 April</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2304&#x2F;EclipseMap_nasa_5400.jpg" /><br/>
-<b>Date:</b> 2023-04-18<br/>
-<b>Description:</b> Would you like to see a total eclipse of the Sun?  If so, do any friends or relatives live near the path of next April&#39;s eclipse?  If yes again, then you might want to arrange a well-timed visit. Next April 8, the path of a total solar eclipse will cross North America from western Mexico to eastern Canada, entering the USA in southern Texas and exiting in northern Maine.  All of North America will experience the least a partial solar eclipse.  Featured here is a map of the path of totality.  Many people who have seen a total solar eclipse tell stories about it for the rest of their lives.  As a warmup, an annular solar eclipse will be visible later this year -- in mid-October.<br/>
+<h3>:rocket:Auroral Storm over Lapland</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2304&#x2F;AuroraSnow_Casado_3000.jpg" /><br/>
+<b>Date:</b> 2023-04-19<br/>
+<b>Description:</b> On some nights the sky is the best show in town.  On this night, auroras ruled the sky, and the geomagnetic storm that created this colorful sky show originated from an increasingly active Sun. Surprisingly, since the approaching solar CME the day before had missed the Earth, it was not expected that this storm would create auroras. In the foreground, two happily surprised aurora hunters contemplate the amazing and rapidly changing sky. Regardless of forecasts, though, auroras were reported in the night skies of Earth not only in the far north, but as far south as New Mexico, USA.  As captured in a wide-angle image above Saariselkä in northern Finnish Lapland, a bright aurora was visible with an unusually high degree of detail, range of colors, and breadth across the sky.  The vivid yellow, green, red and purple auroral colors are caused by oxygen and nitrogen atoms high in Earth&#39;s atmosphere reacting to incoming electrons.    Open Science: Browse 3,000+ codes in the Astrophysics Source Code Library<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Wednesday, 19 April, 8:52 am GMT+8<br />
+Last refresh: Thursday, 20 April, 8:50 am GMT+8<br />
