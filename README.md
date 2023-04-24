@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:NGC 1333: Stellar Nursery in Perseus</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2304&#x2F;NGC1333HST33rd.png" /><br/>
-<b>Date:</b> 2023-04-22<br/>
-<b>Description:</b> In visible light NGC 1333 is seen as a reflection nebula, dominated by bluish hues characteristic of starlight reflected by interstellar dust. A mere 1,000 light-years distant toward the heroic constellation Perseus, it lies at the edge of a large, star-forming molecular cloud. This Hubble Space Telescope close-up frames a region just over 1 light-year wide at the estimated distance of NGC 1333. It shows details of the dusty region along with telltale hints of contrasty red emission from Herbig-Haro objects, jets and shocked glowing gas emanating from recently formed stars. In fact, NGC 1333 contains hundreds of stars less than a million years old, most still hidden from optical telescopes by the pervasive stardust. The chaotic environment may be similar to one in which our own Sun formed over 4.5 billion years ago. Hubble&#39;s stunning image of the stellar nursery was released to celebrate the 33rd anniversary of the space telescope&#39;s launch.  Watch: Planet Earth&#39;s annual Lyrid Meteor Shower<br/>
+<h3>:rocket:A Waterspout in Florida</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2304&#x2F;waterspout_mole_960.jpg" /><br/>
+<b>Date:</b> 2023-04-23<br/>
+<b>Description:</b> What&#39;s happening over the water?  Pictured here is one of the better images yet recorded of a waterspout, a type of tornado that occurs over water.  Waterspouts are spinning columns of rising moist air that typically form over warm water. Waterspouts can be as dangerous as tornadoes and can feature wind speeds over 200 kilometers per hour.  Some waterspouts form away from thunderstorms and even during relatively fair weather.  Waterspouts may be relatively transparent and initially visible only by an unusual pattern they create on the water.  The featured image was taken in 2013 July near Tampa Bay, Florida. The Atlantic Ocean off the coast of Florida is arguably the most active area in the world for waterspouts, with hundreds forming each year.    Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Sunday, 23 April, 8:55 am GMT+8<br />
+Last refresh: Monday, 24 April, 8:52 am GMT+8<br />
