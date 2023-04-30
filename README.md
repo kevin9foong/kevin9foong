@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Runaway Star Alpha Camelopardalis</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2304&#x2F;AlphaCamelopardis_s3100.png" /><br/>
-<b>Date:</b> 2023-04-28<br/>
-<b>Description:</b> Like a ship plowing through cosmic seas, runaway star Alpha Camelopardalis has produced this graceful arcing bow wave or bow shock. The massive supergiant star moves at over 60 kilometers per second through space, compressing the interstellar material in its path. At the center of this nearly 6 degree wide view, Alpha Cam is about 25-30 times as massive as the Sun, 5 times hotter (30,000 kelvins), and over 500,000 times brighter. About 4,000 light-years away in the long-necked constellation Camelopardalis, the star also produces a strong stellar wind. Alpha Cam&#39;s bow shock stands off about 10 light-years from the star itself. What set this star in motion? Astronomers have long thought that Alpha Cam was flung out of a nearby cluster of young hot stars due to gravitational interactions with other cluster members or perhaps by the supernova explosion of a massive companion star.<br/>
+<h3>:rocket:Solar Eclipse from a Ship</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2304&#x2F;TSE2023-Comp48-2a.jpg" /><br/>
+<b>Date:</b> 2023-04-29<br/>
+<b>Description:</b> Along a narrow path that mostly avoided landfall, the shadow of the New Moon raced across planet Earth&#39;s southern hemisphere on April 20 to create a rare annular-total or hybrid solar eclipse. From the Indian Ocean off the coast of western Australia, ship-borne eclipse chasers were able to witness 62 seconds of totality though while anchored near the centerline of the total eclipse track. This ship-borne image of the eclipse captures the active Sun&#39;s magnificent outer atmosphere or solar corona streaming into space. A composite of 11 exposures ranging from 1&#x2F;2000 to 1&#x2F;2 second, it records an extended range of brightness to follow details of the corona not quite visible to the eye during the total eclipse phase. Of course eclipses tend to come in pairs. On May 5, the next Full Moon will just miss the dark inner part of Earth&#39;s shadow in a penumbral lunar eclipse.   Total Solar Eclipse of 2023 April Gallery: Notable Submissions to APOD<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Saturday, 29 April, 8:49 am GMT+8<br />
+Last refresh: Sunday, 30 April, 8:55 am GMT+8<br />
