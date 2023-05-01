@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Solar Eclipse from a Ship</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2304&#x2F;TSE2023-Comp48-2a.jpg" /><br/>
-<b>Date:</b> 2023-04-29<br/>
-<b>Description:</b> Along a narrow path that mostly avoided landfall, the shadow of the New Moon raced across planet Earth&#39;s southern hemisphere on April 20 to create a rare annular-total or hybrid solar eclipse. From the Indian Ocean off the coast of western Australia, ship-borne eclipse chasers were able to witness 62 seconds of totality though while anchored near the centerline of the total eclipse track. This ship-borne image of the eclipse captures the active Sun&#39;s magnificent outer atmosphere or solar corona streaming into space. A composite of 11 exposures ranging from 1&#x2F;2000 to 1&#x2F;2 second, it records an extended range of brightness to follow details of the corona not quite visible to the eye during the total eclipse phase. Of course eclipses tend to come in pairs. On May 5, the next Full Moon will just miss the dark inner part of Earth&#39;s shadow in a penumbral lunar eclipse.   Total Solar Eclipse of 2023 April Gallery: Notable Submissions to APOD<br/>
+<h3>:rocket:Saturn&#39;s Moon Helene in Color</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2304&#x2F;helene2_cassini_1024.jpg" /><br/>
+<b>Date:</b> 2023-04-30<br/>
+<b>Description:</b> Although its colors may be subtle, Saturn&#39;s moon Helene is an enigma in any light. The moon was imaged in unprecedented detail in 2012 as the robotic Cassini spacecraft orbiting Saturn swooped to within a single Earth diameter of the diminutive moon. Although conventional craters and hills appear, the above image also shows terrain that appears unusually smooth and streaked. Planetary astronomers are inspecting these detailed images of Helene to glean clues about the origin and evolution of the 30-km across floating iceberg. Helene is also unusual because it circles Saturn just ahead of the large moon Dione, making it one of only four known Saturnian moons to occupy a gravitational well known as a stable Lagrange point.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Sunday, 30 April, 8:55 am GMT+8<br />
+Last refresh: Monday, 1 May, 8:54 am GMT+8<br />
