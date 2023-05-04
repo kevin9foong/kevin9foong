@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Flat Rock Hills on Mars</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2305&#x2F;FlatMars_CuriosityThompson_2713.jpg" /><br/>
-<b>Date:</b> 2023-05-02<br/>
-<b>Description:</b> Why are there so many flat rocks on Mars? Some views of plains and hills on Mars show many rocks that are unusually flat when compared to rocks on Earth. One reason for this is a process that is common to both Mars and Earth: erosion. The carbon-dioxide wind on Mars can act like sandpaper when it blows around gritty Martian sand. This sand can create differential erosion, smoothing over some rocks, while wearing down the tops of other long-exposed stones.  The featured image capturing several hills covered with flat-topped rocks was taken last month by NASA&#39;s  Curiosity Rover on Mars. This robotic rover has now been rolling across Mars for ten years and has helped uncover many details of the wet and windy past of Earth&#39;s planetary neighbor.  After taking this and other images, Curiosity carefully navigated stones and slippery sand to climb up Marker Band Valley.<br/>
+<h3>:rocket:Centaurus A: A Peculiar Island of Stars</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2305&#x2F;NGC5128_Lorenzi_3000.jpg" /><br/>
+<b>Date:</b> 2023-05-03<br/>
+<b>Description:</b> Galaxies are fascinating. In galaxies, gravity alone holds together massive collections of stars, dust, interstellar gas, stellar remnants and dark matter.  Pictured is NGC 5128, better known as Centaurus A.  Cen A is the fifth brightest galaxy on the sky and is located at a distance of about 12 million light years from Earth. The warped shape of Cen A is the result of a merger between an elliptical and a spiral galaxy.  Its active galactic nucleus harbors a supermassive black hole that is about 55 million times more massive than our Sun.  This central black hole ejects a fast  jet visible in both radio and X-ray light. Filaments of the jet are visible in red in the upper left.  New observations by the Event Horizon Telescope have revealed a brightening of the jet only towards its edges -- but for reasons that are currently unknown and an active topic of research.   At NASA it&#39;s: Black Hole Week<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Wednesday, 3 May, 8:51 am GMT+8<br />
+Last refresh: Thursday, 4 May, 8:51 am GMT+8<br />
