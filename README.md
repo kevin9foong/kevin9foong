@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Twilight in a Flower</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2305&#x2F;TwilightFlower.jpg" /><br/>
-<b>Date:</b> 2023-05-06<br/>
-<b>Description:</b> Transformed into the petals of a flower, 16 exposures show the passage of day into night in this creative timelapse skyscape. Start at the top and move counterclockwise to follow consecutive moments as the twilight sky turns an ever darker blue and night blossoms. Each exposure was recorded on the evening of April 22, calculated to maintain a consistent balance of light and color.  Close to the western horizon on that date, a crescent Moon and Venus are the two brightest celestial beacons. Petal to petal the pair spiral closer to the flower&#39;s center. In silhouette around the center of the twilight flower are Sicily&#39;s megalithic rocks of Argimusco.<br/>
+<h3>:rocket:The Helix Nebula from CFHT</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2305&#x2F;Helix2_CFHT_1917.jpg" /><br/>
+<b>Date:</b> 2023-05-07<br/>
+<b>Description:</b> Will our Sun look like this one day?  The Helix Nebula is one of brightest and closest examples of a planetary nebula, a gas cloud created at the end of the life of a Sun-like star. The outer gasses of the star expelled into space appear from our vantage point as if we are looking down a helix. The remnant central stellar core, destined to become a white dwarf star, glows in light so energetic it causes the previously expelled gas to fluoresce. The Helix Nebula, given a technical designation of NGC 7293, lies about 700 light-years away towards the constellation of the Water Bearer (Aquarius) and spans about 2.5 light-years. The featured picture was taken with the Canada-France-Hawaii Telescope (CFHT) located atop a dormant volcano in Hawaii, USA. A close-up of the inner edge of the Helix Nebula shows complex gas knots of unknown origin.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Sunday, 7 May, 8:54 am GMT+8<br />
+Last refresh: Monday, 8 May, 8:50 am GMT+8<br />
