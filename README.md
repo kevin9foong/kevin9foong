@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:The Spanish Dancer Spiral Galaxy</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2305&#x2F;NGC1566_HubbleOdenthal_1280.jpg" /><br/>
-<b>Date:</b> 2023-05-08<br/>
-<b>Description:</b> If not perfect, then this spiral galaxy is at least one of the most photogenic. An island universe containing billions of stars and situated about 40 million light-years away toward the constellation of the Dolphinfish (Dorado), NGC 1566 presents a gorgeous face-on view. Classified as a grand design spiral, NGC 1566 shows two prominent and graceful spiral arms that are traced by bright blue star clusters and dark cosmic dust lanes. Numerous Hubble Space Telescope images of NGC 1566 have been taken to study star formation, supernovas, and the spiral&#39;s unusually active center. Some of these images, stored online in the Hubble Legacy Archive, were freely downloaded, combined, and digitally processed by an industrious amateur to create the featured image. NGC 1566&#39;s flaring center makes the spiral one of the closest and brightest Seyfert galaxies, likely housing a central supermassive black hole wreaking havoc on surrounding stars and gas.   Almost Hyperspace: Random APOD Generator<br/>
+<h3>:rocket:Shadows of Earth</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2305&#x2F;ColorsShadows_Pace_1280.jpg" /><br/>
+<b>Date:</b> 2023-05-09<br/>
+<b>Description:</b> Can you find two Earth shadows in today&#39;s image? It&#39;s a bit tricky. To find the first shadow, observe that the top part of the atmosphere appears pink and the lower part appears blue.  This is because the top half is exposed to direct sunlight, while the lower part is not. The purple area in between is known as the Belt of Venus, even though Venus can only appear on the other side of the sky, near the Sun. The blue color of the lower atmosphere is caused by the Earth blocking sunlight, creating Earth shadow number 1. Now, where is the second Earth shadow?  Take a look at the Moon.  Do you notice something unusual about the lower left part? That area appears unusually dark because it is in the shadow of the Earth, creating Earth shadow number 2. To be precise, the Moon was captured during a  lunar eclipse.  This carefully timed image was taken in Sampieri, Sicily, Italy, in July 2018.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Tuesday, 9 May, 8:52 am GMT+8<br />
+Last refresh: Wednesday, 10 May, 8:50 am GMT+8<br />
