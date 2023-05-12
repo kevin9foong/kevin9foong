@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Milky Way over Egyptian Desert</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2305&#x2F;DesertSky_Abdelwahab_2048.jpg" /><br/>
-<b>Date:</b> 2023-05-10<br/>
-<b>Description:</b> For ten years the stargazer dreamed of taking a picture like this. The dreamer knew that the White Desert National Park in Egypt&#39;s Western Desert is a picturesque place hosting numerous chalk formations sculpted into surreal structures by a sandy wind. The dreamer knew that the sky above could be impressively dark on a clear moonless night, showing highlights such as the central band of our Milky Way Galaxy in impressive color and detail. So the dreamer invited an even more experienced astrophotographer to spend three weeks together in the desert and plan the composite images that needed to be taken and processed to create the dream image.  Over three days in mid-March, the base images were taken, all with the same camera and from the same location.  The impressive result is featured here, with the dreamer -- proudly wearing a traditional Bedouin galabyia -- pictured in the foreground.<br/>
+<h3>:rocket:Fomalhaut&#39;s Dusty Debris Disk</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2305&#x2F;STSCI_FomalhautDisk.png" /><br/>
+<b>Date:</b> 2023-05-11<br/>
+<b>Description:</b> Fomalhaut is a bright star, a 25 light-year voyage from planet Earth in the direction of the constellation Piscis Austrinus. Astronomers first noticed Fomalhaut&#39;s excess infrared emission in the 1980s. Space and ground-based telescopes have since identified the infrared emission&#39;s source as a disk of dusty debris, evidence for a planetary system surrounding the hot, young star.  But this sharp infrared image from the James Webb Space Telescope&#39;s MIRI camera reveals details of Fomalhaut&#39;s debris disk never before seen, including a large dust cloud in the outer ring that is possible evidence for colliding bodies, and an inner dust disk and gap likely shaped and maintained by embedded but unseen planets. An image scale bar in au or astronomical units, the average Earth-Sun distance, appears at the lower left. Fomalhaut&#39;s outer circumstellar dust ring lies at about twice the distance of our own Solar System&#39;s Kuiper Belt of small icy bodies and debris beyond the orbit of Neptune.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Thursday, 11 May, 8:50 am GMT+8<br />
+Last refresh: Friday, 12 May, 8:51 am GMT+8<br />
