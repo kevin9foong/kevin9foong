@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Sunspot with Light Bridge</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2305&#x2F;SunSpotBridge_Johnston_960.jpg" /><br/>
-<b>Date:</b> 2023-05-17<br/>
-<b>Description:</b> Why would a small part of the Sun appear slightly dark?  Visible is a close-up picture of sunspots, depressions on the Sun&#39;s surface that are slightly cooler and less bright than the rest of the Sun.  The Sun&#39;s complex magnetic field creates these cool regions by inhibiting hot material from entering the spots.  Sunspots can be larger than the Earth and typically last for about a week.  Part of active region AR 3297 crossing the Sun in early May, the large lower sunspot is spanned by an impressive light bridge of hot and suspended solar gas.  This high-resolution picture also shows clearly that the Sun&#39;s surface is a bubbling carpet of separate cells of hot gas. These cells are known as granules.  A solar granule is about 1000 kilometers across and lasts for only about 15 minutes.    Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)<br/>
+<h3>:rocket:WR 134 Ring Nebula</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2305&#x2F;WR134SHO.jpg" /><br/>
+<b>Date:</b> 2023-05-18<br/>
+<b>Description:</b> Made with narrowband filters, this cosmic snapshot covers a field of view about the size of the full Moon within the boundaries of the constellation Cygnus. It highlights the bright edge of a ring-like nebula traced by the glow of ionized sulfur, hydrogen, and oxygen gas. Embedded in the region&#39;s interstellar clouds of gas and dust, the complex, glowing arcs are sections of bubbles or shells of material swept up by the wind from Wolf-Rayet star WR 134, brightest star near the center of the frame. Distance estimates put WR 134 about 6,000 light-years away, making the frame over 50 light-years across. Shedding their outer envelopes in powerful stellar winds, massive Wolf-Rayet stars have burned through their nuclear fuel at a prodigious rate and end this final phase of massive star evolution in a spectacular supernova explosion. The stellar winds and final supernovae enrich the interstellar material with heavy elements to be incorporated in future generations of stars.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Thursday, 18 May, 8:51 am GMT+8<br />
+Last refresh: Friday, 19 May, 8:52 am GMT+8<br />
