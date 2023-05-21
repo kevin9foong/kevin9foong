@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Curly Spiral Galaxy M63</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2305&#x2F;m63.jpg" /><br/>
-<b>Date:</b> 2023-05-19<br/>
-<b>Description:</b> A bright spiral galaxy of the northern sky, Messier 63 is nearby, about 30 million light-years distant toward the loyal constellation Canes Venatici. Also cataloged as NGC 5055, the majestic island universe is nearly 100,000 light-years across, about the size of our own Milky Way. Its bright core and majestic spiral arms lend the galaxy its popular name, The Sunflower Galaxy. This exceptionally deep exposure also follows faint, arcing star streams far into the galaxy&#39;s halo. Extending nearly 180,000 light-years from the galactic center, the star streams are likely remnants of tidally disrupted satellites of M63. Other satellite galaxies of M63 can be spotted in the remarkable wide-field image, including faint dwarf galaxies, which could contribute to M63&#39;s star streams in the next few billion years.<br/>
+<h3>:rocket:Galileo&#39;s Europa</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2305&#x2F;PIA19048europa.jpg" /><br/>
+<b>Date:</b> 2023-05-20<br/>
+<b>Description:</b> Looping through the Jovian system in the late 1990s, the Galileo spacecraft recorded stunning views of Europa and uncovered evidence that the moon&#39;s icy surface likely hides a deep, global ocean. Galileo&#39;s Europa image data has been remastered here, with improved calibrations to produce a color image approximating what the human eye might see. Europa&#39;s long curving fractures hint at the subsurface liquid water.  The tidal flexing the large moon experiences in its elliptical orbit around Jupiter supplies the energy to keep the ocean liquid. But more tantalizing is the possibility that even in the absence of sunlight that process could also supply the energy to support life, making Europa one of the best places to look for life beyond Earth. What kind of life could thrive in a deep, dark, subsurface ocean? Consider planet Earth&#39;s own extreme shrimp.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Saturday, 20 May, 8:49 am GMT+8<br />
+Last refresh: Sunday, 21 May, 8:54 am GMT+8<br />
