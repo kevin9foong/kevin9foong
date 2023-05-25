@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Jupiter&#39;s Swirls from Juno</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2305&#x2F;JupiterSwirls_JunoGill_960.jpg" /><br/>
-<b>Date:</b> 2023-05-23<br/>
-<b>Description:</b> Big storms are different on Jupiter. On Earth, huge hurricanes and colossal cyclones are centered on regions of low pressure, but on Jupiter, it is the high-pressure, anti-cyclone storms that are the largest. On Earth, large storms can last weeks, but on Jupiter they can last years. On Earth, large storms can be as large as a country, but on Jupiter, large storms can be as large as planet Earth. Both types of storms are known to exhibit lightning. The featured image of Jupiter&#39;s clouds was composed from images and data captured by the robotic Juno spacecraft as it swooped close to the massive planet in August 2020.  A swirling white oval is visible nearby, while numerous smaller cloud swirls extend into the distance.  On Jupiter, light-colored clouds are usually higher up than dark clouds. Despite their differences, studying storm clouds on distant Jupiter provides insights into storms and other weather patterns on familiar Earth.     Surf the Universe: Random APOD Generator<br/>
+<h3>:rocket:Observatory Aligned with Moon Occulting Jupiter</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2305&#x2F;MoonJupiter_Whitacre_1920.jpg" /><br/>
+<b>Date:</b> 2023-05-24<br/>
+<b>Description:</b> Sometimes we witness the Moon moving directly in front of -- called occulting -- one of the planets in our Solar System. Earlier this month that planet was Jupiter.  Captured here was the moment when Jupiter re-appeared from behind the surface of our Moon. The Moon was in its third quarter, two days before the dark New Moon. Now, our Moon is continuously half lit by the Sun, but when in its third quarter, relatively little of that half can be seen from the Earth. Pictured, the Moon itself was aligned behind the famous Lick Observatory in California, USA, on the summit of Mount Hamilton. Coincidentally, Lick enabled the discovery of a moon of Jupiter: Amalthea, the last visually detected moon of Jupiter after Galileo&#39;s observations.   Gallery: Moon Occults Jupiter in 2023 May: Notable Submissions to APOD<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Wednesday, 24 May, 8:53 am GMT+8<br />
+Last refresh: Thursday, 25 May, 8:51 am GMT+8<br />
