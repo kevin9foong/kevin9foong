@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Milky Way over a Turquoise Wonderland</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2305&#x2F;SeaBlueSky_Horalek_960.jpg" /><br/>
-<b>Date:</b> 2023-05-29<br/>
-<b>Description:</b> What glows there?  The answer depends: sea or sky? In the sea, the unusual blue glow is bioluminescence. Specifically, the glimmer arises from Noctiluca scintillans, single-celled plankton stimulated by the lapping waves. The plankton use their glow to startle and illuminate predators.  This mid-February display on an island in the Maldives was so intense that the astrophotographer described it as a turquoise wonderland. In the sky, by contrast, are the more familiar glows of stars and nebulas. The white band rising from the artificially-illuminated green plants is created by billions of stars in the central disk of our Milky Way Galaxy.  Also visible in the sky is the star cluster Omega Centauri, toward the left, and the famous Southern Cross asterism in the center. Red-glowing nebulas include the bright Carina Nebula, just right of center, and the expansive Gum Nebula on the upper right.<br/>
+<h3>:rocket:M27: The Dumbbell Nebula</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2305&#x2F;M27_Cosgrove_2717.jpg" /><br/>
+<b>Date:</b> 2023-05-30<br/>
+<b>Description:</b> Is this what will become of our Sun? Quite possibly.  The first hint of our Sun&#39;s future was discovered inadvertently in 1764. At that time, Charles Messier was compiling a list of diffuse objects not to be confused with comets. The 27th object on Messier&#39;s list, now known as M27 or the Dumbbell Nebula, is a planetary nebula, one of the brightest planetary nebulae on the sky and visible with binoculars toward the constellation of the Fox (Vulpecula). It takes light about 1000 years to reach us from M27, featured here in colors emitted by sulfur (red), hydrogen (green) and oxygen (blue). We now know that in about 6 billion years, our Sun will shed its outer gases into a planetary nebula like M27, while its remaining center will become an X-ray hot white dwarf star.  Understanding the physics and significance of M27 was well beyond 18th century science, though. Even today, many things remain mysterious about planetary nebulas, including how their intricate shapes are created.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Tuesday, 30 May, 8:54 am GMT+8<br />
+Last refresh: Wednesday, 31 May, 8:58 am GMT+8<br />
