@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:The Shark Nebula</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2306&#x2F;Shark_Kennedy_4176.jpg" /><br/>
-<b>Date:</b> 2023-06-14<br/>
-<b>Description:</b> There is no sea on Earth large enough to contain the Shark nebula. This predator apparition poses us no danger as it is composed only of interstellar gas and dust. Dark dust like that featured here is somewhat like cigarette smoke and created in the cool atmospheres of giant stars. After being expelled with gas and gravitationally recondensing, massive stars may carve intricate structures into their birth cloud using their high energy light and fast stellar winds as sculpting tools.  The heat they generate evaporates the murky molecular cloud as well as causing ambient hydrogen gas to disperse and glow red.  During disintegration, we humans can enjoy imagining these great clouds as common icons, like we do for water clouds on Earth. Including smaller dust nebulae such as Lynds Dark Nebula 1235 and Van den Bergh 149 &amp; 150, the Shark nebula spans about 15 light years and lies about 650 light years away toward the constellation of the King of Aethiopia (Cepheus).<br/>
+<h3>:rocket:M15: Dense Globular Star Cluster</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2306&#x2F;M15-3.jpg" /><br/>
+<b>Date:</b> 2023-06-15<br/>
+<b>Description:</b> Messier 15 is an immense swarm of over 100,000 stars. A 13 billion year old relic of the early formative years of our galaxy it&#39;s one of about 170 globular star clusters that still roam the halo of the Milky Way. Centered in this sharp reprocessed Hubble image, M15 lies some 35,000 light-years away toward the constellation Pegasus. Its diameter is about 200 light-years, but more than half its stars are packed into the central 10 light-years or so, making one of the densest concentrations of stars known. Hubble-based measurements of the increasing velocities of M15&#39;s central stars are evidence that a massive black hole resides at the center of the dense cluster. M15 is also known to harbour a planetary nebula. Called Pease 1 (aka PN Ps 1), it can be seen in this image as a small blue blob below and just right of center.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Thursday, 15 June, 8:57 am GMT+8<br />
+Last refresh: Friday, 16 June, 8:57 am GMT+8<br />
