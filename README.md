@@ -11,11 +11,10 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Sunset to Sunrise over the Baltic Sea</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2306&#x2F;baltic-sea-timelapse-image.jpg" /><br/>
-<b>Date:</b> 2023-06-16<br/>
-<b>Description:</b> This serene view from the coast of Sweden looks across the Baltic sea and compresses time, presenting the passage of one night in a single photograph. From sunset to sunrise, moonlight illuminates the creative sea and skyscape. Fleeting clouds, fixed stars, and flowing northern lights leave their traces in planet Earth&#39;s sky. To construct the timelapse image, 3296 video frames were recorded on the night of a nearly full moon between 7:04pm and 6:35am local time. As time progresses from left to right, a single column of pixels was taken from the corresponding individual frame and combined in sequence into a single digital image 3296 pixels wide.  Happy Birthday APOD<br/>
+<h3>:rocket:Planet Earth at Night II</h3> 
+<b>Date:</b> 2023-06-17<br/>
+<b>Description:</b> Recorded during 2017, timelapse sequences from the International Space Station are compiled in this serene video of planet Earth at Night. Fans of low Earth orbit can start by enjoying the view as green and red aurora borealis slather up the sky. The night scene tracks from northwest to southeast across North America, toward the Gulf of Mexico and the Florida coast. A second sequence follows European city lights, crosses the Mediterranean Sea, and passes over a bright Nile river in northern Africa. Seen from the orbital outpost, erratic flashes of lightning appear in thunder storms below and stars rise above the planet&#39;s curved horizon through a faint atmospheric airglow. Of course, from home you can always check out the vital signs of Planet Earth Now.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Saturday, 17 June, 8:54 am GMT+8<br />
+Last refresh: Sunday, 18 June, 9:03 am GMT+8<br />
