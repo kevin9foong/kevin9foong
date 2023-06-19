@@ -11,10 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Planet Earth at Night II</h3> 
-<b>Date:</b> 2023-06-17<br/>
-<b>Description:</b> Recorded during 2017, timelapse sequences from the International Space Station are compiled in this serene video of planet Earth at Night. Fans of low Earth orbit can start by enjoying the view as green and red aurora borealis slather up the sky. The night scene tracks from northwest to southeast across North America, toward the Gulf of Mexico and the Florida coast. A second sequence follows European city lights, crosses the Mediterranean Sea, and passes over a bright Nile river in northern Africa. Seen from the orbital outpost, erratic flashes of lightning appear in thunder storms below and stars rise above the planet&#39;s curved horizon through a faint atmospheric airglow. Of course, from home you can always check out the vital signs of Planet Earth Now.<br/>
+<h3>:rocket:Saturn&#39;s Northern Hexagon</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2306&#x2F;NorthSaturn_Cassini_960.jpg" /><br/>
+<b>Date:</b> 2023-06-18<br/>
+<b>Description:</b> Why would clouds form a hexagon on Saturn? Nobody is sure.   Originally discovered during the Voyager flybys of Saturn in the 1980s, nobody has ever seen anything like it anywhere else in the Solar System.  Acquiring its first sunlit views of far northern Saturn in late 2012, the Cassini spacecraft&#39;s wide-angle camera recorded this stunning, false-color image of the ringed planet&#39;s north pole. The composite of near-infrared image data results in red hues for low clouds and green for high ones, giving the Saturnian cloudscape a vivid appearance. This and similar images show the stability of the hexagon even 20+ years after Voyager.  Movies of Saturn&#39;s North Pole show the cloud structure maintaining its hexagonal structure while rotating.  Unlike individual clouds appearing like a hexagon on Earth, the Saturn cloud pattern appears to have six well defined sides of nearly equal length. Four Earths could fit inside the hexagon. Beyond the cloud tops at the upper right, arcs of the planet&#39;s eye-catching rings are tinted bright blue.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Sunday, 18 June, 9:03 am GMT+8<br />
+Last refresh: Monday, 19 June, 8:57 am GMT+8<br />
