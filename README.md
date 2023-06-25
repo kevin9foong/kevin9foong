@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Three Sun Paths</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2306&#x2F;SunPath_Pace_960_annotated.jpg" /><br/>
-<b>Date:</b> 2023-06-21<br/>
-<b>Description:</b> Does the Sun follow the same path every day? No.  The Sun&#39;s path changes during the year, tracing a longer route during the summer than the winter. Pictured here, the Sun&#39;s arc was captured from noon to sunset on three days,  from highest in the sky to lowest: summer solstice, equinox, and winter solstice.  The images were taken near Gatto Corvino Village in Sicily, Italy in 2020 and 2021. The path and time the Sun spends in the sky is more important in determining the season than how close the Earth is to the Sun.  In fact, the Earth is closest to the Sun in January, during northern winter.  Today is a solstice, so today the Sun is taking its longest path of the year across the sky in Earth&#39;s  northern hemisphere, but the shortest path in the southern hemisphere.<br/>
+<h3>:rocket:3D Ingenuity</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2306&#x2F;PIA24547_fig1.jpg" /><br/>
+<b>Date:</b> 2023-06-24<br/>
+<b>Description:</b> The multicolor, stereo imaging Mastcam-Z on the Perseverance rover zoomed in to capture this 3D close-up (get out your red&#x2F;blue glasses) of the Mars Ingenuity helicopter on mission sol 45. That&#39;s Earth-date 2021 April 5. Casting a shadow on the Martian surface, Ingenuity is standing alone on its four landing legs next to the rover&#39;s wheel tracks. The experimental helicopter&#39;s solar panel, charging batteries that keep it warm through the cold Martian nights and power its flight, sits just above Ingenuity&#39;s two 1.2 meter (4 foot) long counter-rotating blades. Thirteen sols later, on April 19, Ingenuity became the first aircraft to perform powered, controlled flight on another planet. It has since gone on to complete more than 50 flights through the thin atmosphere of Mars.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Thursday, 22 June, 8:58 am GMT+8<br />
+Last refresh: Sunday, 25 June, 9:09 am GMT+8<br />
