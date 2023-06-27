@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Lightning on Jupiter</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2306&#x2F;LightningCloud_JunoGill_960.jpg" /><br/>
-<b>Date:</b> 2023-06-25<br/>
-<b>Description:</b> Does lightning occur only on Earth?  No.  Spacecraft in our Solar System have detected lightning on other planets, including Mars, Jupiter and Saturn, and lightning is likely on Venus, Uranus, and Neptune.  Lightning is a sudden rush of electrically charged particles from one location to another. On Earth, drafts of colliding ice and water droplets usually create lightning-generating charge separation, but what happens on Jupiter? Images and data from NASA&#39;s Jupiter-orbiting Juno spacecraft bolster previous speculation that Jovian lightning is also created in clouds containing water and ice.  In the featured Juno photograph, an optical flash was captured in a large cloud vortex near Jupiter&#39;s north pole.  During the next few months, Juno will perform several close sweeps over Jupiter&#39;s night side, likely allowing the robotic probe to capture more data and images of Jovian lightning.<br/>
+<h3>:rocket:The Belt of Venus over Mount Everest</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2306&#x2F;BeltofEverest_Mukherjee_4000_annotated.jpg" /><br/>
+<b>Date:</b> 2023-06-26<br/>
+<b>Description:</b> You&#39;ve surely seen it, but you might not have noticed it.  During a cloudless twilight, just before sunrise or after sunset, part of the atmosphere above the horizon appears slightly dark and off-color.  Called the Belt of Venus, this transitional band between the dark eclipsed sky and the bright day sky can be seen most prominently in the direction opposite the Sun.  Straight above, blue sky is normal sunlight reflecting off the atmosphere, while near the horizon the clear sky can appear more orange or red.  In the Belt of Venus, the atmosphere reflects more light from the setting (or rising) Sun and so appears more red.  Featured here, the Belt of Venus was photographed over several Himalayan mountains including, second from the right, Mount Everest, the tallest mountain on Earth.  Although usually not mentioned, the belt is frequently caught by accident in other photographs.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Monday, 26 June, 9:05 am GMT+8<br />
+Last refresh: Tuesday, 27 June, 9:04 am GMT+8<br />
