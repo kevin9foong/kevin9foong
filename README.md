@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Milky Way and Aurora over Antarctica</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2307&#x2F;MWAurora_hang_4906.jpg" /><br/>
-<b>Date:</b> 2023-07-02<br/>
-<b>Description:</b> It was one of the better skies of this long night. In parts of Antarctica, not only is it winter, but the Sun can spend weeks below the horizon. At China&#39;s Zhongshan Station, people sometimes venture out into the cold to photograph a spectacular night sky. The featured image from one such outing was taken in mid-July of 2015, just before the end of this polar night. Pointing up, the wide angle lens captured not only the ground at the bottom, but at the top as well.  In the foreground, a colleague is taking pictures. In the distance, a spherical satellite receiver and several windmills are visible. Numerous stars dot the night sky, including Sirius and Canopus. Far in the background, stretching overhead from horizon to horizon, is the central band of our Milky Way Galaxy. Even further in the distance, visible as extended smudges near the top, are the Large and Small Magellanic Clouds, satellite galaxies near our huge Milky Way Galaxy.   Explore the Universe: Random APOD Generator<br/>
+<h3>:rocket:Venus in Ultraviolet from Akatsuki</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2307&#x2F;VenusUv_akatsuki_1024.jpg" /><br/>
+<b>Date:</b> 2023-07-03<br/>
+<b>Description:</b> Why is Venus so different from Earth?  To help find out, Japan launched the robotic Akatsuki spacecraft which entered orbit around Venus late in 2015 after an unplanned five-year adventure around the inner Solar System.  Even though Akatsuki was past its original planned lifetime, the spacecraft and instruments were operating so well that much of its original mission was reinstated. Also known as the Venus Climate Orbiter, Akatsuki&#39;s instruments investigated unknowns about Earth&#39;s sister planet, including whether volcanoes are still active, whether lightning occurs in the dense atmosphere, and why wind speeds greatly exceed the planet&#39;s rotation speed. In the featured image taken by Akatsuki&#39;s UVI camera, the day-side of Venus is seen shown with planet-scale V-shaped cloud pattern. The image displays three ultraviolet colors and indicates a dip in the relative abundance of sulfur dioxide shown in faint blue.  Analyses of Akatsuki images and data has shown, among other discoveries, that Venus has equatorial jet similar to Earth&#39;s jet stream.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Monday, 3 July, 9:05 am GMT+8<br />
+Last refresh: Tuesday, 4 July, 9:04 am GMT+8<br />
