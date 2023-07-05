@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Venus in Ultraviolet from Akatsuki</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2307&#x2F;VenusUv_akatsuki_1024.jpg" /><br/>
-<b>Date:</b> 2023-07-03<br/>
-<b>Description:</b> Why is Venus so different from Earth?  To help find out, Japan launched the robotic Akatsuki spacecraft which entered orbit around Venus late in 2015 after an unplanned five-year adventure around the inner Solar System.  Even though Akatsuki was past its original planned lifetime, the spacecraft and instruments were operating so well that much of its original mission was reinstated. Also known as the Venus Climate Orbiter, Akatsuki&#39;s instruments investigated unknowns about Earth&#39;s sister planet, including whether volcanoes are still active, whether lightning occurs in the dense atmosphere, and why wind speeds greatly exceed the planet&#39;s rotation speed. In the featured image taken by Akatsuki&#39;s UVI camera, the day-side of Venus is seen shown with planet-scale V-shaped cloud pattern. The image displays three ultraviolet colors and indicates a dip in the relative abundance of sulfur dioxide shown in faint blue.  Analyses of Akatsuki images and data has shown, among other discoveries, that Venus has equatorial jet similar to Earth&#39;s jet stream.<br/>
+<h3>:rocket:Aurora over Icelandic Waterfall</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2307&#x2F;WaterfallAurora_Letelier_1600.jpg" /><br/>
+<b>Date:</b> 2023-07-04<br/>
+<b>Description:</b> It seemed like the sky exploded. The original idea was to photograph an aurora over a waterfall. After waiting for hours under opaque clouds, though, hope was running out. Others left. Then, unexpectedly, the clouds moved away. Suddenly, particles from a large solar magnetic storm were visible impacting the Earth&#39;s upper atmosphere with full effect. The night sky filled with colors and motion in a thrilling auroral display.  Struggling to steady the camera from high Earthly winds, the 34 exposures that compose the featured image were taken.  The resulting featured composite image shows the photogenic Godafoss (Goðafoss) waterfall in northern Iceland in front of a very active aurora in late February. The solar surface explosion that expelled the energetic particles occurred a few days before.  Our Sun is showing an impressive amount of surface activity as it approaches solar maximum, indicating that more impressive auroras are likely to appear in Earth&#39;s northern and southern sky over the next few years.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Tuesday, 4 July, 9:04 am GMT+8<br />
+Last refresh: Wednesday, 5 July, 9:04 am GMT+8<br />
