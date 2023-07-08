@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Fireworks vs Supermoon</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2307&#x2F;CocoaBeach_BuckMoon_Seeley-201.jpg" /><br/>
-<b>Date:</b> 2023-07-06<br/>
-<b>Description:</b> On July 4, an almost Full Moon rose in planet Earth&#39;s evening skies. Also known as a Buck Moon, the full lunar phase (full on July 3 at 11:39 UTC) was near perigee, the closest point in the Moon&#39;s almost monthly orbit around planet Earth. That qualified this July&#39;s Full Moon as a supermoon, the first of four supermoons in 2023. Seen from Cocoa Beach along Florida&#39;s Space Coast on July 4, any big, bright, beautiful Full Moon would still have to compete for attention though. July&#39;s super-moonrise was captured here against a super-colorful fireworks display.<br/>
+<h3>:rocket:The Double Cluster in Perseus</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2307&#x2F;Caldwell_14_2023_HaLRGB_LRGB_stars_wm.jpg" /><br/>
+<b>Date:</b> 2023-07-07<br/>
+<b>Description:</b> This pretty starfield spans about three full moons (1.5 degrees) across the heroic northern constellation of Perseus. It holds the famous pair of open star clusters, h and Chi Persei. Also cataloged as NGC 869 (top) and NGC 884, both clusters are about 7,000 light-years away and contain stars much younger and hotter than the Sun.  Separated by only a few hundred light-years, the clusters are both 13 million years young based on the ages of their individual stars, evidence that they were likely a product of the same star-forming region. Always a rewarding sight in binoculars, the Double Cluster is even visible to the unaided eye from dark locations.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Friday, 7 July, 9:05 am GMT+8<br />
+Last refresh: Saturday, 8 July, 9:04 am GMT+8<br />
