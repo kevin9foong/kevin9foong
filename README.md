@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Shells and Arcs around Star CW Leonis</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2307&#x2F;CwLeo_Hubble_960.jpg" /><br/>
-<b>Date:</b> 2023-07-17<br/>
-<b>Description:</b> What&#39;s happening around this star? No one is sure. CW Leonis is the closest carbon star, a star that appears orange because of atmospheric carbon dispersed from interior nuclear fusion. But CW Leonis also appears engulfed in a gaseous carbon-rich nebula. What causes the nebula&#39;s complexity is unknown, but its geometry of shells and arcs are surely intriguing. The featured image by the Hubble Space Telescope details this complexity. The low surface gravity of carbon stars enhances their ability to expel carbon and carbon compounds into space. Some of this carbon ends up forming dark dust that is commonly seen in the nebulas of young star-forming regions and the disks of galaxies.  Humans and all Earth-based life are carbon-based, and at least some of our carbon was likely once circulating in the atmospheres of near-death stars like carbon stars.<br/>
+<h3>:rocket:Chandrayaan-3 Launches to the Moon</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2307&#x2F;Chandrayaan3_Suresh_1485.jpg" /><br/>
+<b>Date:</b> 2023-07-19<br/>
+<b>Description:</b> Birds don&#39;t fly this high.  Airplanes don&#39;t go this fast.  The Statue of Liberty weighs less.  No species other than human can even comprehend what is going on, nor could any human just a millennium ago. The launch of a rocket bound for space is an event that inspires awe and challenges description.  Pictured here last week, the Indian Space Research Organization&#39;s  LVM3 rocket blasted off from the Satish Dhawan Space Centre on Sriharikota Island, India.  From a standing start, the 600,000+ kilogram rocket ship lifted the massive Chandrayaan-3 off the Earth. The Chandrayaan-3 mission is scheduled to reach the Moon in late August and land a robotic rover near the lunar South Pole. Rockets bound for space are now launched from somewhere on Earth every few days.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Tuesday, 18 July, 9:19 am GMT+8<br />
+Last refresh: Thursday, 20 July, 8:56 am GMT+8<br />
