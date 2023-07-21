@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Chandrayaan-3 Launches to the Moon</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2307&#x2F;Chandrayaan3_Suresh_1485.jpg" /><br/>
-<b>Date:</b> 2023-07-19<br/>
-<b>Description:</b> Birds don&#39;t fly this high.  Airplanes don&#39;t go this fast.  The Statue of Liberty weighs less.  No species other than human can even comprehend what is going on, nor could any human just a millennium ago. The launch of a rocket bound for space is an event that inspires awe and challenges description.  Pictured here last week, the Indian Space Research Organization&#39;s  LVM3 rocket blasted off from the Satish Dhawan Space Centre on Sriharikota Island, India.  From a standing start, the 600,000+ kilogram rocket ship lifted the massive Chandrayaan-3 off the Earth. The Chandrayaan-3 mission is scheduled to reach the Moon in late August and land a robotic rover near the lunar South Pole. Rockets bound for space are now launched from somewhere on Earth every few days.<br/>
+<h3>:rocket:M64: The Black Eye Galaxy Close Up</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2307&#x2F;M64Hubble.jpg" /><br/>
+<b>Date:</b> 2023-07-20<br/>
+<b>Description:</b> This magnificent spiral galaxy is Messier 64, often called the Black Eye Galaxy or the Sleeping Beauty Galaxy for its dark-lidded appearance in telescopic views. The spiral&#39;s central region, about 7,400 light-years across, is pictured in this reprocessed image from the Hubble Space Telescope. M64 lies some 17 million light-years distant in the otherwise well-groomed northern constellation Coma Berenices. The enormous dust clouds partially obscuring M64&#39;s central region are laced with young, blue star clusters and the reddish glow of hydrogen associated with star forming regions.  But imposing clouds of dust are not this galaxy&#39;s only peculiar feature. Observations show that M64 is actually composed of two concentric, counter-rotating systems. While all the stars in M64 rotate in the same direction as the interstellar gas in the galaxy&#39;s central region, gas in the outer regions, extending to about 40,000 light-years, rotates in the opposite direction. The dusty eye and bizarre rotation are likely the result of a billion year old merger of two different galaxies.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Thursday, 20 July, 8:56 am GMT+8<br />
+Last refresh: Friday, 21 July, 8:56 am GMT+8<br />
