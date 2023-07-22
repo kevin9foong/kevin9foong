@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:M64: The Black Eye Galaxy Close Up</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2307&#x2F;M64Hubble.jpg" /><br/>
-<b>Date:</b> 2023-07-20<br/>
-<b>Description:</b> This magnificent spiral galaxy is Messier 64, often called the Black Eye Galaxy or the Sleeping Beauty Galaxy for its dark-lidded appearance in telescopic views. The spiral&#39;s central region, about 7,400 light-years across, is pictured in this reprocessed image from the Hubble Space Telescope. M64 lies some 17 million light-years distant in the otherwise well-groomed northern constellation Coma Berenices. The enormous dust clouds partially obscuring M64&#39;s central region are laced with young, blue star clusters and the reddish glow of hydrogen associated with star forming regions.  But imposing clouds of dust are not this galaxy&#39;s only peculiar feature. Observations show that M64 is actually composed of two concentric, counter-rotating systems. While all the stars in M64 rotate in the same direction as the interstellar gas in the galaxy&#39;s central region, gas in the outer regions, extending to about 40,000 light-years, rotates in the opposite direction. The dusty eye and bizarre rotation are likely the result of a billion year old merger of two different galaxies.<br/>
+<h3>:rocket:Galactic Cirrus: Mandel Wilson 9</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2307&#x2F;MandelWilson9_GabrielRodriguesSantos_APOD.jpg" /><br/>
+<b>Date:</b> 2023-07-21<br/>
+<b>Description:</b> The combined light of stars along the Milky Way are reflected by these cosmic dust clouds that soar 300 light-years or so above the plane of our galaxy. Known to some as integrated flux nebulae and commonly found at high galactic latitudes, the dusty galactic cirrus clouds are faint. But they can be traced over large regions of the sky toward the North and South Galactic poles. Along with the reflection of starlight, studies indicate the dust clouds produce a faint reddish luminescence as interstellar dust grains convert invisible ultraviolet radiation to visible red light. Also capturing nearby Milky Way stars and distant background galaxies, this remarkably deep, wide-field image explores a complex of faint galactic cirrus known as Mandel Wilson 9. It spans over three degrees across planet Earth&#39;s skies toward the far southern constellation Apus.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Friday, 21 July, 8:56 am GMT+8<br />
+Last refresh: Saturday, 22 July, 8:56 am GMT+8<br />
