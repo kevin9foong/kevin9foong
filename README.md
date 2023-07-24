@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Apollo 11: Armstrong&#39;s Lunar Selfie</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2307&#x2F;AldrinVisor_Apollo11_4096.jpg" /><br/>
-<b>Date:</b> 2023-07-22<br/>
-<b>Description:</b> A photograph of Buzz Aldrin standing on the Moon taken by Neil Armstrong, was digitally reversed to create this lunar selfie. Captured in July 1969 following the Apollo 11 moon landing, Armstrong&#39;s original photograph recorded not only the magnificent desolation of an unfamiliar world, but Armstrong himself reflected in Aldrin&#39;s curved visor.  In the unwrapped image, the spherical distortion of the reflection in Aldrin&#39;s helmet has been reversed.  The transformed view features Armstrong himself from Aldrin&#39;s perspective. Since Armstrong took the original picture, today the image represents a fifty-four year old lunar selfie.  Aldrin&#39;s visor reflection in the original image appears here on the left. Bright (but distorted) planet Earth hangs in the lunar sky above Armstrong&#39;s figure, toward the upper right. A foil-wrapped leg of the Eagle lander and Aldrin&#39;s long shadow stretching across the lunar surface are prominently visible.  In 2024 NASA&#39;s Artemis II mission will return humans to the Moon.<br/>
+<h3>:rocket:The Antikythera Mechanism</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2307&#x2F;antikythera_wikipedia_960.jpg" /><br/>
+<b>Date:</b> 2023-07-23<br/>
+<b>Description:</b> It does what?  No one knew that 2,000 years ago, the technology existed to build such a device.  The Antikythera mechanism, pictured, is now widely regarded as the first computer. Found at the bottom of the sea aboard a decaying Greek ship, its complexity prompted decades of study, and even today some of its functions likely remain unknown.  X-ray images of the device, however, have confirmed that a main function of its numerous clock-like wheels and gears is to create a portable, hand-cranked, Earth-centered, orrery of the sky, predicting future star and planet locations as well as lunar and solar eclipses.  The corroded core of the Antikythera mechanism&#39;s largest gear is featured, spanning about 13 centimeters, while the entire mechanism was 33 centimeters high, making it similar in size to a large book. Recently, modern computer modeling of missing components is allowing for the creation of a more complete replica of this surprising ancient machine.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Sunday, 23 July, 8:59 am GMT+8<br />
+Last refresh: Monday, 24 July, 8:56 am GMT+8<br />
