@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:The Antikythera Mechanism</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2307&#x2F;antikythera_wikipedia_960.jpg" /><br/>
-<b>Date:</b> 2023-07-23<br/>
-<b>Description:</b> It does what?  No one knew that 2,000 years ago, the technology existed to build such a device.  The Antikythera mechanism, pictured, is now widely regarded as the first computer. Found at the bottom of the sea aboard a decaying Greek ship, its complexity prompted decades of study, and even today some of its functions likely remain unknown.  X-ray images of the device, however, have confirmed that a main function of its numerous clock-like wheels and gears is to create a portable, hand-cranked, Earth-centered, orrery of the sky, predicting future star and planet locations as well as lunar and solar eclipses.  The corroded core of the Antikythera mechanism&#39;s largest gear is featured, spanning about 13 centimeters, while the entire mechanism was 33 centimeters high, making it similar in size to a large book. Recently, modern computer modeling of missing components is allowing for the creation of a more complete replica of this surprising ancient machine.<br/>
+<h3>:rocket:Chemicals Glow as a Meteor Disintegrates</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2307&#x2F;ChemicalFireball_Kleinburger_2774.jpg" /><br/>
+<b>Date:</b> 2023-07-24<br/>
+<b>Description:</b> Meteors can be colorful. While the human eye usually cannot discern many colors, cameras often can. Pictured here is a fireball, a disintegrating meteor that was not only one of the brightest the photographer has ever seen, but colorful. The meteor was captured by chance in mid-July with a camera set up on Hochkar Mountain in Austria to photograph the central band of our Milky Way galaxy. The radiant grit, likely cast off by a comet or asteroid long ago, had the misfortune to enter Earth&#39;s atmosphere.  Colors in meteors usually originate from ionized chemical elements released as the meteor disintegrates, with blue-green typically originating from magnesium, calcium radiating violet, and nickel glowing green. Red, however, typically originates from energized nitrogen and oxygen in the Earth&#39;s atmosphere.  This bright meteoric fireball was gone in a flash -- less than a second -- but it left a wind-blown ionization trail that remained visible for almost a minute.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Monday, 24 July, 8:56 am GMT+8<br />
+Last refresh: Tuesday, 25 July, 8:59 am GMT+8<br />
