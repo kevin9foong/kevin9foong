@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Chemicals Glow as a Meteor Disintegrates</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2307&#x2F;ChemicalFireball_Kleinburger_2774.jpg" /><br/>
-<b>Date:</b> 2023-07-24<br/>
-<b>Description:</b> Meteors can be colorful. While the human eye usually cannot discern many colors, cameras often can. Pictured here is a fireball, a disintegrating meteor that was not only one of the brightest the photographer has ever seen, but colorful. The meteor was captured by chance in mid-July with a camera set up on Hochkar Mountain in Austria to photograph the central band of our Milky Way galaxy. The radiant grit, likely cast off by a comet or asteroid long ago, had the misfortune to enter Earth&#39;s atmosphere.  Colors in meteors usually originate from ionized chemical elements released as the meteor disintegrates, with blue-green typically originating from magnesium, calcium radiating violet, and nickel glowing green. Red, however, typically originates from energized nitrogen and oxygen in the Earth&#39;s atmosphere.  This bright meteoric fireball was gone in a flash -- less than a second -- but it left a wind-blown ionization trail that remained visible for almost a minute.<br/>
+<h3>:rocket:The Eagle Nebula with X-ray Hot Stars</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2307&#x2F;EagleStars_NASA_960.jpg" /><br/>
+<b>Date:</b> 2023-07-25<br/>
+<b>Description:</b> What do the famous Eagle Nebula star pillars look like in X-ray light? To find out, NASA&#39;s orbiting Chandra X-ray Observatory peered in and through these interstellar mountains of star formation. It was found that in M16 the dust pillars themselves do not emit many X-rays, but a lot of small-but-bright X-ray sources became evident. These sources are shown as bright dots on the featured image which is a composite of exposures from Chandra (X-rays), XMM (X-rays), JWST (infrared), Spitzer (infrared), Hubble (visible), and the VLT (visible).  What stars produce these X-rays remains a topic of research, but some are hypothesized to be hot, recently-formed, low-mass stars, while others are thought to be hot, older, high-mass stars.  These X-ray hot stars are scattered around the frame -- the previously identified Evaporating Gaseous Globules (EGGS) seen in visible light are not currently hot enough to emit X-rays.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Tuesday, 25 July, 8:59 am GMT+8<br />
+Last refresh: Wednesday, 26 July, 8:55 am GMT+8<br />
