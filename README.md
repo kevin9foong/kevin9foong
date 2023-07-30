@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Young Stars, Stellar Jets</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2307&#x2F;HH46-47_JWST.jpg" /><br/>
-<b>Date:</b> 2023-07-28<br/>
-<b>Description:</b> High-speed outflows of molecular gas from a pair of actively forming young stars shine in infrared light, revealing themselves in this NIRcam image from the James Webb Space Telescope. Cataloged as HH (Herbig-Haro) 46&#x2F;47, the young stars are lodged within a dark nebula that is largely opaque when viewed in visible light.  The pair lie at the center of the prominent reddish diffraction spikes in the NIRcam image.  Their energetic stellar jets extend for nearly a light-year, burrowing into the dark interstellar material. A tantalizing object to explore with Webb&#39;s infrared capabilities, this young star system is relatively nearby, located only some 1,140 light-years distant in the nautical constellation Vela.<br/>
+<h3>:rocket:Apollo 11: Catching Some Sun</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2307&#x2F;AS11-40-5872HR.jpg" /><br/>
+<b>Date:</b> 2023-07-29<br/>
+<b>Description:</b> Bright sunlight glints as long dark shadows mark this image of the surface of the Moon. It was taken fifty-four years ago, July 20, 1969, by Apollo 11 astronaut Neil Armstrong, the first to walk on the lunar surface. Pictured is the mission&#39;s lunar module, the Eagle, and spacesuited lunar module pilot Buzz Aldrin. Aldrin is unfurling a long sheet of foil also known as the Solar Wind Composition Experiment. Exposed facing the Sun, the foil trapped particles streaming outward in the solar wind, catching a sample of material from the Sun itself. Along with moon rocks and lunar soil samples, the solar wind collector was returned for analysis in earthbound laboratories.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Saturday, 29 July, 8:50 am GMT+8<br />
+Last refresh: Sunday, 30 July, 8:54 am GMT+8<br />
