@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Spiral Aurora over Icelandic Divide</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2307&#x2F;AuroraPingvllir_Casado_1336.jpg" /><br/>
-<b>Date:</b> 2023-07-30<br/>
-<b>Description:</b> Admire the beauty but fear the beast. The beauty is the aurora overhead, here taking the form of a great green spiral, seen between picturesque clouds with the bright Moon to the side and stars in the background.  The beast is the wave of charged particles that creates the aurora but might, one day, impair civilization.  In 1859, following notable auroras seen all across the globe, a pulse of charged particles from a coronal mass ejection (CME) associated with a solar flare impacted Earth&#39;s magnetosphere so forcefully that it created the Carrington Event. This assault from the Sun compressed the Earth&#39;s magnetic field so violently that it created high currents and sparks along telegraph wires, shocking many telegraph operators.  Were a Carrington-class event to impact the Earth today, speculation holds that damage might occur to global power grids and electronics on a scale never yet experienced.  The featured aurora was imaged in 2016 over Thingvallavatn Lake in Iceland, a lake that partly fills a fault that divides Earth&#39;s large Eurasian and North American tectonic plates.   Almost Hyperspace: Random APOD Generator<br/>
+<h3>:rocket:Phobos over Mars</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2307&#x2F;PhobosMars_MarsExpress_1500.jpg" /><br/>
+<b>Date:</b> 2023-07-31<br/>
+<b>Description:</b> Why is Phobos so dark?  Phobos, the largest and innermost of the two Martian moons, is the darkest moon in the entire Solar System.  Its unusual orbit and color indicate that it may be a captured asteroid composed of a mixture of ice and dark rock.  The featured assigned-color picture of Phobos near the edge of Mars was captured in late 2021 by ESA&#39;s robot spacecraft Mars Express, currently orbiting Mars.  Phobos is a heavily cratered and barren moon, with its largest crater located on the far side.  From images like this, Phobos has been determined to be covered by perhaps a meter of loose dust.  Phobos orbits so close to Mars that from some places it would appear to rise and set twice a day, while from other places it would not be visible at all.  Phobos&#39; orbit around Mars is continually decaying -- it will likely break up with pieces crashing to the Martian surface in about 50 million years.   Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Monday, 31 July, 8:53 am GMT+8<br />
+Last refresh: Tuesday, 1 August, 8:56 am GMT+8<br />
