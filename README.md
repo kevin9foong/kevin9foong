@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:The Falcon and the Redstone</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2308&#x2F;FalconHeavyRedstoneHaskell.jpeg" /><br/>
-<b>Date:</b> 2023-08-03<br/>
-<b>Description:</b> In a photo from the early hours of July 29 (UTC), a Redstone rocket and Mercury capsule are on display at Cape Canaveral Launch Complex 5. Beyond the Redstone, the 8 minute long exposure has captured the arcing launch streak of a SpaceX Falcon Heavy rocket. The Falcon&#39;s heavy communications satellite payload, at a record setting 9 metric tons, is bound for geosynchronous orbit some 22,000 miles above planet Earth. The historic launch of a Redstone rocket carried astronaut Alan Shepard on a suborbital spaceflight in May 1961 to an altitude of about 116 miles. Near the top of the frame, this Falcon rocket&#39;s two reusable side boosters separate and execute brief entry burns. They returned to land side by side at Canaveral&#39;s Landing Zone 1 and 2 in the distance.<br/>
+<h3>:rocket:Moonrays of August</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2308&#x2F;GianniTumino_Moon_Rays_JPG_LOGO_4000pix.jpg" /><br/>
+<b>Date:</b> 2023-08-04<br/>
+<b>Description:</b> A Full Moon rose as the Sun set on August 1. Near perigee, the closest point in its almost moonthly orbit, the brighter than average lunar disk illuminated night skies around planet Earth as the second supermoon of 2023. Seen here above Ragusa, Sicily, cloud banks cast diverging shadows through the supermoonlit skies, creating dramatic lunar crepuscular rays. The next Full Moon in 2023 will also shine on an August night. Rising as the Sun sets on August 30&#x2F;31, this second Full Moon in a month is known as a Blue Moon. Blue moons occur only once every 2 or 3 years because lunar phases take almost a calendar month (29.5 days) to go through a complete cycle. But August&#39;s Blue Moon will also be near perigee, the third supermoon in 2023.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Friday, 4 August, 8:51 am GMT+8<br />
+Last refresh: Saturday, 5 August, 8:49 am GMT+8<br />
