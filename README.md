@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:SN 1006: A Supernova Ribbon from Hubble</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2308&#x2F;SN1006_Hubble_4940.jpg" /><br/>
-<b>Date:</b> 2023-08-06<br/>
-<b>Description:</b> What created this unusual space ribbon?  The answer: one of the most violent explosions ever witnessed by ancient humans. Back in the year 1006 AD, light reached Earth from a stellar explosion in the constellation of the Wolf (Lupus), creating a &quot;guest star&quot; in the sky that appeared brighter than Venus and lasted for over two years. The supernova, now cataloged at SN 1006, occurred about 7,000 light years away and has left a large remnant that continues to expand and fade today.  Pictured here is a small part of that expanding supernova remnant dominated by a thin and outwardly moving shock front that heats and ionizes surrounding ambient gas. The supernova remnant SN 1006 now has a diameter of nearly 60 light years.<br/>
+<h3>:rocket:The Pelican Nebula in Gas, Dust, and Stars</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2308&#x2F;LDN935_Jones_1840.jpg" /><br/>
+<b>Date:</b> 2023-08-07<br/>
+<b>Description:</b> The Pelican Nebula is slowly being transformed.  IC 5070 (the official designation) is divided from the larger North America Nebula by a molecular cloud filled with dark dust.  The Pelican, however, receives much study because it is a particularly active mix of star formation and evolving gas clouds.  The featured picture was produced in three specific colors -- light emitted by sulfur, hydrogen, and oxygen --  that can help us to better understand these interactions.  The light from young energetic stars is slowly transforming the cold gas to hot gas, with the advancing boundary between the two, known as an ionization front, visible in bright orange on the right. Particularly dense tentacles of cold gas remain.  Millions of years from now, the Pelican nebula, bounded by dark nebula LDN 935, might no longer be known as the Pelican, as the balance and placement of stars and gas will surely leave something that appears completely different.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Monday, 7 August, 8:52 am GMT+8<br />
+Last refresh: Tuesday, 8 August, 8:50 am GMT+8<br />
