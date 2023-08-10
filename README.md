@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Moon Meets Jupiter</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2308&#x2F;MoonsJupiter_Coy_2630.jpg" /><br/>
-<b>Date:</b> 2023-08-08<br/>
-<b>Description:</b> What&#39;s that below the Moon? Jupiter -- and its largest moons.  Many skygazers across planet Earth enjoyed the close conjunction of Earth&#39;s Moon passing nearly in front of Jupiter in mid-June. The featured image is a single exposure of the event taken from Morón de la Frontera, Spain. The sunlit lunar crescent on the left is overexposed, while the Moon&#39;s night side, on the right, is only faintly illuminated by Earthshine. Lined up diagonally below the Moon, left to right, are Jupiter&#39;s bright Galilean satellites: Callisto, Ganymede, Io (hard to see as it is very near to Jupiter), and Europa.  In fact, Callisto, Ganymede, and Io are larger than Earth&#39;s Moon, while Europa is only slightly smaller. NASA&#39;s robotic spacecraft Juno is currently orbiting Jupiter and made a close pass near Io only a week ago.  If you look up in the night sky tonight, you will again see two of the brightest objects angularly close together -- because tonight is another Moon-Jupiter conjunction.<br/>
+<h3>:rocket:Meteor Shower: Perseids from Perseus</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2308&#x2F;Perseids18_Horalek_1494.jpg" /><br/>
+<b>Date:</b> 2023-08-09<br/>
+<b>Description:</b> This is a good week to see meteors.  Comet dust will rain down on planet Earth, streaking through dark skies during peak nights of the annual Perseid Meteor Shower.  The featured composite image was taken during the 2018 Perseids from the Poloniny Dark Sky Park in Slovakia.  The dome of the observatory in the foreground is on the grounds of Kolonica Observatory. Although the comet dust particles travel parallel to each other, the resulting shower meteors clearly seem to radiate from a single point on the sky in the eponymous constellation Perseus.  The radiant effect is due to perspective, as the parallel tracks appear to converge at a distance, like train tracks.  The Perseid Meteor Shower is expected to reach its highest peak on Saturday after midnight.  Since a crescent Moon will rise only very late that night, cloudless skies will be darker than usual, making a high number of faint meteors potentially visible this year.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Wednesday, 9 August, 8:52 am GMT+8<br />
+Last refresh: Thursday, 10 August, 8:52 am GMT+8<br />
