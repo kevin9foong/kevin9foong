@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Five Meters over Mars</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2308&#x2F;PIA25969_Ingenuity.jpg" /><br/>
-<b>Date:</b> 2023-08-10<br/>
-<b>Description:</b> On mission sol 872 (Earth date August 3) Ingenuity snapped this sharp image on its 54th flight above the surface of the Red Planet. During the flight the Mars Helicopter hovered about 5 meters, or just over 16 feet, above the Jezero crater floor. Tips of Ingenuity&#39;s landing legs peek over the left and right edges in the camera&#39;s field of view. Tracks visible near the upper right corner lead to the Perseverance Mars Rover, seen looking on from a distance at the top right edge of the frame. Planned as a brief &quot;pop-up&quot; flight, Ingenuity&#39;s 54th flight lasted less than 25 seconds. It followed Ingenuity&#39;s 53rd flight made on July 22 that resulted in an unscheduled landing.<br/>
+<h3>:rocket:Messier 51 in 255 Hours</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2308&#x2F;M51_255hours.jpg" /><br/>
+<b>Date:</b> 2023-08-11<br/>
+<b>Description:</b> An intriguing pair of interacting galaxies, M51 is the 51st entry in Charles Messier&#39;s famous catalog. Perhaps the original spiral nebula, the large galaxy with whirlpool-like spiral structure seen nearly face-on is also cataloged as NGC 5194. Its spiral arms and dust lanes sweep in front of a companion galaxy (right), NGC 5195. Some 31 million light-years distant, within the boundaries of the well-trained constellation Canes Venatici, M51 looks faint and fuzzy to the eye in direct telescopic views. But this remarkably deep image shows off stunning details of the galaxy pair&#39;s striking colors and extensive tidal debris. A collaboration of astro-imagers using telescopes on planet Earth combined over 10 days of exposure time to create this definitive galaxy portrait of M51. The image includes 118 hours of narrowband data that also reveals a vast glowing cloud of reddish ionized hydrogen gas discovered in the M51 system.  Weekend Watch: Perseid Meteor Shower<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Friday, 11 August, 8:40 am GMT+8<br />
+Last refresh: Saturday, 12 August, 8:39 am GMT+8<br />
