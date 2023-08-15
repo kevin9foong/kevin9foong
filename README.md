@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:The Sombrero Galaxy in Infrared</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2308&#x2F;sombrero_spitzer_3000.jpg" /><br/>
-<b>Date:</b> 2023-08-13<br/>
-<b>Description:</b> This floating ring is the size of a galaxy.  In fact, it is a galaxy -- or at least part of one: the photogenic Sombrero Galaxy, one of the largest galaxies in the nearby Virgo Cluster of Galaxies.  The dark band of dust that obscures the mid-section of the Sombrero Galaxy in optical light actually glows brightly in infrared light.  The featured image, digitally sharpened, shows the infrared glow, recently recorded by the orbiting Spitzer Space Telescope, superposed in false-color on an existing image taken by NASA&#39;s Hubble Space Telescope in visible light. The Sombrero Galaxy, also known as M104, spans about 50,000 light years across and lies 28 million light years away.  M104 can be seen with a small telescope in the direction of the constellation Virgo.<br/>
+<h3>:rocket:The Ring Nebula from Webb</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2308&#x2F;M57_JwstKong_4532.jpg" /><br/>
+<b>Date:</b> 2023-08-14<br/>
+<b>Description:</b> The Ring Nebula (M57), is more complicated than it appears through a small telescope.  The easily visible central ring is about one light-year across, but this remarkable exposure by the James Webb Space Telescope explores this popular nebula with a deep exposure in infrared light. Strings of gas, like eyelashes around a cosmic eye, become evident around the Ring in this digitally enhanced featured image in assigned colors. These long filaments may be caused by shadowing of knots of dense gas in the ring from energetic light emitted within. The Ring Nebula is an elongated planetary nebula, a type of gas cloud created when a Sun-like star evolves to throw off its outer atmosphere to become a white dwarf star.  The central oval in the Ring Nebula lies about 2,500 light-years away toward the musical constellation Lyra.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Monday, 14 August, 8:41 am GMT+8<br />
+Last refresh: Tuesday, 15 August, 8:41 am GMT+8<br />
