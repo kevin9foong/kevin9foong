@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:The Pistachio Nebula</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2308&#x2F;Pistachio_Falls_2952.jpg" /><br/>
-<b>Date:</b> 2023-08-22<br/>
-<b>Description:</b> This nebula had never been noted before. Newly discovered nebulas are usually angularly small and found by professionals using large telescopes. In contrast, the Pistachio Nebula was discovered by dedicated amateurs and, although faint, is nearly the size of the full Moon.  In modern times, amateurs with even small telescopes can create long exposures over sky areas much larger than most professional telescopes can see.  They can therefore discover both previously unknown areas of extended emission around known objects, as well as entirely unknown objects, like nebulas.  The pictured Pistachio Nebula is shown in oxygen emission (blue) and hydrogen emission (red).  The nature of the hot central star is currently unknown, and the nebula might be labeled a planetary nebula if it turns out to be a white dwarf star.  The featured image is a composite of over 70 hours of exposure taken in early June under the dark skies of Namibia.<br/>
+<h3>:rocket:The Meteor and the Galaxy</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2308&#x2F;M31Perseid_Pedrero_3232.jpg" /><br/>
+<b>Date:</b> 2023-08-23<br/>
+<b>Description:</b> It came from outer space. It -- in this case a sand-sized bit of a comet nucleus -- was likely ejected many years ago from Sun-orbiting Comet Swift-Tuttle, but then continued to orbit the Sun alone.  When the Earth crossed through this orbit, the piece of comet debris impacted the atmosphere of our fair planet and was seen as a meteor. This meteor deteriorated, causing gases to be emitted that glowed in colors emitted by its component elements. The featured image was taken last week from Castilla La Mancha, Spain, during the peak night of the Perseids meteor shower.  The picturesque meteor streak happened to appear in the only one of 50 frames that also included the Andromeda galaxy. Stars dot the frame, each much further away than the meteor. Compared to the stars, the Andromeda galaxy (M31) is, again, much further away.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Wednesday, 23 August, 8:41 am GMT+8<br />
+Last refresh: Thursday, 24 August, 8:41 am GMT+8<br />
