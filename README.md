@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:The Meteor and the Galaxy</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2308&#x2F;M31Perseid_Pedrero_3232.jpg" /><br/>
-<b>Date:</b> 2023-08-23<br/>
-<b>Description:</b> It came from outer space. It -- in this case a sand-sized bit of a comet nucleus -- was likely ejected many years ago from Sun-orbiting Comet Swift-Tuttle, but then continued to orbit the Sun alone.  When the Earth crossed through this orbit, the piece of comet debris impacted the atmosphere of our fair planet and was seen as a meteor. This meteor deteriorated, causing gases to be emitted that glowed in colors emitted by its component elements. The featured image was taken last week from Castilla La Mancha, Spain, during the peak night of the Perseids meteor shower.  The picturesque meteor streak happened to appear in the only one of 50 frames that also included the Andromeda galaxy. Stars dot the frame, each much further away than the meteor. Compared to the stars, the Andromeda galaxy (M31) is, again, much further away.<br/>
+<h3>:rocket:Meteors along the Milky Way</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2308&#x2F;MSH21080.jpg" /><br/>
+<b>Date:</b> 2023-08-24<br/>
+<b>Description:</b> Under dark and mostly moonless night skies, many denizens of planet Earth were able to watch this year&#39;s Perseid meteor shower. Seen from a grassy hillside from Shiraz, Iran these Perseid meteors streak along the northern summer Milky Way before dawn on Sunday, August 13. Frames used to construct the composited image were captured near the active annual meteor shower&#39;s peak between 02:00 AM and 04:30 AM local time. Not in this night skyscape, the shower&#39;s radiant in the heroic constellation Perseus is far above the camera&#39;s field of view. But fans of northern summer nights can still spot a familiar asterism. Formed by bright stars Deneb, Vega, and Altair, the Summer Triangle spans the luminous band of the Milky Way.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Thursday, 24 August, 8:41 am GMT+8<br />
+Last refresh: Friday, 25 August, 8:42 am GMT+8<br />
