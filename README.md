@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Star Formation in the Pacman Nebula</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2308&#x2F;Pacman_Stocks_2560.jpg" /><br/>
-<b>Date:</b> 2023-08-28<br/>
-<b>Description:</b> Look through the cosmic cloud cataloged as NGC 281 and you might miss the stars of open cluster IC 1590. Formed within the nebula, that cluster&#39;s young, massive stars ultimately power the pervasive nebular glow. The eye-catching shapes looming in the featured portrait of NGC 281 are sculpted dusty columns and dense Bok globules seen in silhouette, eroded by intense, energetic winds and radiation from the hot cluster stars. If they survive long enough, the dusty structures could also be sites of future star formation. Playfully called the Pacman Nebula because of its overall shape, NGC 281 is about 10,000 light-years away in the constellation Cassiopeia. This sharp composite image was made through narrow-band filters. It combines emission from the nebula&#39;s hydrogen and oxygen atoms to synthesize red, green, and blue colors. The scene spans well over 80 light-years at the estimated distance of NGC 281.<br/>
+<h3>:rocket:Unusual Spiral Galaxy M66 from Webb</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2308&#x2F;M66_JwstTomlinson_3521.jpg" /><br/>
+<b>Date:</b> 2023-08-29<br/>
+<b>Description:</b> Why isn&#39;t spiral galaxy M66 symmetric?  Usually, density waves of gas, dust, and newly formed stars circle a spiral galaxy&#39;s center and create a nearly symmetric galaxy.  The differences between M66&#39;s spiral arms and the apparent displacement of its nucleus are all likely caused by previous close interactions and the tidal gravitational pulls of nearby galaxy neighbors M65 and NGC 3628. The galaxy, featured here in infrared light taken by the James Webb Space Telescope, spans about 100,000 light years, lies about 35 million light years distant, and is the largest galaxy in a group known as the Leo Triplet.  Like many spiral galaxies, the long and intricate dust lanes of M66 are seen intertwined with the bright stars and intergalactic dust that follow the spiral arms.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Tuesday, 29 August, 8:42 am GMT+8<br />
+Last refresh: Wednesday, 30 August, 8:42 am GMT+8<br />
