@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Full Moons of August</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2308&#x2F;GianniTumino_SturgeonMoon_Palette_JPG_LOGO_2048.jpg" /><br/>
-<b>Date:</b> 2023-08-30<br/>
-<b>Description:</b> Near perigee, the closest point in its almost moonthly orbit, a Full Moon rose as the Sun set on August 1. Its brighter than average lunar disk was captured in this dramatic moonrise sequence over dense cloud banks along the eastern horizon from Ragusa, Sicily. Illuminating night skies around planet Earth it was the second supermoon of 2023. Yet again near perigee, the third supermoon of 2023 will also shine on an August night. Rising as the Sun sets tonight this second Full Moon in August will be known to some as a Blue Moon, even though scattered sunlight gives the lunar disk a reddened hue. Defined as the second full moon in a calendar month, blue moons occur only once every 2 or 3 years. That&#39;s because lunar phases take 29.5 days, almost a calendar month, to go through a complete cycle. Tonight an August Blue Moon will find itself beside bright planet Saturn.<br/>
+<h3>:rocket:The Crew-7 Nebula</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2308&#x2F;Crew_7_Nebula_Seeley-1.jpg" /><br/>
+<b>Date:</b> 2023-08-31<br/>
+<b>Description:</b> Not the James Webb Space Telescope&#39;s latest view of a distant galactic nebula, this illuminated cloud of gas and dust dazzled early morning spacecoast skygazers on August 26. The snapshot was taken about 2 minutes after the launch of of a Falcon 9 rocket on the SpaceX Crew-7 mission, the seventh commercial crew rotation mission for the International Space Station. It captures drifting plumes and exhaust from the separated first and second stage illuminated against the still dark skies. Near the center of the image, within the ragged blueish ring, are two bright points of light. The lower one is the second stage of the rocket carrying 4 humans to space in a Crew Dragon spacecraft. The bright point above is the Falcon 9 first stage booster orienting itself for the trip back to Landing Zone-1 at Cape Canaveral, planet Earth.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Thursday, 31 August, 8:42 am GMT+8<br />
+Last refresh: Friday, 1 September, 8:46 am GMT+8<br />
