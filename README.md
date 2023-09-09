@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:The Large Cloud of Magellan</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2309&#x2F;TheLargeMagellanicCloud.jpg" /><br/>
-<b>Date:</b> 2023-09-07<br/>
-<b>Description:</b> The 16th century Portuguese navigator Ferdinand Magellan and his crew had plenty of time to study the southern sky during the first circumnavigation of planet Earth. As a result, two fuzzy cloud-like objects easily visible to southern hemisphere skygazers are known as the Clouds of Magellan, now understood to be satellite galaxies of our much larger, spiral Milky Way galaxy. About 160,000 light-years distant in the constellation Dorado, the Large Magellanic Cloud is seen in this sharp galaxy portrait. Spanning about 15,000 light-years or so, it is the most massive of the Milky Way&#39;s satellite galaxies and is the home of the closest supernova in modern times, SN 1987A.  The prominent patch above center is 30 Doradus, also known as the magnificent Tarantula Nebula, a giant star-forming region about 1,000 light-years across.<br/>
+<h3>:rocket:Star Factory Messier 17</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2309&#x2F;OmegaNebulaGrandMesaObservatory2023.jpg" /><br/>
+<b>Date:</b> 2023-09-08<br/>
+<b>Description:</b> Sculpted by stellar winds and radiation, the star factory known as Messier 17 lies some 5,500 light-years away in the nebula-rich constellation Sagittarius. At that distance, this 1&#x2F;3 degree wide field of view spans over 30 light-years. The sharp composite, color image highlights faint details of the region&#39;s gas and dust clouds against a backdrop of central Milky Way stars. Stellar winds and energetic light from hot, massive stars formed from M17&#39;s stock of cosmic gas and dust have slowly carved away at the remaining interstellar material, producing the cavernous appearance and undulating shapes. M17 is also known as the Omega Nebula or the Swan Nebula.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Friday, 8 September, 8:42 am GMT+8<br />
+Last refresh: Saturday, 9 September, 8:41 am GMT+8<br />
