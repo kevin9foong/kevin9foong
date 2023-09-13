@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Beautiful Comet Nishimura</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2309&#x2F;BeautNishimura_Horalek_1500.jpg" /><br/>
-<b>Date:</b> 2023-09-11<br/>
-<b>Description:</b> This scene would be beautiful even without the comet. By itself, the sunrise sky is an elegant deep blue on high, with faint white stars peeking through, while near the horizon is a pleasing tan. By itself, the foreground hills of eastern Slovakia are appealingly green, with the Zadňa hura and Veľká hora hills in the distance, and with the lights of small towns along the way.  Venus, by itself on the right, appears unusually exquisite, surrounded by a colorful atmospheric corona. But what attracts the eye most is the comet. On the left, in this composite image taken just before dawn yesterday morning, is Comet Nishimura.  On recent mornings around the globe, its bright coma and long ion tail make many a morning panoramic photo unusually beautiful.  Tomorrow, C&#x2F;2023 P1 (Nishimura) will pass its nearest to the Earth for about the next 434 years.<br/>
+<h3>:rocket:Galaxy Cluster Abell 370 and Beyond</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2309&#x2F;STSCI-HST-abell370_1797x2000.jpg" /><br/>
+<b>Date:</b> 2023-09-12<br/>
+<b>Description:</b> Some 4 billion light-years away, massive galaxy cluster Abell 370 is captured in this sharp Hubble Space Telescope snapshot. The cluster of galaxies only appears to be dominated by two giant elliptical galaxies and infested with faint arcs. In reality, the fainter, scattered bluish arcs, along with the dramatic dragon arc below and left of center, are images of galaxies that lie far beyond Abell 370. About twice as distant, their otherwise undetected light is magnified and distorted by the cluster&#39;s enormous gravitational mass, overwhelmingly dominated by unseen dark matter. Providing a tantalizing glimpse of galaxies in the early universe, the effect is known as gravitational lensing. A consequence of warped spacetime, lensing was predicted by Einstein almost a century ago. Far beyond the spiky foreground Milky Way star at lower right, Abell 370 is seen toward the constellation Cetus, the Sea Monster. It was the last of six galaxy clusters imaged in the Frontier Fields project.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Tuesday, 12 September, 8:41 am GMT+8<br />
+Last refresh: Wednesday, 13 September, 8:42 am GMT+8<br />
