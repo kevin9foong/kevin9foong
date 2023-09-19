@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Moon Mountains Magnified during Ring of Fire Eclipse</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2309&#x2F;BeadMountains_Letian_3000.jpg" /><br/>
-<b>Date:</b> 2023-09-17<br/>
-<b>Description:</b> What are those dark streaks in this composite image of a solar eclipse? They are reversed shadows of mountains at the edge of the Moon.  The center image, captured from Xiamen, China, has the Moon&#39;s center directly in front of the Sun&#39;s center. The Moon, though, was too far from the Earth to completely block the entire Sun.  Light that streamed around the edges of the Moon is called a  ring of fire. Images at each end of the sequence show sunlight that streamed through lunar valleys.  As the Moon moved further in front of the Sun, left to right, only the higher peaks on the Moon&#39;s perimeter could block sunlight.  Therefore, the dark streaks are projected, distorted, reversed, and magnified shadows of mountains at the Moon&#39;s edge.  Bright areas are called Baily&#39;s Beads. Only people in a narrow swath across Earth&#39;s Eastern Hemisphere were able to view this full annular solar eclipse in 2020. Next month, though, a narrow swath crossing both North and South America will be exposed to the next annular solar eclipse. And next April, a total solar eclipse will be visible across North America.   Open Science: Browse 3,000+ codes in the Astrophysics Source Code Library<br/>
+<h3>:rocket:The Red Sprite and the Tree</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2309&#x2F;SpriteTree_Villaeys_1333.jpg" /><br/>
+<b>Date:</b> 2023-09-18<br/>
+<b>Description:</b> The sprite and tree could hardly be more different. To start, the red sprite is an unusual form of lightning, while the tree is a common plant. The sprite is far away -- high in Earth&#39;s atmosphere, while the tree is nearby -- only about a football field away.  The sprite is fast -- electrons streaming up and down at near light&#39;s speed, while the tree is slow -- wood anchored to the ground. The sprite is bright -- lighting up the sky, while the tree is dim -- shining mostly by reflected light. The sprite was fleeting -- lasting only a small fraction of a second, while the tree is durable -- living now for many years.  Both however, when captured together, appear oddly similar in this featured composite image captured early this month in France as a thunderstorm passed over mountains of the Atlantic Pyrenees.    Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Monday, 18 September, 8:43 am GMT+8<br />
+Last refresh: Tuesday, 19 September, 8:43 am GMT+8<br />
