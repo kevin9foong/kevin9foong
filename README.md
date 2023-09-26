@@ -11,10 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:A Ring of Fire Sunrise Solar Eclipse</h3> 
-<b>Date:</b> 2023-09-24<br/>
-<b>Description:</b> What&#39;s rising above the horizon behind those clouds? It&#39;s the Sun.  Most sunrises don&#39;t look like this, though, because most sunrises don&#39;t include the Moon. In the early morning of 2013 May 10, however, from Western Australia, the Moon was between the Earth and the rising Sun.  At times, it would be hard for the uninformed to understand what was happening.  In an annular eclipse, the Moon is too far from the Earth to block the entire Sun, and at most leaves a ring of fire where sunlight pours out around every edge of the Moon.  The featured time-lapse video also recorded the eclipse through the high refraction of the Earth&#39;s atmosphere just above the horizon, making the unusual rising Sun and Moon appear also flattened.  As the video continues, the Sun continues to rise, while the Sun and Moon begin to separate.  The next annular solar eclipse will occur in less than three weeks.  On Saturday, October 14, a ring of fire will be visible through clear skies from a thin swath crossing both North and South America.   Tour the Universe: Random APOD Generator<br/>
+<h3>:rocket:Arp 142: The Hummingbird Galaxy</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2309&#x2F;Arp142_HubbleChakrabarti_2627.jpg" /><br/>
+<b>Date:</b> 2023-09-25<br/>
+<b>Description:</b> What&#39;s happening to this spiral galaxy? Just a few hundred million years ago, NGC 2936, the upper of the two large galaxies shown at the bottom, was likely a normal spiral galaxy -- spinning, creating stars -- and minding its own business. But then it got too close to the massive elliptical galaxy NGC 2937, just below, and took a turn. Sometimes dubbed the Hummingbird Galaxy for its iconic shape, NGC 2936 is not only being deflected but also being distorted by the close gravitational interaction. Behind filaments of dark interstellar dust, bright blue stars form the nose of the hummingbird, while the center of the spiral appears as an eye.  Alternatively, the galaxy pair, together known as Arp 142, look to some like Porpoise or a penguin protecting an egg. The featured re-processed image showing Arp 142 in great detail was taken recently by the Hubble Space Telescope. Arp 142 lies about 300 million light years away toward the constellation of the Water Snake (Hydra). In a billion years or so the two galaxies will likely merge into one larger galaxy.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Monday, 25 September, 8:43 am GMT+8<br />
+Last refresh: Tuesday, 26 September, 8:43 am GMT+8<br />
