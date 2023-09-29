@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:STEVE and Milky Way Cross over Rural Road</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2309&#x2F;SteveMw_Clarke_4177.jpg" /><br/>
-<b>Date:</b> 2023-09-27<br/>
-<b>Description:</b> Not every road ends in a STEVE. A week ago, a sky enthusiast&#39;s journey began with a goal: to photograph an aurora over Lake Huron. Driving through rural Ontario, Canada, the forecasted sky show started unexpectedly early, causing the photographer to stop before arriving at the scenic Great Lake. Aurora images were taken toward the north -- but over land, not sea. While waiting for a second round of auroras, a peculiar band of light was noticed to the west.  Slowly, the photographer and friends realized that this western band was likely an unusual type of aurora: a Strong Thermal Emission Velocity Enhancement (STEVE). Moreover, this STEVE was putting on quite a show: appearing intertwined with the central band of our Milky Way Galaxy while intersecting the horizon just near the end of the country road. After capturing this cosmic X on camera, the photographer paused to appreciate the unexpected awesomeness of finding extraordinary beauty in an ordinary setting.     Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)<br/>
+<h3>:rocket:The Deep Lagoon</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2309&#x2F;M8-Mos-SL10-DCPrgb-st-154-cC-cr.jpg" /><br/>
+<b>Date:</b> 2023-09-28<br/>
+<b>Description:</b> Ridges of glowing interstellar gas and dark dust clouds inhabit the turbulent, cosmic depths of the Lagoon Nebula. Also known as M8, The bright star forming region is about 5,000 light-years distant. It makes for a popular stop on telescopic tours of the constellation Sagittarius toward the center of our Milky Way Galaxy. Dominated by the telltale red emission of ionized hydrogen atoms recombining with stripped electrons, this deep telescopic view of the Lagoon&#39;s central reaches is about 40 light-years across. The bright hourglass shape near the center of the frame is gas ionized and sculpted by energetic radiation and extreme stellar winds from a massive young star.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Thursday, 28 September, 8:43 am GMT+8<br />
+Last refresh: Friday, 29 September, 8:43 am GMT+8<br />
