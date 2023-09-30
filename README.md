@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:The Deep Lagoon</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2309&#x2F;M8-Mos-SL10-DCPrgb-st-154-cC-cr.jpg" /><br/>
-<b>Date:</b> 2023-09-28<br/>
-<b>Description:</b> Ridges of glowing interstellar gas and dark dust clouds inhabit the turbulent, cosmic depths of the Lagoon Nebula. Also known as M8, The bright star forming region is about 5,000 light-years distant. It makes for a popular stop on telescopic tours of the constellation Sagittarius toward the center of our Milky Way Galaxy. Dominated by the telltale red emission of ionized hydrogen atoms recombining with stripped electrons, this deep telescopic view of the Lagoon&#39;s central reaches is about 40 light-years across. The bright hourglass shape near the center of the frame is gas ionized and sculpted by energetic radiation and extreme stellar winds from a massive young star.<br/>
+<h3>:rocket:Back from Bennu</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2309&#x2F;BackFromBennu.jpg" /><br/>
+<b>Date:</b> 2023-09-29<br/>
+<b>Description:</b> Back from asteroid 101955 Bennu, a 110-pound, 31-inch wide sample return capsule rests in a desert on planet Earth in this photo, taken at the Department of Defense Utah Test and Training Range near Salt Lake City last Sunday, September 24. Dropped off by the OSIRIS-Rex spacecraft, the capsule looks charred from the extreme temperatures experienced during its blistering descent through Earth&#39;s dense atmosphere. OSIRIS-Rex began its home-ward journey from Bennu in May of 2021. Delivered to NASA’s Johnson Space Center in Houston on September 25, the capsule&#39;s canister is expected to contain an uncontaminated sample of about a half pound (250 grams) of Bennu&#39;s loosely packed regolith. Working in a new laboratory designed for the OSIRIS-REx mission, scientists and engineers will complete the canister disassembly process, and plan to unveil the sample of the near-Earth asteroid in a broadcast event on October 11.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Friday, 29 September, 8:43 am GMT+8<br />
+Last refresh: Saturday, 30 September, 8:42 am GMT+8<br />
