@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:A Desert Eclipse</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2310&#x2F;DesertEclipse_Daviron_2000.jpg" /><br/>
-<b>Date:</b> 2023-10-01<br/>
-<b>Description:</b> A good place to see a ring-of-fire eclipse, it seemed, would be from a desert. In a desert, there should be relatively few obscuring clouds and trees.  Therefore late December of 2019, a group of photographers traveled to the United Arab Emirates and Rub al-Khali, the largest continuous sand desert in world, to capture clear images of an unusual eclipse that would be passing over.  A ring-of-fire eclipse is an annular eclipse that occurs when the Moon is far enough away on its elliptical orbit around the Earth so that it appears too small, angularly, to cover the entire Sun. At the maximum of an annular eclipse, the edges of the Sun can be seen all around the edges of the Moon, so that the Moon appears to be a dark spot that covers most -- but not all -- of the Sun. This particular eclipse, they knew, would peak soon after sunrise.  After seeking out such a dry and barren place, it turned out that some of the most interesting eclipse images actually included a tree in the foreground, because, in addition to the sand dunes, the tree gave the surreal background a contrasting sense of normalcy, scale, and texture.  On Saturday, October 14, a new ring of fire will be visible through clear skies from a thin swath crossing both North and South America.<br/>
+<h3>:rocket:Sprite Lightning in High Definition</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2310&#x2F;HiResSprites_Escurat_3000.jpg" /><br/>
+<b>Date:</b> 2023-10-02<br/>
+<b>Description:</b> Sometimes lightning occurs out near space.  One such lightning type is red sprite lightning, which has only been photographed and studied on Earth over the past 25 years.  The origins of all types of lightning remain topics for research, and scientists are still trying to figure out why red sprite lightning occurs at all.  Research has shown that following a powerful positive cloud-to-ground lightning strike, red sprites may start as 100-meter balls of ionized air that shoot down from about 80-km high at 10 percent the speed of light. They are quickly followed by a group of upward streaking ionized balls. Featured here is an extraordinarily high-resolution image of a group of red sprites. This image is a single frame lasting only 1&#x2F;25th of a second from a video taken above Castelnaud Castle in Dordogne, France, about three weeks ago. The sprites quickly vanished -- no sprites were visible even on the very next video frame.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Monday, 2 October, 8:43 am GMT+8<br />
+Last refresh: Tuesday, 3 October, 8:44 am GMT+8<br />
