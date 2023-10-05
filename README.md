@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:MyCn 18: The Engraved Hourglass Planetary Nebula</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2310&#x2F;Hourglass_HubblePathak_1080.jpg" /><br/>
-<b>Date:</b> 2023-10-03<br/>
-<b>Description:</b> Do you see the hourglass shape -- or does it see you?  If you can picture it, the rings of MyCn 18 trace the outline of an hourglass -- although one with an unusual eye in its center.  Either way, the sands of time are running out for the central star of this hourglass-shaped planetary nebula. With its nuclear fuel exhausted, this brief, spectacular, closing phase of a Sun-like star&#39;s life occurs as its outer layers are ejected - its core becoming a cooling, fading white dwarf. In 1995, astronomers used the Hubble Space Telescope (HST) to make a series of images of planetary nebulae, including the one featured here.  Pictured, delicate rings of colorful glowing gas (nitrogen-red, hydrogen-green, and oxygen-blue) outline the tenuous walls of the hourglass. The unprecedented sharpness of the Hubble images has revealed surprising details of the nebula ejection process that are helping to resolve the outstanding mysteries of the complex shapes and symmetries of planetary nebulas like MyCn 18.<br/>
+<h3>:rocket:IC 2118: The Witch Head Nebula</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2310&#x2F;WitchHead_Alharbi_3051.jpg" /><br/>
+<b>Date:</b> 2023-10-04<br/>
+<b>Description:</b> Does this nebula look like the head of a witch? The nebula is known popularly as the Witch Head Nebula because, it is said, the nebula&#39;s shape resembles a Halloween-style caricature of a witch&#39;s head. Exactly how, though, can be a topic of imaginative speculation.  What is clear is that IC 2118 is about 50 light-years across and made of gas and dust that points to -- because it has been partly eroded by -- the nearby star Rigel. One of the brighter stars in the constellation Orion, Rigel lies below the bottom of the featured image. The blue color of the Witch Head Nebula and is caused not only by Rigel&#39;s intense blue starlight but because the dust grains scatter blue light more efficiently than red.  The same physical process causes Earth&#39;s daytime sky to appear blue, although the scatterers in planet Earth&#39;s atmosphere are molecules of nitrogen and oxygen.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Wednesday, 4 October, 8:43 am GMT+8<br />
+Last refresh: Thursday, 5 October, 8:43 am GMT+8<br />
