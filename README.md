@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Edwin Hubble Discovers the Universe</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2004&#x2F;HubbleVarOrig_Carnegie_2880.jpg" /><br/>
-<b>Date:</b> 2023-10-06<br/>
-<b>Description:</b> How big is our universe? This question, among others, was debated by two leading astronomers in 1920 in what has since become known as astronomy&#39;s Great Debate.  Many astronomers then believed that our Milky Way Galaxy was the entire universe.  Many others, though, believed that our galaxy was just one of many.  In the Great Debate, each argument was detailed, but no consensus was reached.  The answer came over three years later with the detected variation of single spot in the Andromeda Nebula, as shown on the original glass discovery plate digitally reproduced here. When Edwin Hubble compared images, he noticed that this spot varied, and on October 6, 1923 wrote &quot;VAR!&quot; on the plate.  The best explanation, Hubble knew, was that this spot was the image of a variable star that was very far away. So M31 was really the Andromeda Galaxy -- a galaxy possibly similar to our own.  Annotated 100 years ago, the featured image may not be pretty, but the variable spot on it opened a window through which humanity gazed knowingly, for the first time, into a surprisingly vast cosmos.<br/>
+<h3>:rocket:The Once and Future Stars of Andromeda</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2310&#x2F;M31_HubbleSpitzerGendler_2000.jpg" /><br/>
+<b>Date:</b> 2023-10-07<br/>
+<b>Description:</b> This picture of Andromeda shows not only where stars are now, but where stars will be. The big, beautiful Andromeda Galaxy, M31, is a spiral galaxy a mere 2.5 million light-years away.  Image data from space-based and ground-based observatories have been combined here to produce this intriguing composite view of Andromeda at wavelengths both inside and outside normally visible light. The visible light shows where M31&#39;s stars are now, highlighted in white and blue hues and imaged by the Hubble, Subaru, and Mayall telescopes.  The infrared light shows where M31&#39;s future stars will soon form, highlighted in orange hues and imaged by NASA&#39;s Spitzer Space Telescope.  The infrared light tracks enormous lanes of dust, warmed by stars, sweeping along Andromeda&#39;s spiral arms.  This dust is a tracer of the galaxy&#39;s vast interstellar gas, raw material for future star formation.  Of course, the new stars will likely form over the next hundred million years or so. That&#39;s well before Andromeda merges with our Milky Way Galaxy in about 5 billion years.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Saturday, 7 October, 8:42 am GMT+8<br />
+Last refresh: Sunday, 8 October, 8:47 am GMT+8<br />
