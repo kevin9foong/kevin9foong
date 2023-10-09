@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:The Once and Future Stars of Andromeda</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2310&#x2F;M31_HubbleSpitzerGendler_2000.jpg" /><br/>
-<b>Date:</b> 2023-10-07<br/>
-<b>Description:</b> This picture of Andromeda shows not only where stars are now, but where stars will be. The big, beautiful Andromeda Galaxy, M31, is a spiral galaxy a mere 2.5 million light-years away.  Image data from space-based and ground-based observatories have been combined here to produce this intriguing composite view of Andromeda at wavelengths both inside and outside normally visible light. The visible light shows where M31&#39;s stars are now, highlighted in white and blue hues and imaged by the Hubble, Subaru, and Mayall telescopes.  The infrared light shows where M31&#39;s future stars will soon form, highlighted in orange hues and imaged by NASA&#39;s Spitzer Space Telescope.  The infrared light tracks enormous lanes of dust, warmed by stars, sweeping along Andromeda&#39;s spiral arms.  This dust is a tracer of the galaxy&#39;s vast interstellar gas, raw material for future star formation.  Of course, the new stars will likely form over the next hundred million years or so. That&#39;s well before Andromeda merges with our Milky Way Galaxy in about 5 billion years.<br/>
+<h3>:rocket:Plane, Clouds, Moon, Spots, Sun</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2310&#x2F;PlaneEclipse_Slifer_1756.jpg" /><br/>
+<b>Date:</b> 2023-10-08<br/>
+<b>Description:</b> What&#39;s that in front of the Sun?  The closest object is an airplane, visible just below the Sun&#39;s center and caught purely by chance.  Next out are numerous clouds in Earth&#39;s atmosphere, creating a series of darkened horizontal streaks. Farther out is Earth&#39;s Moon, seen as the large dark circular bite on the upper right. Just above the airplane and just below the Sun&#39;s surface are sunspots. The main sunspot group captured here, AR 2192, was in 2014 one of the largest ever recorded and had been crackling and bursting with flares since it came around the edge of the Sun a week before. This show of solar silhouettes was unfortunately short-lived.  Within a few seconds the plane flew away. Within a few minutes the clouds drifted off. Within a few hours the partial solar eclipse of the Sun by the Moon was over. Fortunately, when it comes to the Sun, even unexpected  alignments are surprisingly frequent. Perhaps one will be imaged this Saturday when a new partial solar eclipse will be visible from much of North and South America.    APOD editor to speak: in Houghton, Michigan on Thursday, October 12 at 6 pm<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Sunday, 8 October, 8:47 am GMT+8<br />
+Last refresh: Monday, 9 October, 8:43 am GMT+8<br />
