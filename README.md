@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:A Distorted Sunrise Eclipse</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2310&#x2F;DistortedSunrise_Chasiotis_2442.jpg" /><br/>
-<b>Date:</b> 2023-10-09<br/>
-<b>Description:</b> Yes, but have you ever seen a sunrise like this?  Here, after initial cloudiness, the Sun appeared to rise in two pieces and during a partial eclipse in 2019, causing the photographer to describe it as the most stunning sunrise of his life.  The dark circle near the top of the atmospherically-reddened Sun is the Moon -- but so is the dark peak just below it.  This is because along the way, the Earth&#39;s atmosphere had a layer of unusually warm air over the sea which acted like a gigantic lens and created a second image.  For a normal sunrise or sunset, this rare phenomenon of atmospheric optics is known as the Etruscan vase effect. The featured picture was captured in December 2019 from Al Wakrah, Qatar.  Some observers in a narrow band of Earth to the east were able to see a full annular solar eclipse -- where the Moon appears completely surrounded by the background Sun in a ring of fire.  The next solar eclipse, also an annular eclipse for well-placed observers, will occur this coming Saturday.   APOD editor to speak: in Houghton, Michigan on Thursday, October 12 at 6 pm<br/>
+<h3>:rocket:Hidden Orion from Webb</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2310&#x2F;OrionNircShort_Webb_2048.jpg" /><br/>
+<b>Date:</b> 2023-10-10<br/>
+<b>Description:</b> The Great Nebula in Orion has hidden stars.   To the unaided eye in visible light, it appears as a small fuzzy patch in the constellation of Orion. But this image was taken by the Webb Space Telescope in a representative-color composite of red and very near infrared light.  It confirms with impressive detail that the  Orion Nebula is a busy neighborhood of young stars, hot gas, and dark dust.  The rollover image shows the same image in representative colors further into the near infrared. The power behind much of the Orion Nebula (M42) is the Trapezium - a cluster of bright stars near the nebula&#39;s center.  The diffuse and filamentary glow surrounding the bright stars is mostly heated interstellar dust.  Detailed inspection of these images shows an unexpectedly large number of Jupiter-Mass Binary Objects (JuMBOs), pairs of Jupiter-mass objects which might give a clue to how stars are forming.  The whole Orion Nebula cloud complex, which includes the Horsehead Nebula, will slowly disperse over the next few million years.   APOD editor to speak: in Houghton, Michigan on Thursday, October 12 at 6 pm<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Tuesday, 10 October, 8:43 am GMT+8<br />
+Last refresh: Wednesday, 11 October, 8:43 am GMT+8<br />
