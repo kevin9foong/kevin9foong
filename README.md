@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Mu Cephei</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2310&#x2F;MuCephei_apod.jpg" /><br/>
-<b>Date:</b> 2023-10-12<br/>
-<b>Description:</b> Mu Cephei is a very large star. An M-class supergiant some 1500 times the size of the Sun, it is one of the largest stars visible to the unaided eye, and even one of the largest in the entire Galaxy. If it replaced the Sun in our fair Solar System, Mu Cephei would easily engulf Mars and Jupiter. Historically known as Herschel&#39;s Garnet Star, Mu Cephei is extremely red. Approximately 2800 light-years distant, the supergiant is seen near the edge of reddish emission nebula IC 1396 toward the royal northern constellation Cepheus in this telescopic view. Much cooler and hence redder than the Sun, this supergiant&#39;s light is further reddened by absorption and scattering due to intervening dust within the Milky Way. A well-studied variable star understood to be in a late phase of stellar evolution, Mu Cephei is a massive star too, destined to ultimately explode as a core-collapse supernova.   APOD editor to speak: in Houghton, Michigan tonight, Thursday, October 12, at 6 pm<br/>
+<h3>:rocket:Hydrogen Clouds of M33</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2310&#x2F;M33_Triangulum.jpg" /><br/>
+<b>Date:</b> 2023-10-13<br/>
+<b>Description:</b> Gorgeous spiral galaxy Messier 33 seems to have more than its fair share of glowing hydrogen gas. A prominent member of the local group of galaxies, M33 is also known as the Triangulum Galaxy and lies a mere 3 million light-years away.  The galaxy&#39;s central 30,000 light-years or so are shown in this sharp galaxy portrait. The portrait features M33&#39;s reddish ionized hydrogen clouds or HII regions. Sprawling along loose spiral arms that wind toward the core, M33&#39;s giant HII regions are some of the largest known stellar nurseries, sites of the formation of short-lived but very massive stars. Intense ultraviolet radiation from the luminous, massive stars ionizes the surrounding hydrogen gas and ultimately produces the characteristic red glow. In this image, broadband data were combined with narrowband data recorded through a hydrogen-alpha filter. That filter transmits the light of the strongest visible hydrogen emission line.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Friday, 13 October, 8:44 am GMT+8<br />
+Last refresh: Saturday, 14 October, 8:42 am GMT+8<br />
