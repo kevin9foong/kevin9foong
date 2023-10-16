@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Circular Sun Halo</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2310&#x2F;Vincenzo_Mirabella_20210529_134459.jpg" /><br/>
-<b>Date:</b> 2023-10-14<br/>
-<b>Description:</b> Want to see a ring around the Sun? It&#39;s easy to do in daytime skies around the world. Created by randomly oriented ice crystals in thin high cirrus clouds, circular 22 degree halos are visible much more often than rainbows. This one was captured by smart phone photography on May 29, 2021 near Rome, Italy. Carefully blocking the Sun, for example with a finger tip, is usually all that it takes to reveal the common bright halo ring. The halo&#39;s characteristic angular radius is about equal to the span of your hand, thumb to little finger, at the end of your outstretched arm.  Want to see a ring of fire eclipse? That&#39;s harder. The spectacular annular phase of today&#39;s (October 14) solar eclipse, known as a ring of fire, is briefly visible only when standing along the Moon&#39;s narrow shadow track that passes over limited parts of North, Central, and South America. The solar eclipse is partial though, when seen from broader regions throughout the Americas.   Album growing: Selected eclipse images sent in to APOD<br/>
+<h3>:rocket:An Eclipse Tree</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2310&#x2F;EclipseTree_Wyre_3024.jpg" /><br/>
+<b>Date:</b> 2023-10-15<br/>
+<b>Description:</b> Yes, but can your tree do this?  If you look closely at the ground in the featured image, you will see many images of yesterday&#39;s solar eclipse -- created by a tree. Gaps between tree leaves act like pinhole lenses and each create a small image of the partially eclipsed Sun visible in the other direction.  The image was taken in Burleson, Texas, USA. Yesterday, people across the Americas were treated to a partial eclipse of the Sun, when the Moon moves in front of part of the Sun. People in a narrow band of Earth were treated to an annular eclipse, also called a ring-of-fire eclipse, when the Moon becomes completely engulfed by the Sun and sunlight streams around all of the Moon&#39;s edges. In answer to the lede question, your tree not only can do this, but will do it every time that a visible solar eclipse passes overhead.  Next April 8, a deeper, total solar eclipse will move across North America.   Album: Selected eclipse images sent in to APOD<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Sunday, 15 October, 8:47 am GMT+8<br />
+Last refresh: Monday, 16 October, 8:44 am GMT+8<br />
