@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Dust and the Western Veil Nebula</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2310&#x2F;WesternVeil_Wu_2974.jpg" /><br/>
-<b>Date:</b> 2023-10-18<br/>
-<b>Description:</b> It&#39;s so big it is easy to miss. The entire Veil Nebula spans six times the diameter of the full moon, but is so dim you need binoculars to see it. The nebula was created about 15,000 years ago when a star in the constellation of the Swan (Cygnus) exploded. The spectacular explosion would have appeared brighter than even Venus for a week - but there is no known record of it.  Pictured is the western edge of the still-expanding gas cloud. Notable gas filaments include the Witch&#39;s Broom Nebula on the upper left near the bright foreground star 52 Cygni, and Fleming&#39;s Triangular Wisp (formerly known as Pickering&#39;s Triangle) running diagonally up the image middle.  What is rarely imaged -- but seen in the featured long exposure across many color bands -- is the reflecting brown dust that runs vertically up the image left, dust likely created in the cool atmospheres of massive stars.<br/>
+<h3>:rocket:A Sunrise at Sunset Point</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2310&#x2F;AnnularMontagev2.jpg" /><br/>
+<b>Date:</b> 2023-10-19<br/>
+<b>Description:</b> This timelapse series captured on October 14 is set against the sunrise view from Sunset Point, Bryce Canyon, planet Earth. Of course on that date the New Moon caught up with the Sun in the canyon&#39;s morning skies. Local temperatures fell as the Moon&#39;s shadow swept across the high altitude scene and the brilliant morning sunlight became a more subdued yellow hue cast over the reddish rocky landscape. In the timelapse series, images were taken at 2 minute intervals. The camera and solar filter were fixed to a tripod to follow the phases of the annular solar eclipse.   APOD Album: Annular Solar Eclipse of 2023 October<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Thursday, 19 October, 8:43 am GMT+8<br />
+Last refresh: Friday, 20 October, 8:43 am GMT+8<br />
