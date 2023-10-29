@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Encke and the Tadpoles</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2310&#x2F;2P_Encke_2023_08_24JuneLake_California_USA_DEBartlett.jpg" /><br/>
-<b>Date:</b> 2023-10-27<br/>
-<b>Description:</b> History&#39;s second known periodic comet is Comet Encke (2P&#x2F;Encke). As it swings through the inner Solar System, Encke&#39;s orbit takes it from an aphelion, its greatest distance from the Sun, inside the orbit of Jupiter to a perihelion just inside the orbit of Mercury. Returning to its perihelion every 3.3 years, Encke has the shortest period of the Solar System&#39;s major comets. Comet Encke is also associated with (at least) two annual meteor showers on planet Earth, the North and South Taurids. Both showers are active in late October and early November. Their two separate radiants lie near bright star Aldebaran in the head-strong constellation Taurus. A faint comet, Encke was captured in this telescopic field of view imaged on the morning of August 24. Then, Encke&#39;s pretty greenish coma was close on the sky to the young, embedded star cluster and light-years long, tadpole-shaped star-forming clouds in emission nebula IC 410. Now near bright star Spica in Virgo Comet Encke passed its 2023 perihelion only five days ago, on October 22.<br/>
+<h3>:rocket:The Ghosts of Gamma Cas</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2310&#x2F;IC63_GruntzBax.jpg" /><br/>
+<b>Date:</b> 2023-10-28<br/>
+<b>Description:</b> Gamma Cassiopeiae shines high in northern autumn evening skies. It&#39;s the brightest spiky star in this telescopic field of view toward the constellation Cassiopeia. Gamma Cas shares the ethereal-looking scene with ghostly interstellar clouds of gas and dust, IC 59 (top left) and IC 63.  About 600 light-years distant, the clouds aren&#39;t actually ghosts. They are slowly disappearing though, eroding under the influence of energetic radiation from hot and luminous gamma Cas. Gamma Cas is physically located only 3 to 4 light-years from the nebulae. Slightly closer to gamma Cas, IC 63 is dominated by red H-alpha light emitted as hydrogen atoms ionized by the star&#39;s ultraviolet radiation recombine with electrons. Farther from the star, IC 59 shows proportionally less H-alpha emission but more of the characteristic blue tint of dust reflected star light. The cosmic stage spans over 1 degree or 10 light-years at the estimated distance of gamma Cas and friends.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Saturday, 28 October, 8:41 am GMT+8<br />
+Last refresh: Sunday, 29 October, 8:46 am GMT+8<br />
