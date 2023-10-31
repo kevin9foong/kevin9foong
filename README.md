@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:A Partial Lunar Eclipse</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2310&#x2F;PartialLunarItaly_Mezzio_5524.jpg" /><br/>
-<b>Date:</b> 2023-10-29<br/>
-<b>Description:</b> What&#39;s happened to the Moon?  Within the last day, part of the Moon moved through the Earth&#39;s shadow.  This happens about once or twice a year, but not every month since the Moon&#39;s orbit around the Earth is slightly tilted.  Pictured here, the face of a full Hunter&#39;s Moon is shown twice from Italy during this partial lunar eclipse.  On the left, most of the Moon appears overexposed except for the eclipsed bottom right, which shows some familiar lunar surface details. In contrast, on the right, most of the (same) Moon appears normally exposed, with the exception of the bottom right, which now appears dark. All lunar eclipses are visible from the half of the Earth facing the Moon at the time of the eclipse, but this eclipse was visible specifically from Europe, Africa, Asia, and Australia, clouds permitting. In April, a total solar eclipse will be visible from North America.   Album: Selected partial lunar eclipse images sent in to APOD<br/>
+<h3>:rocket:Reflections of the Ghost Nebula</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2310&#x2F;GhostNebula_Jarzyna_960.jpg" /><br/>
+<b>Date:</b> 2023-10-30<br/>
+<b>Description:</b> Do any shapes seem to jump out at you from this interstellar field of stars and dust?  The jeweled expanse, filled with faint, starlight-reflecting clouds, drifts through the night in the royal constellation of Cepheus. Far from your own neighborhood on planet Earth, these ghostly apparitions lurk along the plane of the Milky Way at the edge of the Cepheus Flare molecular cloud complex some 1,200 light-years away. Over two light-years across and brighter than the other spooky chimeras, VdB 141 or Sh2-136 is also known as the Ghost Nebula, seen toward the bottom of the featured image. Within the reflection nebula are the telltale signs of dense cores collapsing in the early stages of star formation.   Tour the Universe: Random APOD Generator<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Monday, 30 October, 8:43 am GMT+8<br />
+Last refresh: Tuesday, 31 October, 8:43 am GMT+8<br />
