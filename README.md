@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Reflections of the Ghost Nebula</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2310&#x2F;GhostNebula_Jarzyna_960.jpg" /><br/>
-<b>Date:</b> 2023-10-30<br/>
-<b>Description:</b> Do any shapes seem to jump out at you from this interstellar field of stars and dust?  The jeweled expanse, filled with faint, starlight-reflecting clouds, drifts through the night in the royal constellation of Cepheus. Far from your own neighborhood on planet Earth, these ghostly apparitions lurk along the plane of the Milky Way at the edge of the Cepheus Flare molecular cloud complex some 1,200 light-years away. Over two light-years across and brighter than the other spooky chimeras, VdB 141 or Sh2-136 is also known as the Ghost Nebula, seen toward the bottom of the featured image. Within the reflection nebula are the telltale signs of dense cores collapsing in the early stages of star formation.   Tour the Universe: Random APOD Generator<br/>
+<h3>:rocket:Halloween and the Wizard Nebula</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2310&#x2F;WizardCenter_McInnis_960.jpg" /><br/>
+<b>Date:</b> 2023-10-31<br/>
+<b>Description:</b> Halloween&#39;s origin is ancient and astronomical.  Since the fifth century BC, Halloween has been celebrated as a cross-quarter day, a day halfway between an equinox (equal day &#x2F; equal night) and a solstice (minimum day &#x2F; maximum night in the northern hemisphere).  With a modern calendar however, even though Halloween occurs today, the real cross-quarter day will occur next week.  Another cross-quarter day is Groundhog Day. Halloween&#39;s modern celebration retains historic roots in dressing to scare away the spirits of the dead.  Perhaps a fitting tribute to this ancient holiday is this closeup view of the Wizard Nebula (NGC 7380).  Visually, the interplay of stars, gas, and dust has created a shape that appears to some like a fictional ancient sorcerer. Although the nebula may last only a few million years, some of the stars being conjured from the gas by the great gravitational powers may outlive our Sun.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Tuesday, 31 October, 8:43 am GMT+8<br />
+Last refresh: Wednesday, 1 November, 8:47 am GMT+8<br />
