@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:The Fornax Cluster of Galaxies</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2311&#x2F;ClusterFornax.jpg" /><br/>
-<b>Date:</b> 2023-11-02<br/>
-<b>Description:</b> Named for the southern constellation toward which most of its galaxies can be found, the Fornax Cluster is one of the closest clusters of galaxies. About 62 million light-years away, it&#39;s over 20 times more distant than our neighboring Andromeda Galaxy, but only about 10 percent farther along than the better known and more populated Virgo Galaxy Cluster. Seen across this three degree wide field-of-view, almost every yellowish splotch on the image is an elliptical galaxy in the Fornax cluster. Elliptical galaxies NGC 1399 and NGC 1404 are the dominant, bright cluster members toward the bottom center. A standout, large barred spiral galaxy, NGC 1365, is visible on the upper right as a prominent Fornax cluster member.<br/>
+<h3>:rocket:Jupiter by Moonlight</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2311&#x2F;_GHR7338_3_firma_picc.jpg" /><br/>
+<b>Date:</b> 2023-11-03<br/>
+<b>Description:</b> That bright beacon you&#39;ve seen rising in the east just after sunset is Jupiter. Climbing high in midnight skies, our Solar System&#39;s ruling gas giant was at its 2023 opposition, opposite the Sun in planet Earth&#39;s sky, on November 2. But only a few days earlier, on October 28, the Moon was at its own opposition. Then both Full Moon and Jupiter could share this telephoto field of view. The celestial scene is composed from two exposures, one long and one short, blended to record bright planet and even brighter Moon during that evening&#39;s partial lunar eclipse. Moonlight shining through the thin, high clouds over northern Italy creates the colorful iridescence and lunar corona. Look closely and you&#39;ll also spot some of Jupiter&#39;s Galilean moons.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Friday, 3 November, 8:44 am GMT+8<br />
+Last refresh: Saturday, 4 November, 8:43 am GMT+8<br />
