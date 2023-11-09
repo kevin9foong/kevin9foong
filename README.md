@@ -11,10 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:A Martian Dust Devil Spins By</h3> 
-<b>Date:</b> 2023-11-07<br/>
-<b>Description:</b> It moved across the surface of Mars -- what was it? A dust devil. Such spinning columns of rising air are heated by the warm surface and are also common in warm and dry areas on planet Earth.  Typically lasting only a few minutes, dust devils become visible as they pick up loose red-colored dust, leaving the darker and heavier sand beneath intact.  Dust devils not only look cool -- they can leave visible trails, and have been credited with unexpected cleanings of the surfaces of solar panels. The images in the featured AI-interpolated video were captured in early August by the Perseverance rover currently searching for signs of ancient life in Jezero Crater. The six-second time-lapse video encapsulates a real duration of just over one minute.  Visible in the distance, the spinning dust devil was estimated to be passing by at about 20 kilometers per hour and extend up about 2 kilometers high.   Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)<br/>
+<h3>:rocket:Perseus Galaxy Cluster from Euclid</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2311&#x2F;Perseus_Euclid_4400.jpg" /><br/>
+<b>Date:</b> 2023-11-08<br/>
+<b>Description:</b> There&#39;s a new space telescope in the sky: Euclid. Equipped with two large panoramic cameras, Euclid captures light from the visible to the near-infrared.  It took five hours of observing for Euclid&#39;s 1.2-meter diameter primary mirror  to capture, through its sharp optics, the 1000+ galaxies in the Perseus cluster, which lies 250 million light years away.  More than 100,000 galaxies are visible in the background, some as far away as 10 billion light years. The revolutionary nature of Euclid lies in the combination of its wide field of view (twice the area of the full moon), its high angular resolution (thanks to its 620 Megapixel camera), and its infrared vision, which captures both images and spectra.  Euclid&#39;s initial surveys, covering a third of the sky and recording over 2 billion galaxies, will enable a study of how dark matter and dark energy have shaped our universe.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Wednesday, 8 November, 8:44 am GMT+8<br />
+Last refresh: Thursday, 9 November, 8:44 am GMT+8<br />
