@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Perseus Galaxy Cluster from Euclid</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2311&#x2F;Perseus_Euclid_4400.jpg" /><br/>
-<b>Date:</b> 2023-11-08<br/>
-<b>Description:</b> There&#39;s a new space telescope in the sky: Euclid. Equipped with two large panoramic cameras, Euclid captures light from the visible to the near-infrared.  It took five hours of observing for Euclid&#39;s 1.2-meter diameter primary mirror  to capture, through its sharp optics, the 1000+ galaxies in the Perseus cluster, which lies 250 million light years away.  More than 100,000 galaxies are visible in the background, some as far away as 10 billion light years. The revolutionary nature of Euclid lies in the combination of its wide field of view (twice the area of the full moon), its high angular resolution (thanks to its 620 Megapixel camera), and its infrared vision, which captures both images and spectra.  Euclid&#39;s initial surveys, covering a third of the sky and recording over 2 billion galaxies, will enable a study of how dark matter and dark energy have shaped our universe.<br/>
+<h3>:rocket:M1: The Crab Nebula</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2311&#x2F;M1_webb1024.png" /><br/>
+<b>Date:</b> 2023-11-09<br/>
+<b>Description:</b> The Crab Nebula is cataloged as M1, the first object on Charles Messier&#39;s famous 18th century list of things which are not comets. In fact, the Crab is now known to be a supernova remnant, debris from the death explosion of a massive star witnessed by astronomers in the year 1054. This sharp image from the James Webb Space Telescope’s NIRCam (Near-Infrared Camera) and MIRI (Mid-Infrared Instrument) explores the eerie glow and fragmented strands of the still expanding cloud of interstellar debris in infrared light. One of the most exotic objects known to modern astronomers, the Crab Pulsar, a neutron star spinning 30 times a second, is visible as a bright spot near the nebula&#39;s center. Like a cosmic dynamo, this collapsed remnant of the stellar core powers the Crab&#39;s emission across the electromagnetic spectrum. Spanning about 12 light-years, the Crab Nebula is a mere 6,500 light-years away in the head-strong constellation Taurus.   Album: Moon Eclipses Venus: Selected images sent in to APOD<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Thursday, 9 November, 8:44 am GMT+8<br />
+Last refresh: Friday, 10 November, 8:44 am GMT+8<br />
