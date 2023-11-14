@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Gibbous Moon beyond Swedish Mountain</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2311&#x2F;GibbousMoon_Strand_1500.jpg" /><br/>
-<b>Date:</b> 2023-11-12<br/>
-<b>Description:</b> This is a gibbous Moon. More Earthlings are familiar with a full moon, when the entire face of Luna is lit by the Sun, and a crescent moon, when only a sliver of the Moon&#39;s face is lit.  When more than half of the Moon is illuminated, though, but still short of full illumination, the phase is called gibbous.  Rarely seen in television and movies, gibbous moons are quite common in the actual night sky. The featured image was taken in Jämtland, Sweden near the end of 2018 October. That gibbous moon turned, in a few days, into a crescent moon, and then a new moon, then back to a crescent, and a few days past that, back to gibbous.  Setting up to capture a picturesque gibbous moonscape, the photographer was quite surprised to find an airplane, surely well in the foreground, appearing to fly past it.   Almost Hyperspace: Random APOD Generator<br/>
+<h3>:rocket:Andromeda over the Alps</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2311&#x2F;M31Alps_Kananovich_1639.jpg" /><br/>
+<b>Date:</b> 2023-11-13<br/>
+<b>Description:</b> Have you ever seen the Andromeda galaxy? Although M31 appears as a faint and fuzzy blob to the unaided eye, the light you see will be over two million years old, making it likely the oldest light you ever will see directly. The featured image captured Andromeda just before it set behind the Swiss Alps early last year. As cool as it may be to see this neighboring galaxy to our Milky Way with your own eyes, long duration camera exposures can pick up many faint and breathtaking details. The image is composite of foreground and background images taken consecutively with the same camera and from the same location.  Recent data indicate that our Milky Way Galaxy will collide and coalesce with Andromeda galaxy in a few billion years.   Follow APOD on Facebook in: Arabic, English, Catalan, Portuguese, or Taiwanese<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Monday, 13 November, 8:46 am GMT+8<br />
+Last refresh: Tuesday, 14 November, 8:44 am GMT+8<br />
