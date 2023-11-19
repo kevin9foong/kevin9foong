@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Nightlights in Qeqertaq</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2311&#x2F;lehtonen_dennisAuroraQeqertaq2.jpg" /><br/>
-<b>Date:</b> 2023-11-17<br/>
-<b>Description:</b> Light pollution is usually not a problem in Qeqertaq. In western Greenland the remote coastal village boasted a population of 114 in 2020. Lights still shine in its dark skies though. During planet Earth&#39;s recent intense geomagnetic storm, on November 6 these beautiful curtains of aurora borealis fell over the arctic realm. On the eve of the coming weeks of polar night at 70 degrees north latitude, the inspiring display of northern lights is reflected in the waters of Disko Bay. In this view from the isolated settlement a lone iceberg is illuminated by shore lights as it drifts across the icy sea.  Weekend Watch: The Leonid Meteor Shower.<br/>
+<h3>:rocket:Planet Earth from Orion</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2211&#x2F;Orion_Spacecraft_Earth_Views_20221116-medium.jpg" /><br/>
+<b>Date:</b> 2023-11-18<br/>
+<b>Description:</b> One year ago a Space Launch System rocket left planet Earth on November 16, 2022 at 1:47am EST carrying the Orion spacecraft on the Artemis I mission, the first integrated test of NASA’s deep space exploration systems. Over an hour after liftoff from Kennedy Space Center&#39;s historic Launch Complex 39B, one of Orion&#39;s external video cameras captured this view of its new perspective from space. In the foreground are Orion&#39;s Orbital Maneuvering System engine and auxillary engines, at the bottom of the European Service Module. Beyond one of the module&#39;s 7-meter long extended solar array wings lies the spacecraft&#39;s beautiful home world. Making close flybys of the lunar surface and reaching a retrograde orbit 70,000 kilometers beyond the Moon, the uncrewed Artemis I mission lasted over 25 days, testing capabilities to enable human exploration of the Moon and Mars. Building on the success of Artemis I, no earlier than November 2024 the Artemis II mission with a crew of 4 will venture around the Moon and back again.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Saturday, 18 November, 8:45 am GMT+8<br />
+Last refresh: Sunday, 19 November, 8:50 am GMT+8<br />
