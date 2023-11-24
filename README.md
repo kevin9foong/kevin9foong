@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:IC 342: Hidden Galaxy in Camelopardalis</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2311&#x2F;ic342asi294large.jpg" /><br/>
-<b>Date:</b> 2023-11-22<br/>
-<b>Description:</b> Similar in size to large, bright spiral galaxies in our neighborhood, IC 342 is a mere 10 million light-years distant in the long-necked, northern constellation Camelopardalis. A sprawling island universe, IC 342 would otherwise be a prominent galaxy in our night sky, but it is hidden from clear view and only glimpsed through the veil of stars, gas and dust clouds along the plane of our own Milky Way galaxy. Even though IC 342&#39;s light is dimmed and reddened by intervening cosmic clouds, this sharp telescopic image traces the galaxy&#39;s own obscuring dust, young star clusters, and glowing star forming regions along spiral arms that wind far from the galaxy&#39;s core. IC 342 has undergone a recent burst of star formation activity and is close enough to have gravitationally influenced the evolution of the local group of galaxies and the Milky Way.<br/>
+<h3>:rocket:Along the Taurus Molecular Cloud</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2311&#x2F;ngc1555wide4096.jpg" /><br/>
+<b>Date:</b> 2023-11-23<br/>
+<b>Description:</b> The cosmic brush of star formation composed this interstellar canvas of emission, dust, and dark nebulae. A 5 degree wide telescopic mosaic, it frames a region found north of bright star Aldebaran on the sky, at an inner wall of the local bubble along the Taurus molecular cloud. At lower left, emission cataloged as Sh2-239 shows signs of embedded young stellar objects. The region&#39;s Herbig-Haro objects, nebulosities associated with newly born stars, are marked by tell-tale reddish jets of shocked hydrogen gas. Above and right T Tauri, the prototype of the class of T Tauri variable stars, is next to a yellowish nebula historically known as Hind&#39;s Variable Nebula (NGC 1555). T Tauri stars are now generally recognized as young, less than a few million years old, sun-like stars still in the early stages of formation.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Thursday, 23 November, 8:46 am GMT+8<br />
+Last refresh: Friday, 24 November, 8:44 am GMT+8<br />
