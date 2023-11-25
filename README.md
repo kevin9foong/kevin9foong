@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Along the Taurus Molecular Cloud</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2311&#x2F;ngc1555wide4096.jpg" /><br/>
-<b>Date:</b> 2023-11-23<br/>
-<b>Description:</b> The cosmic brush of star formation composed this interstellar canvas of emission, dust, and dark nebulae. A 5 degree wide telescopic mosaic, it frames a region found north of bright star Aldebaran on the sky, at an inner wall of the local bubble along the Taurus molecular cloud. At lower left, emission cataloged as Sh2-239 shows signs of embedded young stellar objects. The region&#39;s Herbig-Haro objects, nebulosities associated with newly born stars, are marked by tell-tale reddish jets of shocked hydrogen gas. Above and right T Tauri, the prototype of the class of T Tauri variable stars, is next to a yellowish nebula historically known as Hind&#39;s Variable Nebula (NGC 1555). T Tauri stars are now generally recognized as young, less than a few million years old, sun-like stars still in the early stages of formation.<br/>
+<h3>:rocket:Stereo Jupiter near Opposition</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2311&#x2F;2023-11-17-1617_1632-Jupiter_Stereo.png" /><br/>
+<b>Date:</b> 2023-11-24<br/>
+<b>Description:</b> Jupiter looks sharp in these two rooftop telescope images. Both were captured on November 17 from Singapore, planet Earth, about two weeks after Jupiter&#39;s 2023 opposition. Climbing high in midnight skies the giant planet was a mere 33.4 light-minutes from Singapore. That&#39;s about 4 astronomical units away. Jupiter&#39;s planet girdling dark belts and light zones are visible in remarkable detail, along with the giant world&#39;s whitish oval vortices. Its signature Great Red Spot is still prominent in the south. Jupiter rotates rapidly on its axis once every 10 hours. So, based on video frames taken only 15 minutes apart, these images form a stereo pair. Look at the center of the pair and cross your eyes until the separate images come together to see the Solar System&#39;s ruling gas giant in 3D.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Friday, 24 November, 8:44 am GMT+8<br />
+Last refresh: Saturday, 25 November, 8:43 am GMT+8<br />
