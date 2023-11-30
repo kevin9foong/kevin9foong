@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Ganymede from Juno</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2311&#x2F;Ganymede2_JunoGill_3445.jpg" /><br/>
-<b>Date:</b> 2023-11-28<br/>
-<b>Description:</b> What does the largest moon in the Solar System look like?  Jupiter&#39;s moon Ganymede, larger than even Mercury and Pluto, has an icy surface speckled with bright young craters overlying a mixture of older, darker, more cratered terrain laced with grooves and ridges.  The cause of the grooved terrain remains a topic of research, with a leading hypothesis relating it to shifting ice plates.  Ganymede is thought to have an ocean layer that contains more water than Earth -- and might contain life.  Like Earth&#39;s Moon, Ganymede keeps the same face towards its central planet, in this case Jupiter.  The featured image was captured in 2021 by NASA&#39;s robotic Juno spacecraft when it passed by the immense moon.  The close pass reduced Juno&#39;s orbital period around Jupiter from 53 days to 43 days.  Juno continues to study the giant planet&#39;s high gravity, unusual magnetic field, and complex cloud structures.    Follow Podcasts about APOD&#39;s Images: on YouTube<br/>
+<h3>:rocket:A Landspout Tornado over Kansas</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2311&#x2F;LowerLandspout_Hannon_960.jpg" /><br/>
+<b>Date:</b> 2023-11-29<br/>
+<b>Description:</b> Could there be a tornado inside another tornado? In general, no.  OK, but could there be a tornado inside a wider dust devil? No again, for one reason because tornados comes down from the sky, but dust devils rise up from the ground. What is pictured is a landspout, an unusual type of tornado known to occur on the edge of a violent thunderstorm. The featured landspout was imaged and identified in Kansas, USA, in June 2019 by an experienced storm chaser.  The real tornado is in the center, and the outer sheath was possibly created by large dust particles thrown out from the central tornado. So far, the only planet known to create tornados is Earth, although tornado-like activity has been found on the Sun and dust devils are common on Mars.   Almost Hyperspace: Random APOD Generator<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Wednesday, 29 November, 8:47 am GMT+8<br />
+Last refresh: Thursday, 30 November, 8:46 am GMT+8<br />
