@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Milky Way Rising</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2312&#x2F;_MG_2485-mod_APOD.jpg" /><br/>
-<b>Date:</b> 2023-12-01<br/>
-<b>Description:</b> The core of the Milky Way is rising beyond the Chilean mountain-top La Silla Observatory in this deep night skyscape. Seen toward the constellation Sagittarius, our home galaxy&#39;s center is flanked on the left, by the European Southern Observatory&#39;s New Technology Telescope which pioneered the use of active optics to accurately control the shape of large telescope mirrors. To the right stands the ESO 3.6-meter Telescope, home of the exoplanet hunting HARPS and NIRPS spectrographs. Between them, the galaxy&#39;s central bulge is filled with obscuring clouds of interstellar dust, bright stars, clusters, and nebulae. Prominent reddish hydrogen emission from the star-forming Lagoon Nebula, M8, is near center. The Trifid Nebula, M20, combines blue light of a dusty reflection nebula with reddish emission just left of the cosmic Lagoon. Both are popular stops on telescopic tours of the galactic center. The composited image is a stack of separate exposures for ground and sky made in April 2023, all captured consecutively with the same framing and camera equipment.<br/>
+<h3>:rocket:Startrails over Beijing Ancient Observatory</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2312&#x2F;StartrailsBeijingAncientObservatory-3.jpg" /><br/>
+<b>Date:</b> 2023-12-02<br/>
+<b>Description:</b> You can take a subway ride to visit this observatory in Beijing, China but you won&#39;t find any telescopes there. Starting in the 1400s astronomers erected devices at the Beijing Ancient Observatory site to enable them to accurately measure and track the positions of naked-eye stars and planets. Some of the large, ornate astronomical instruments are still standing. You can even see stars from the star observation platform today, but now only the very brightest celestial beacons are visible against the city lights. In this time series of exposures from a camera fixed to a tripod to record graceful arcing startrails, the brightest trail is actually the Moon. Its broad arc is seen behind the ancient observatory&#39;s brass armillary sphere. Compare this picture from the Beijing Ancient Observatory taken in September 2023 to one taken in 1895.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Saturday, 2 December, 8:45 am GMT+8<br />
+Last refresh: Sunday, 3 December, 8:50 am GMT+8<br />
