@@ -11,10 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Moon Setting Behind Teide Volcano</h3> 
-<b>Date:</b> 2023-12-03<br/>
-<b>Description:</b> These people are not in danger. What is coming down from the left is just the Moon, far in the distance. Luna appears so large here because she is being photographed through a telescopic lens.  What is moving is mostly the Earth, whose spin causes the Moon to slowly disappear behind Mount Teide, a volcano in the Canary Islands off the northwest coast of Africa. The people pictured are 16 kilometers away and  many are facing the camera because they are watching the Sun rise behind the photographer. It is not a coincidence that a full moon rises just when the Sun sets because the Sun is always on the opposite side of the sky from a full moon. The featured video was made in 2018 during the full Milk Moon.  The video is not time-lapse -- this was really how fast the Moon was setting.<br/>
+<h3>:rocket:Plane Crossing Crescent Moon</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2312&#x2F;BowArrow_Patel_2895.jpg" /><br/>
+<b>Date:</b> 2023-12-04<br/>
+<b>Description:</b> No, the Moon is not a bow, and no, it did not shoot out a plane like an arrow. What is pictured is a chance superposition.  The plane&#39;s contrail would normally appear white, but the large volume of air toward the rising Sun preferentially knocked away blue light, not only making the sky blue, but giving the reflected trail a bright red hue.  Far in the distance, well behind the plane, the crescent Moon also appears slightly reddened. Captured early last month from Bolton, UK, the featured image was taken so soon after sunrise that the plane was sunlit from below, as was its contrail.  Within minutes, unfortunately, the impromptu sky show ended.  The plane moved out of sight.  The Moon kept rising but became harder to see through a brightening sky.  And the contrail gradually dispersed.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Monday, 4 December, 8:47 am GMT+8<br />
+Last refresh: Tuesday, 5 December, 8:47 am GMT+8<br />
