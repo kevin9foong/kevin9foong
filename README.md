@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Orion and the Ocean of Storms</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2312&#x2F;art001e002132.jpg" /><br/>
-<b>Date:</b> 2023-12-07<br/>
-<b>Description:</b> On December 5, 2022, a camera on board the uncrewed Orion spacecraft captured this view as Orion approached its return powered flyby of the Moon.  Beyond one of Orion&#39;s extended solar arrays lies dark, smooth, terrain along the western edge of the Oceanus Procellarum. Prominent on the lunar nearside Oceanus Procellarum, the Ocean of Storms, is the largest of the Moon&#39;s lava-flooded maria. The lunar terminator, shadow line between lunar night and day, runs along the left of this frame. The 41 kilometer diameter crater Marius is top center, with ray crater Kepler peeking in at the edge, just right of the solar array wing. Kepler&#39;s bright rays extend to the north and west, reaching the dark-floored Marius. By December 11, 2022 the Orion spacecraft had reached its home world. The historic Artemis 1 mission ended with Orion&#39;s successful splashdown in planet Earth&#39;s water-flooded Pacific Ocean.<br/>
+<h3>:rocket:Vega and Comet 12P&#x2F;Pons-Brooks</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2312&#x2F;_12P_Pons_Brooks_2023_12_04_184135PST_DEBartlett.jpg" /><br/>
+<b>Date:</b> 2023-12-08<br/>
+<b>Description:</b> On December 4, periodic Comet 12P&#x2F;Pons-Brooks shared this telescopic field of view with Vega, alpha star of the northern constellation Lyra. Fifth brightest star in planet Earth&#39;s night, Vega is some 25 light-years distant while the much fainter comet was about 21 light-minutes away. In recent months, outbursts have caused dramatic increases in brightness for Pons-Brooks though. Nicknamed the Devil Comet for its hornlike appearance, fans of interstellar spaceflight have also suggested the distorted shape of this comet&#39;s large coma looks like the Millenium Falcon. A Halley-type comet, 12P&#x2F;Pons-Brooks last visited the inner Solar System in 1954. Its next perihelion passage or closest approach to the Sun will be April 21, 2024. That&#39;s just two weeks after the April 8 total solar eclipse path crosses North America. But, highly inclined to the Solar System&#39;s ecliptic plane, the orbit of periodic Comet 12P&#x2F;Pons-Brooks will never cross the orbit of planet Earth.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Friday, 8 December, 8:47 am GMT+8<br />
+Last refresh: Saturday, 9 December, 8:45 am GMT+8<br />
