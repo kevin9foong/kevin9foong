@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Cathedral, Mountain, Moon</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2312&#x2F;MoonAligned_Minato_2974.jpg" /><br/>
-<b>Date:</b> 2023-12-25<br/>
-<b>Description:</b> Single shots like this require planning.  The first step is to realize that such an amazing triple-alignment actually takes place. The second step is to find the best location to photograph it. But it was the third step: being there at exactly the right time -- and when the sky was clear -- that was the hardest. Five times over six years the photographer tried and found bad weather.  Finally, just ten days ago, the weather was perfect, and a photographic dream was realized. Taken in Piemonte, Italy, the cathedral in the foreground is the Basilica of Superga, the mountain in the middle is Monviso, and, well, you know which moon is in the background. Here, even though the setting Moon was captured in a crescent phase, the exposure was long enough for doubly reflected Earthlight, called the da Vinci glow, to illuminate the entire top of the Moon.    Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)<br/>
+<h3>:rocket:IC 443: The Jellyfish Nebula</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2312&#x2F;Jellyfish_Payne_7846.jpg" /><br/>
+<b>Date:</b> 2023-12-26<br/>
+<b>Description:</b> Why is this jellyfish swimming in a sea of stars? Drifting near bright star Eta Geminorum, seen at the right, the Jellyfish Nebula extends its tentacles from the bright arcing ridge of emission left of center.  In fact, the cosmic jellyfish is part of bubble-shaped supernova remnant IC 443, the expanding debris cloud from a massive star that exploded.  Light from the explosion first reached planet Earth over 30,000 years ago.  Like its cousin in astronomical waters, the Crab Nebula supernova remnant IC 443 is known to harbor a neutron star -- the remnant of the collapsed stellar core.  The Jellyfish Nebula is about 5,000 light-years away.  At that distance, the featured image would span about 140 light-years across.   Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Tuesday, 26 December, 8:44 am GMT+8<br />
+Last refresh: Wednesday, 27 December, 8:44 am GMT+8<br />
