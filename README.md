@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Rainbow Aurora over Icelandic Waterfall</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2312&#x2F;ArchFalls_Pellegrini_2000.jpg" /><br/>
-<b>Date:</b> 2023-12-27<br/>
-<b>Description:</b> Yes, but can your aurora do this? First, yes, auroras can look like rainbows even though they are completely different phenomena. Auroras are caused by Sun-created particles being channeled into Earth&#39;s atmosphere by Earth&#39;s magnetic field, and create colors by exciting atoms at different heights. Conversely, rainbows are created by sunlight backscattering off falling raindrops, and different colors are refracted by slightly different angles.  Unfortunately, auroras can’t create waterfalls, but if you plan well and are lucky enough, you can photograph them together. The featured picture is composed of several images taken on the same night last month near the Skógafoss waterfall in Iceland. The planning centered on capturing the central band of our Milky Way galaxy over the picturesque cascade. By luck, a spectacular aurora soon appeared just below the curving arch of the Milky Way. Far in the background, the Pleiades star cluster and the Andromeda galaxy can be found.    Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)<br/>
+<h3>:rocket:Jupiter and the Geminid</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2312&#x2F;G0030446.jpg" /><br/>
+<b>Date:</b> 2023-12-28<br/>
+<b>Description:</b> For a brief moment, this brilliant fireball meteor outshone Jupiter in planet Earth&#39;s night. The serendipitous image was captured while hunting meteors under cold Canadian skies with a camera in timelapse mode on December 14, near the peak of the Geminid meteor shower. The Geminid meteor shower, asteroid 3200 Phaethon&#39;s annual gift, always arrives in December. Dust shed along the orbit of the mysterious asteroid causes the meteor streaks, as the vaporizing grains plow through our fair planet&#39;s upper atmosphere at 22 kilometers per second. Of course Geminid shower meteors appear to radiate from a point in the constellation of the Twins. That&#39;s below and left of this frame. With bright Jupiter on the right, also in the December night skyview are the Pleiades and Hyades star clusters.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Thursday, 28 December, 8:44 am GMT+8<br />
+Last refresh: Friday, 29 December, 8:37 am GMT+8<br />
