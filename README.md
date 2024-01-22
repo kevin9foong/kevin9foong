@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Falcon Heavy Boostback Burn</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2401&#x2F;DSC07781_11Huff.jpg" /><br/>
-<b>Date:</b> 2024-01-20<br/>
-<b>Description:</b> The December 28 night launch of a Falcon Heavy rocket from Kennedy Space Center in Florida marked the fifth launch for the rocket&#39;s reusable side boosters. About 2 minutes 20 seconds into the flight, the two side boosters separated from the rocket&#39;s core stage. Starting just after booster separation, this three minute long exposure captures the pair&#39;s remarkable boostback burns, maneuvers executed prior to their return to landing zones on planet Earth. While no attempt was made to recover the Falcon Heavy&#39;s core stage, both side boosters landed successfully and can be flown again. The four previous flights for these side boosters included last October&#39;s launch of NASA&#39;s asteroid-bound Psyche mission.  Their next planned flight is on the Europa Clipper mission scheduled for launch in October 2024.<br/>
+<h3>:rocket:The Upper Michigan Blizzard of 1938</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2401&#x2F;snowpoles_brinkman_960.jpg" /><br/>
+<b>Date:</b> 2024-01-21<br/>
+<b>Description:</b> Yes, but can your blizzard do this? In the Upper Peninsula of Michigan&#39;s Storm of the Century in 1938, some snow drifts reached the level of utility poles. Nearly a meter of new and unexpected snow fell over two days in a storm that started 86 years ago this week.  As snow fell and gale-force winds piled snow to surreal heights, many roads became not only impassable but unplowable; people became stranded, cars, school buses and a train became mired, and even a dangerous fire raged. Two people were killed and some students were forced to spend several consecutive days at school.  The featured image was taken by a local resident soon after the storm. Although all of this snow eventually melted, repeated snow storms like this help build lasting glaciers in snowy regions of our planet Earth.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Sunday, 21 January, 8:52 am GMT+8<br />
+Last refresh: Monday, 22 January, 8:50 am GMT+8<br />
