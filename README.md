@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Epsilon Tauri: Star with Planet</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2401&#x2F;Ain_4096.jpg" /><br/>
-<b>Date:</b> 2024-01-26<br/>
-<b>Description:</b> silon Tauri lies 146 light-years away. A K-type red giant star, epsilon Tau is cooler than the Sun, but with about 13 times the solar radius it has nearly 100 times the solar luminosity. A member of the Hyades open star cluster the giant star is known by the proper name Ain, and along with brighter giant star Aldebaran, forms the eyes of Taurus the Bull. Surrounded by dusty, dark clouds in Taurus, epsilon Tau is also known to have a planet. Discovered by radial velocity measurements in 2006, Epsilon Tauri b is a gas giant planet larger than Jupiter with an orbital period of 1.6 years. And though the exoplanet can&#39;t be seen directly, on a dark night its parent star epsilon Tauri is easily visible to the unaided eye.<br/>
+<h3>:rocket:Full Observatory Moon</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2401&#x2F;Full_Moon_Jan_24_Beletsky.jpg" /><br/>
+<b>Date:</b> 2024-01-27<br/>
+<b>Description:</b> A popular name for January&#39;s full moon in the northern hemisphere is the Full Wolf Moon. As the new year&#39;s first full moon, it rises over Las Campanas Observatory in this dramatic Earth-and-moonscape. Peering from the foreground like astronomical eyes are the observatory&#39;s twin 6.5 meter diameter Magellan telescopes. The snapshot was captured with telephoto lens across rugged terrain in the Chilean Atacama Desert, taken at a distance of about 9 miles from the observatory and about 240,000 miles from the lunar surface. Of course the first full moon of the lunar new year, known to some as the Full Snow Moon, will rise on February 24.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Saturday, 27 January, 8:43 am GMT+8<br />
+Last refresh: Sunday, 28 January, 8:47 am GMT+8<br />
