@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:NGC 1566: A Spiral Galaxy from Webb and Hubble</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2402&#x2F;Ngc1566_HubbleWebb_2125.jpg" /><br/>
-<b>Date:</b> 2024-02-06<br/>
-<b>Description:</b> What&#39;s different about this galaxy? Very little, which makes the Spanish Dancer galaxy, NGC 1566, one of the most typical and photogenic spirals on the sky. There is something different about this galaxy image, though, because it is a diagonal combination of two images: one by the Hubble Space Telescope on the upper left, and the other by the James Webb Space Telescope on the lower right.  The Hubble image was taken in ultraviolet light and highlights the locations of bright blue stars and dark dust along the galaxy&#39;s impressive spiral arms. In contrast, the Webb image was taken in infrared light and highlights where the same dust emits more light than it absorbed. In the rollover image, the other two sides of these images are revealed. Blinking between the two images shows which stars are particularly hot because they glow brighter in ultraviolet light, and the difference between seemingly empty space and infrared-glowing dust.   Image Crunching Opportunity:  Take NASA&#39;s Astrophoto Challenge<br/>
+<h3>:rocket:The Heart Shaped Antennae Galaxies</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2402&#x2F;Antennae_Biggs_3840.jpg" /><br/>
+<b>Date:</b> 2024-02-07<br/>
+<b>Description:</b> Are these two galaxies really attracted to each other? Yes, gravitationally, and the result appears as an enormous iconic heart -- at least for now. Pictured is the pair of galaxies cataloged as NGC 4038 and NGC 4039,known as the Antennae Galaxies.  Because they are only 60 million light years away, close by intergalactic standards, the pair is one of the best studied interacting galaxies on the night sky. Their strong attraction began about a billion years ago when they passed unusually close to each other.  As the two galaxies interact, their stars rarely collide, but new stars are formed when their interstellar gases crash together.  Some new stars have already formed, for example, in the long antennae seen extending out from the sides of the dancing duo. By the time the galaxy merger is complete, likely over a billion years from now, billions of new stars may have formed.   Open Science: Browse 3,300+ codes in the Astrophysics Source Code Library<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Wednesday, 7 February, 8:42 am GMT+8<br />
+Last refresh: Thursday, 8 February, 8:43 am GMT+8<br />
