@@ -11,10 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Looking Sideways from the Parker Solar Probe</h3> 
-<b>Date:</b> 2024-02-19<br/>
-<b>Description:</b> What&#39;s happening near the Sun?  To help find out, NASA launched the robotic Parker Solar Probe (PSP) to investigate regions closer to the Sun than ever before. The PSP&#39;s looping orbit brings it nearer to the Sun each time around -- every few months. The featured time-lapse video shows the view looking sideways from behind PSP&#39;s Sun shield during its 16th approach to the Sun last year -- from well within the orbit of Mercury.  The PSP&#39;s Wide Field Imager for Solar Probe (WISPR) cameras took the images over eleven days, but they are digitally compressed here into about one minute video.  The waving of the solar corona is visible, as is a coronal mass ejection, with stars, planets, and even the central band of our Milky Way Galaxy streaming by in the background as the PSP orbits the Sun. PSP has found the solar neighborhood to be surprisingly complex and to include switchbacks -- times when the Sun&#39;s magnetic field briefly reverses itself.<br/>
+<h3>:rocket:AM1054: Stars Form as Galaxies Collide</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2402&#x2F;AM1054_Hubble_2000.jpg" /><br/>
+<b>Date:</b> 2024-02-20<br/>
+<b>Description:</b> When galaxies collide, how many stars are born?  For AM1054-325, featured here in a recently released image by the Hubble Space Telescope, the answer is millions. Instead of stars being destroyed as galaxy AM1054-325 and a nearby galaxy circle each other, their gravity and motion has ignited stellar creation.  Star formation occurs rapidly in the gaseous debris stretching from AM1054-325’s yellowish body due to the other galaxy’s gravitational pull.  Hydrogen gas surrounding newborn stars glows pink.  Bright infant stars shine blue and cluster together in compact nurseries of thousands to millions of stars. AM1054-325 possesses over 100 of these intense-blue, dot-like star clusters, some appearing like a string of pearls.  Analyzing ultraviolet light helped determine that most of these stars are less than 10 million years old: stellar babies.  Many of these nurseries may grow up to be globular star clusters, while the bundle of young stars at the bottom tip may even detach and form a small galaxy.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Tuesday, 20 February, 8:42 am GMT+8<br />
+Last refresh: Wednesday, 21 February, 8:43 am GMT+8<br />
