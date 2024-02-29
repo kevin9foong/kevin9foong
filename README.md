@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Supernova Remnant Simeis 147</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2402&#x2F;Simeis147_Vetter_3000.jpg" /><br/>
-<b>Date:</b> 2024-02-27<br/>
-<b>Description:</b> It&#39;s easy to get lost following the intricate, looping, and twisting filaments of supernova remnant Simeis 147.  Also cataloged as Sharpless 2-240, the filamentary nebula goes by the popular nickname the Spaghetti Nebula.  Seen toward the boundary of the constellations of the Bull (Taurus) and the Charioteer (Auriga), the impressive gas structure covers nearly 3 degrees on the sky, equivalent to 6 full moons. That&#39;s about 150 light-years at the stellar debris cloud&#39;s estimated distance of 3,000 light-years.  This composite image includes data taken through narrow-band filters isolating emission from hydrogen (red) and oxygen (blue) glowing gas. The supernova remnant has an estimated age of about 40,000 years, meaning light from this massive stellar explosion first reached the Earth when woolly mammoths roamed free.  Besides the expanding remnant, this cosmic catastrophe left behind a pulsar, a spinning neutron star that is the remnant of the original star&#39;s core.<br/>
+<h3>:rocket:Shades of Night</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2402&#x2F;TwilightShades_Giannobile_1600.jpg" /><br/>
+<b>Date:</b> 2024-02-28<br/>
+<b>Description:</b> How does the sky turn dark at night? In stages, and with different characteristic colors rising from the horizon. The featured image shows, left to right, increasingly late twilight times after sunset in 20 different vertical bands. The picture was taken last month in Syracuse, Sicily, Italy, in the direction opposite the Sun. On the far left is the pre-sunset upper sky.  Toward the right, prominent bands include the Belt of Venus, the Blue Band, the Horizon Band, and the Red Band. As the dark shadow of the Earth rises, the colors in these bands are caused by direct sunlight reflecting from air and aerosols in the Earth&#39;s atmosphere, multiple reflections sometimes involving a reddened sunset, and refraction. In practice, these bands can be diffuse and hard to discern, and their colors can depend on colors near the setting Sun. Finally, the Sun completely sets and the sky becomes dark. Don&#39;t despair -- the whole thing will happen in reverse when the Sun rises again in the morning.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Wednesday, 28 February, 8:43 am GMT+8<br />
+Last refresh: Thursday, 29 February, 8:43 am GMT+8<br />
