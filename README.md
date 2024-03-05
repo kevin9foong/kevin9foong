@@ -11,10 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:A Total Solar Eclipse Close-Up in Real Time</h3> 
-<b>Date:</b> 2024-03-03<br/>
-<b>Description:</b> How would you feel if the Sun disappeared? Many eclipse watchers across the USA surprised themselves in 2017 with the awe that they felt and the exclamations that they made as the Sun momentarily disappeared behind the Moon. Perhaps expecting just a brief moment of dusk, the spectacle of unusually rapid darkness, breathtakingly bright glowing beads around the Moon&#39;s edge, shockingly pink solar prominences, and a strangely detailed corona stretching across the sky caught many a curmudgeon by surprise.  Many of these attributes  were captured in the featured real-time, three-minute video of 2017&#39;s total solar eclipse. The video frames were acquired in  Warm Springs, Oregon with equipment specifically designed by Jun Ho Oh to track a close-up of the Sun&#39;s periphery during eclipse.  As the video ends, the Sun is seen being reborn on the other side of the Moon from where it departed.  Next month, on April 8th, a new total solar eclipse will be visible in a thin band across North America.<br/>
+<h3>:rocket:Light Pillars Over Inner Mongolia</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2403&#x2F;PillarsMongolia_Liao_6240.jpg" /><br/>
+<b>Date:</b> 2024-03-04<br/>
+<b>Description:</b> What&#39;s happening across that field?  Pictured here are not auroras but nearby light pillars, a phenomenon typically much closer.   In most places on Earth, a lucky viewer can see a Sun pillar, a column of light appearing to extend up from the Sun caused by flat fluttering ice-crystals reflecting sunlight from the upper atmosphere.  Usually, these ice crystals evaporate before reaching the ground.  During freezing temperatures, however, flat fluttering ice crystals may form near the ground in a form of light snow  sometimes known as a crystal fog.  These ice crystals may then reflect ground lights in columns not unlike a Sun pillar.  The featured image was taken last month across the Wulan Butong Grasslands in Inner Mongolia, China.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Monday, 4 March, 8:44 am GMT+8<br />
+Last refresh: Tuesday, 5 March, 8:43 am GMT+8<br />
