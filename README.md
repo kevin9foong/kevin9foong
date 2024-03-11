@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Comet Pons-Brooks in Northern Spring</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2403&#x2F;2024_03_05_Pons-Brooks_Revuca_1500px.png" /><br/>
-<b>Date:</b> 2024-03-09<br/>
-<b>Description:</b> As spring approaches for northern skygazers, Comet 12P&#x2F;Pons-Brooks is growing brighter. Currently visible with small telescopes and binoculars, the Halley-type comet could reach naked eye visibility in the coming weeks. Seen despite a foggy atmosphere, the comet&#39;s green coma and long tail hover near the horizon in this well-composed deep night skyscape from Revuca, Slovakia recorded on March 5. In the sky above the comet, the Andromeda (right) and Triangulum galaxies flank bright star Mirach, beta star of the constellation Andromeda. The two spiral galaxies are members of our local galaxy group and over 2.5 million light-years distant. Comet Pons-Brooks is a periodic visitor to the inner Solar System and less than 14 light-minutes away. Reaching its perihelion on April 21, this comet should be visible in the sky during the April 8 total solar eclipse.<br/>
+<h3>:rocket:A Total Eclipse at the End of the World</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2403&#x2F;AntarcticEclipse_bruenjes_960.jpg" /><br/>
+<b>Date:</b> 2024-03-10<br/>
+<b>Description:</b> Would you go to the end of the world to see a total eclipse of the Sun? If you did, would you be surprised to find someone else there already? In 2003, the Sun, the Moon, Antarctica, and two photographers all lined up in Antarctica during an unusual total solar eclipse.  Even given the extreme location, a group of enthusiastic eclipse chasers ventured near the bottom of the world to experience the surreal momentary disappearance of the Sun behind the Moon.  One of the treasures collected was the featured picture -- a composite of four separate images digitally combined to realistically simulate how the adaptive human eye saw the eclipse.  As the image was taken, both the Moon and the Sun peeked together over an Antarctic ridge.  In the sudden darkness, the magnificent corona of the Sun became visible around the Moon.  Quite by accident, another photographer was caught in one of the images checking his video camera.   Visible to his left are an equipment bag and a collapsible chair.  A more easily visible solar eclipse will occur in just under four weeks and be visible from a long, thin swath of North America.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Sunday, 10 March, 8:47 am GMT+8<br />
+Last refresh: Monday, 11 March, 8:44 am GMT+8<br />
