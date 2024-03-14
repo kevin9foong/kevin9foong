@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:A Galaxy-Shaped Rocket Exhaust Spiral</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2403&#x2F;RocketSpiral_Yang_3024.jpg" /><br/>
-<b>Date:</b> 2024-03-12<br/>
-<b>Description:</b> What&#39;s that over the horizon? What may look like a strangely nearby galaxy is actually a normal rocket&#39;s exhaust plume -- but unusually backlit.  Although the SpaceX Falcon 9 rocket was launched from Vandenberg Space Force Base in California, USA, its burned propellant was visible over a much wider area, with the featured photograph being taken from Akureyri, Iceland. The huge spaceship was lifted off a week ago, and the resulting spectacle was captured soon afterward with a single 10-second smartphone exposure, before it quickly dissipated. Like noctilucent clouds, the plume&#39;s brightness is caused by the Twilight Effect, where an object is high enough to be illuminated by the twilight Sun, even when the observer on the ground experiences the darkness of night. The spiral shape is caused by the Falcon  rocket reorienting to release satellites in different directions. Stars and faint green and red aurora appear in the background of this extraordinary image.<br/>
+<h3>:rocket:The Seagull Nebula</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2403&#x2F;Seagull_Lacroce_2048.jpg" /><br/>
+<b>Date:</b> 2024-03-13<br/>
+<b>Description:</b> A broad expanse of glowing gas and dust presents a bird-like visage to astronomers from planet Earth, suggesting its popular moniker: the Seagull Nebula. This portrait of the cosmic bird covers a 2.5-degree wide swath across the plane of the Milky Way, near the direction of Sirius, alpha star of the constellation of the Big Dog (Canis Major). Of course, the region includes objects with other catalog designations: notably NGC 2327, a compact, dusty emission and reflection nebula with an embedded massive star that forms the bird&#39;s head. Likely part of a larger shell structure swept up by successive supernova explosions, the broad Seagull Nebula is cataloged as Sh2-296 and IC 2177. The prominent bluish arc below and right of center is a bow shock from runaway star FN Canis Majoris. Dominated by the reddish glow of atomic hydrogen, this complex of gas and dust clouds with other stars of the Canis Majoris OB1 association spans over 200 light-years at the Seagull Nebula&#39;s estimated 3,800 light-year distance.   Almost Hyperspace: Random APOD Generator<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Wednesday, 13 March, 8:44 am GMT+8<br />
+Last refresh: Thursday, 14 March, 8:43 am GMT+8<br />
