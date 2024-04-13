@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Eclipse in Seven</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2404&#x2F;2024_Eclipse_05XTan.jpg" /><br/>
-<b>Date:</b> 2024-04-11<br/>
-<b>Description:</b> Start at the upper left above and you can follow the progress of April 8&#39;s total eclipse of the Sun in seven sharp, separate exposures. The image sequence was recorded with a telescope and camera located within the narrow path of totality as the Moon&#39;s shadow swept across Newport, Vermont, USA. At center is a spectacular view of the solar corona. The tenuous outer atmosphere of the Sun is only easily visible to the eye in clear dark skies during the total eclipse phase. Seen from Newport, the total phase for this solar eclipse lasted about 3 minutes and 26 seconds.   Monday&#39;s Eclipse Imagery: Notable Submissions to APOD<br/>
+<h3>:rocket:Total Totality</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2404&#x2F;image0tseKorona.jpg" /><br/>
+<b>Date:</b> 2024-04-12<br/>
+<b>Description:</b> Baily&#39;s beads often appear at the boundaries of the total phase of an eclipse of the Sun. Pearls of sunlight still beaming through gaps in the rugged terrain along the lunar limb silhouette, their appearance is recorded in this dramatic timelapse composite. The series of images follows the Moon&#39;s edge from beginning through the end of totality during April 8&#39;s solar eclipse from Durango, Mexico. They also capture pinkish prominences of plasma arcing high above the edge of the active Sun. One of the first places in North America visited by the Moon&#39;s shadow on April 8, totality in Durango lasted about 3 minutes and 46 seconds.   Solar Eclipse Imagery: Notable Submissions to APOD<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Friday, 12 April, 8:45 am GMT+8<br />
+Last refresh: Saturday, 13 April, 8:37 am GMT+8<br />
