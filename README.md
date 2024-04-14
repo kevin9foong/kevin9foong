@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Total Totality</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2404&#x2F;image0tseKorona.jpg" /><br/>
-<b>Date:</b> 2024-04-12<br/>
-<b>Description:</b> Baily&#39;s beads often appear at the boundaries of the total phase of an eclipse of the Sun. Pearls of sunlight still beaming through gaps in the rugged terrain along the lunar limb silhouette, their appearance is recorded in this dramatic timelapse composite. The series of images follows the Moon&#39;s edge from beginning through the end of totality during April 8&#39;s solar eclipse from Durango, Mexico. They also capture pinkish prominences of plasma arcing high above the edge of the active Sun. One of the first places in North America visited by the Moon&#39;s shadow on April 8, totality in Durango lasted about 3 minutes and 46 seconds.   Solar Eclipse Imagery: Notable Submissions to APOD<br/>
+<h3>:rocket:Palm Tree Partial Eclipse</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2404&#x2F;pinholepalm.png" /><br/>
+<b>Date:</b> 2024-04-13<br/>
+<b>Description:</b> Only those along the narrow track of the Moon&#39;s shadow on April 8 saw a total solar eclipse. But most of North America still saw a partial eclipse of the Sun. From Clearwater, Florida, USA this single snapshot captured multiple images of that more widely viewed celestial event without observing the Sun directly. In the shade of a palm tree, criss-crossing fronds are projecting recognizable eclipse images on the ground, pinhole camera style.  In Clearwater the maximum eclipse phase was about 53 percent.   Solar Eclipse Imagery: Notable Submissions to APOD<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Saturday, 13 April, 8:37 am GMT+8<br />
+Last refresh: Sunday, 14 April, 8:47 am GMT+8<br />
