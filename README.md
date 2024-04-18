@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Filaments of the Vela Supernova Remnant</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2404&#x2F;VelaSnr_CTIO_3989.jpg" /><br/>
-<b>Date:</b> 2024-04-16<br/>
-<b>Description:</b> The explosion is over, but the consequences continue.  About eleven thousand years ago, a star in the constellation of Vela could be seen to explode, creating a strange point of light briefly visible to humans living near the beginning of recorded history.  The outer layers of the star crashed into the interstellar medium, driving a shock wave that is still visible today.  The featured image captures some of that filamentary and gigantic shock in visible light. As gas flies away from the detonated star, it decays and reacts with the interstellar medium, producing light in many different colors and energy bands. Remaining at the center of the Vela Supernova Remnant is a pulsar, a star as dense as nuclear matter that spins around more than ten times in a single second.   Monday&#39;s Eclipse Imagery: Notable Submissions to APOD<br/>
+<h3>:rocket:Total Eclipse and Comets</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2404&#x2F;EclipseComets_Zixuan_6105.jpg" /><br/>
+<b>Date:</b> 2024-04-17<br/>
+<b>Description:</b> Not one, but two comets appeared near the Sun during last week&#39;s total solar eclipse. The expected comet was Comet 12P&#x2F;Pons-Brooks, but it was disappointingly dimmer than many had hoped. However, relatively unknown Comet SOHO-5008 also appeared in long duration camera exposures. This comet was the 5008th comet identified on images taken by ESA &amp; NASA&#39;s Sun-orbiting SOHO spacecraft.  Likely much smaller, Comet SOHO-5008 was a sungrazer which disintegrated within hours as it passed too near the Sun.  The featured image is not only unusual for capturing two comets during an eclipse, but one of the rare times that a sungrazing comet has been photographed from the Earth&#39;s surface. Also visible in the image is the sprawling corona of our Sun and the planets Mercury (left) and Venus (right).  Of these planets and comets, only Venus was easily visible to millions of people in the dark shadow of the Moon that crossed North America on April 8.    Solar Eclipse Imagery: Notable Submissions to APOD<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Wednesday, 17 April, 8:45 am GMT+8<br />
+Last refresh: Thursday, 18 April, 8:44 am GMT+8<br />
