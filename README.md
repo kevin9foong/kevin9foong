@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:The Great Carina Nebula</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2404&#x2F;NGC3372_ETA CARINA_LOPES.jpg" /><br/>
-<b>Date:</b> 2024-04-19<br/>
-<b>Description:</b> A jewel of the southern sky, the Great Carina Nebula is more modestly known as NGC 3372. One of our Galaxy&#39;s largest star forming regions, it spans over 300 light-years. Like the smaller, more northerly Great Orion Nebula, the Carina Nebula is easily visible to the unaided eye. But at a distance of 7,500 light-years it lies some 5 times farther away. This stunning telescopic view reveals remarkable details of the region&#39;s glowing filaments of interstellar gas and obscuring cosmic dust clouds. The Carina Nebula is home to young, extremely massive stars, including the still enigmatic variable Eta Carinae, a star with well over 100 times the mass of the Sun.  Eta Carinae is the bright star above the central dark notch in this field and left of the dusty Keyhole Nebula (NGC 3324).<br/>
+<h3>:rocket:Diamonds in the Sky</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2404&#x2F;tse2024Dobbs.jpg" /><br/>
+<b>Date:</b> 2024-04-20<br/>
+<b>Description:</b> When the dark shadow of the Moon raced across North America on April 8, sky watchers along the shadow&#39;s narrow central path were treated to a total solar eclipse. During the New Moon&#39;s shadow play diamonds glistened twice in the eclipse-darkened skies. The transient celestial jewels appeared immediately before and after the total eclipse phase. That&#39;s when the rays of a vanishing and then emerging sliver of solar disk are just visible behind the silhouetted Moon&#39;s edge, creating the appearance of a shiny diamond set in a dark ring. This dramatic timelapse composite from north-central Arkansas captures both diamond ring moments of this total solar eclipse. The diamond rings are separated by the ethereal beauty of the solar corona visible during totality.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Saturday, 20 April, 8:46 am GMT+8<br />
+Last refresh: Sunday, 21 April, 8:50 am GMT+8<br />
