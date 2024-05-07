@@ -11,11 +11,10 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:A Black Hole Disrupts a Passing Star</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2405&#x2F;BhShredder_NASA_3482.jpg" /><br/>
-<b>Date:</b> 2024-05-05<br/>
-<b>Description:</b> What happens to a star that goes near a black hole? If the star directly impacts a massive black hole, then the star falls in completely -- and everything vanishes. More likely, though, the star goes close enough to have the black hole&#39;s gravity pull away its outer layers, or disrupt, the star. Then, most of the star&#39;s gas does not fall into the black hole.  These stellar tidal disruption events can be as bright as a supernova, and an increasing amount of them are being discovered by automated sky surveys. In the featured artist&#39;s illustration, a star has just passed a massive black hole and sheds gas that continues to orbit.  The inner edge of a disk of gas and dust surrounding the black hole is heated by the disruption event and may glow long after the star  is gone.    Hole New Worlds: It&#39;s Black Hole Week at NASA!<br/>
+<h3>:rocket:A Total Solar Eclipse from Sliver to Ring</h3> 
+<b>Date:</b> 2024-05-06<br/>
+<b>Description:</b> This is how the Sun disappeared from the daytime sky last month. The featured time-lapse video was created from stills taken from Mountain View, Arkansas, USA on 2024 April 8. First, a small sliver of a normally spotted Sun went strangely dark. Within a few minutes, much of the background Sun was hidden behind the advancing foreground Moon. Within an hour, the only rays from the Sun passing the Moon appeared like a diamond ring. During totality, most of the surrounding sky went dark, making the bright pink prominences around the Sun&#39;s edge stand out, and making the amazing corona appear to spread into the surrounding sky.  The central view of the corona shows an accumulation of frames taken during complete totality. As the video ends, just a few minutes later, another diamond ring appeared -- this time on the other side of the Moon. Within the next hour, the sky returned to normal.   Celebrate the Voids: It&#39;s Black Hole Week at NASA!<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Monday, 6 May, 8:48 am GMT+8<br />
+Last refresh: Tuesday, 7 May, 8:46 am GMT+8<br />
