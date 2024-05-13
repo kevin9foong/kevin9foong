@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:AR 3664: Giant Sunspot Group</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2405&#x2F;SunAr3664_Fantasia_3216.jpg" /><br/>
-<b>Date:</b> 2024-05-11<br/>
-<b>Description:</b> Right now, one of the largest sunspot groups in recent history is crossing the Sun. Active Region 3664 is not only big -- it&#39;s violent, throwing off clouds of particles into the Solar System. Some of these CMEs are already impacting the Earth, and others might follow.  At the extreme, these solar storms could cause some Earth-orbiting satellites to malfunction, the Earth&#39;s atmosphere to slightly distort, and electrical power grids to surge. When impacting Earth&#39;s upper atmosphere, these particles can produce beautiful auroras, with some auroras already being reported unusually far south.  Pictured here, AR3664 and its dark sunspots were captured yesterday in visible light from Rome, Italy. The AR3664 sunspot group is so large that it is visible just with glasses designed to view last month&#39;s total solar eclipse.  This weekend, skygazing enthusiasts will be keenly watching the night skies all over the globe for bright and unusual auroras.   Gallery: Active Region 3664 on the Sun and Associated Aurora<br/>
+<h3>:rocket:Red Aurora over Poland</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2405&#x2F;AuroraPoland_Durlej_1940.jpg" /><br/>
+<b>Date:</b> 2024-05-12<br/>
+<b>Description:</b> Northern lights don&#39;t usually reach this far south.  Magnetic chaos in the Sun&#39;s huge Active Region 3664, however, produced a surface explosion that sent a burst of electrons, protons, and more massive, charged nuclei into the Solar System. A few days later, that coronal mass ejection (CME) impacted the Earth and triggered auroras that are being reported unusually far from our planet&#39;s north and south poles.  The free sky show might not be over -- the sunspot rich AR3664 has ejected even more CMEs that might also impact the Earth tonight or tomorrow. That active region is now near the Sun&#39;s edge, though, and will soon be rotating away from the Earth.  Pictured, a red and rayed aurora was captured in a single 6-second exposure from Racibórz, Poland early last night.  The photographer&#39;s friend, seeing an aurora for the first time, is visible in the distance also taking images of the beautifully colorful nighttime sky.   Gallery: Global Aurora from Solar Active Region 6443<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Sunday, 12 May, 8:52 am GMT+8<br />
+Last refresh: Monday, 13 May, 8:49 am GMT+8<br />
