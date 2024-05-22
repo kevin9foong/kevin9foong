@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Aurora Dome Sky</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2405&#x2F;AuroraWisconsin_Liu_6000.jpg" /><br/>
-<b>Date:</b> 2024-05-20<br/>
-<b>Description:</b> It seemed like night, but part of the sky glowed purple.  It was the now famous night of May 10, 2024, when people over much of the world reported beautiful aurora-filled skies. The featured image was captured this night during early morning hours from Arlington, Wisconsin, USA. The panorama is a composite of several 6-second exposures covering two thirds of the visible sky, with north in the center, and processed to heighten the colors and remove electrical wires. The photographer (in the foreground) reported that the aurora appeared to flow from a point overhead but illuminated the sky only toward the north. The aurora&#39;s energetic particles originated from CMEs ejected from our Sun over sunspot AR 3664 a few days before. This large active region rotated to the far side of the Sun last week, but may well survive to rotate back toward the Earth next week.<br/>
+<h3>:rocket:CG4: The Globule and the Galaxy</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2405&#x2F;Cg4Galaxy_CtioRector_1476.jpg" /><br/>
+<b>Date:</b> 2024-05-21<br/>
+<b>Description:</b> Can a gas cloud eat a galaxy?  It&#39;s not even close.  The &quot;claw&quot; of this odd looking &quot;creature&quot; in the featured photo is a gas cloud known as a cometary globule.  This globule, however, has ruptured.  Cometary globules are typically characterized by dusty heads and elongated tails.  These features cause cometary globules to have visual similarities to comets, but in reality they are very much different.  Globules are frequently the birthplaces of stars, and many show very young stars in their heads. The reason for the rupture in the head of this object is not yet known. The galaxy to the left of the globule is huge, very far in the distance, and only placed near CG4 by chance superposition.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Tuesday, 21 May, 8:48 am GMT+8<br />
+Last refresh: Wednesday, 22 May, 8:48 am GMT+8<br />
