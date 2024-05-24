@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Green Aurora over Sweden</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2405&#x2F;AuroraSweden_Strand_1500.jpg" /><br/>
-<b>Date:</b> 2024-05-22<br/>
-<b>Description:</b> It was bright and green and stretched across the sky. This striking aurora display was captured in 2016 just outside of Östersund, Sweden. Six photographic fields were merged to create the featured panorama spanning almost 180 degrees.  Particularly striking aspects of this aurora include its sweeping arc-like shape and its stark definition.  Lake Storsjön is seen in the foreground, while several familiar constellations and the star Polaris are visible through the aurora, far in the background.  Coincidently, the aurora appears to avoid the Moon visible on the lower left.  The aurora appeared a day after a large hole opened in the Sun&#39;s corona, allowing particularly energetic particles to flow out into the Solar System.  The green color of the aurora is caused by oxygen atoms recombining with ambient electrons high in the Earth&#39;s atmosphere.   Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)<br/>
+<h3>:rocket:Unraveling NGC 3169</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2405&#x2F;N3169N3166Final.jpg" /><br/>
+<b>Date:</b> 2024-05-23<br/>
+<b>Description:</b> Spiral galaxy NGC 3169 looks to be unraveling like a ball of cosmic yarn. It lies some 70 million light-years away, south of bright star Regulus toward the faint constellation Sextans. Wound up spiral arms are pulled out into sweeping tidal tails as NGC 3169 (left) and neighboring NGC 3166 interact gravitationally. Eventually the galaxies will merge into one, a common fate even for bright galaxies in the local universe. Drawn out stellar arcs and plumes are clear indications of the ongoing gravitational interactions across the deep and colorful galaxy group photo. The telescopic frame spans about 20 arc minutes or about 400,000 light-years at the group&#39;s estimated distance, and includes smaller, bluish NGC 3165 to the right. NGC 3169 is also known to shine across the spectrum from radio to X-rays, harboring an active galactic nucleus that is the site of a supermassive black hole.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Thursday, 23 May, 8:48 am GMT+8<br />
+Last refresh: Friday, 24 May, 8:48 am GMT+8<br />
