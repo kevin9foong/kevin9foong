@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Stairway to the Milky Way</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2405&#x2F;StairwayToMilkyway_Marcin_6000.jpg" /><br/>
-<b>Date:</b> 2024-05-29<br/>
-<b>Description:</b> What happens if you ascend this stairway to the Milky Way? Before answering that, let&#39;s understand the beautiful sky you will see.  Most eye-catching is the grand arch of the Milky Way Galaxy, the band that is the central disk of our galaxy which is straight but distorted by the wide-angle nature of this composite image.  Many stars well in front of the Milk Way will be visible, with the bright white star just below the stellar arch being Altair, and the bright blue star above it being Vega.  The air glows green on the left, just above the yellow cloud deck.  The featured image was taken last month on Portugal&#39;s Madeira Island in the North Atlantic Ocean.  Oh, and what happens after you reach the top of these stairs and admire the amazing sky is, quite probably, that you then descend down the stairs on the other side.   Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)<br/>
+<h3>:rocket:A Lunar Corona over Paris</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2405&#x2F;EiffelCorona_Binotto_2000.jpg" /><br/>
+<b>Date:</b> 2024-05-30<br/>
+<b>Description:</b> Why does a cloudy moon sometimes appear colorful? The effect, called a lunar corona, is created by the quantum mechanical diffraction of light around individual, similarly-sized water droplets in an intervening but mostly-transparent cloud. Since light of different colors has different wavelengths, each color diffracts differently. Lunar coronae are one of the few  quantum mechanical color effects that can be easily seen with the unaided eye.  Solar coronae are also sometimes evident. The featured image was taken last month from Paris, France.  The blue beacon emanating from the Eiffel Tower did not affect the colorful lunar corona.   Portal Universe: Random APOD Generator<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Thursday, 30 May, 8:49 am GMT+8<br />
+Last refresh: Friday, 31 May, 8:50 am GMT+8<br />
