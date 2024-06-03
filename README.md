@@ -11,11 +11,10 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Stereo Helene</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2406&#x2F;N00172886_92_beltramini.jpg" /><br/>
-<b>Date:</b> 2024-06-01<br/>
-<b>Description:</b> Get out your red&#x2F;blue glasses and float next to Helene, small, icy moon of Saturn. Appropriately named, Helene is a Trojan moon, so called because it orbits at a Lagrange point. A Lagrange point is a gravitationally stable position near two massive bodies, in this case Saturn and larger moon Dione. In fact, irregularly shaped ( about 36 by 32 by 30 kilometers) Helene orbits at Dione&#39;s leading Lagrange point while brotherly ice moon Polydeuces follows at Dione&#39;s trailing Lagrange point. The sharp stereo anaglyph was constructed from two Cassini images captured during a close flyby in 2011. It shows part of the Saturn-facing hemisphere of Helene mottled with craters and gully-like features.<br/>
+<h3>:rocket:Rotating Moon from LRO</h3> 
+<b>Date:</b> 2024-06-02<br/>
+<b>Description:</b> No one, presently, sees the Moon rotate like this. That&#39;s because the Earth&#39;s moon is tidally locked to the Earth, showing us only one side.  Given modern digital technology, however, combined with many detailed images returned by the Lunar Reconnaissance Orbiter (LRO), a high resolution virtual Moon rotation movie has been composed. The featured time-lapse video starts with the standard Earth view of the Moon. Quickly, though, Mare Orientale, a large crater with a dark center that is difficult to see from the Earth, rotates into view just below the equator.  From an entire lunar month condensed into 24 seconds, the video clearly shows that the Earth side of the Moon contains an abundance of dark lunar maria, while the lunar far side is dominated by bright lunar highlands. Currently, over 32 new missions to the Moon are under active development from multiple countries and companies, including NASA&#39;s Artemis program which aims to land people on the Moon again within the next few years.<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Sunday, 2 June, 8:53 am GMT+8<br />
+Last refresh: Monday, 3 June, 8:50 am GMT+8<br />
