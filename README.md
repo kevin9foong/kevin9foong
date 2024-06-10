@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:Pandora&#39;s Cluster of Galaxies</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2406&#x2F;abell2744_jwst.png" /><br/>
-<b>Date:</b> 2024-06-08<br/>
-<b>Description:</b> This deep field mosaicked image presents a stunning view of galaxy cluster Abell 2744 recorded by the James Webb Space Telescope&#39;s NIRCam. Also dubbed Pandora&#39;s Cluster, Abell 2744 itself appears to be a ponderous merger of three different massive galaxy clusters. It lies some 3.5 billion light-years away, toward the constellation Sculptor. Dominated by dark matter, the mega-cluster warps and distorts the fabric of spacetime, gravitationally lensing even more distant objects. Redder than the Pandora cluster galaxies many of the lensed sources are very distant galaxies in the early Universe, their lensed images stretched and distorted into arcs. Of course distinctive diffraction spikes mark foreground Milky Way stars. At the Pandora Cluster&#39;s estimated distance this cosmic box spans about 6 million light-years. But don&#39;t panic. You can explore the tantalizing region in a 2 minute video tour.<br/>
+<h3>:rocket:How to Identify that Light in the Sky</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2406&#x2F;astronomy101_hk_960.jpg" /><br/>
+<b>Date:</b> 2024-06-09<br/>
+<b>Description:</b> What is that light in the sky? The answer to one of humanity&#39;s more common questions may emerge from a few quick observations.  For example -- is it moving or blinking? If so, and if you live near a city, the answer is typically an airplane, since planes are so numerous and so few stars and satellites are bright enough to be seen over the glare of artificial city lights. If not, and if you live far from a city, that bright light is likely a planet such as Venus or Mars -- the former of which is constrained to appear near the horizon just before dawn or after dusk.  Sometimes the low apparent motion of a distant airplane near the horizon makes it hard to tell from a bright planet, but even this can usually be discerned by the plane&#39;s motion over a few minutes. Still unsure?   The featured chart gives a sometimes-humorous but mostly-accurate assessment.  Dedicated sky enthusiasts will likely note -- and are encouraged to provide -- polite corrections.   Chart translations: Italian, German, Latvian, Persian, Polish, Spanish, and Turkish<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Sunday, 9 June, 8:55 am GMT+8<br />
+Last refresh: Monday, 10 June, 8:52 am GMT+8<br />
