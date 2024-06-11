@@ -11,11 +11,11 @@ I'm Kevin, a Computer Science student from the National University of Singapore<
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin9foong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin9foong&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>:rocket:How to Identify that Light in the Sky</h3> 
-<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2406&#x2F;astronomy101_hk_960.jpg" /><br/>
-<b>Date:</b> 2024-06-09<br/>
-<b>Description:</b> What is that light in the sky? The answer to one of humanity&#39;s more common questions may emerge from a few quick observations.  For example -- is it moving or blinking? If so, and if you live near a city, the answer is typically an airplane, since planes are so numerous and so few stars and satellites are bright enough to be seen over the glare of artificial city lights. If not, and if you live far from a city, that bright light is likely a planet such as Venus or Mars -- the former of which is constrained to appear near the horizon just before dawn or after dusk.  Sometimes the low apparent motion of a distant airplane near the horizon makes it hard to tell from a bright planet, but even this can usually be discerned by the plane&#39;s motion over a few minutes. Still unsure?   The featured chart gives a sometimes-humorous but mostly-accurate assessment.  Dedicated sky enthusiasts will likely note -- and are encouraged to provide -- polite corrections.   Chart translations: Italian, German, Latvian, Persian, Polish, Spanish, and Turkish<br/>
+<h3>:rocket:Sh2-132: The Lion Nebula</h3> 
+<img width="450" src="https:&#x2F;&#x2F;apod.nasa.gov&#x2F;apod&#x2F;image&#x2F;2406&#x2F;LionNeb_Badr_3720.jpg" /><br/>
+<b>Date:</b> 2024-06-10<br/>
+<b>Description:</b> Is the Lion Nebula the real ruler of the constellation Cepheus?  This powerful feline appearing nebula is powered by two massive stars, each with a mass over 20 times greater than our Sun.  Formed from shells of ionized gas that have expanded, the nebula&#39;s energetic matter not only glows, but is dense enough to contract gravitationally and form stars.  The angular size of the Lion Nebula, officially named Sh2-132,  is slightly greater than that of the full moon.  The gaseous iconic region resides about 10,000 light years away in a constellation named after the King of Aethopia in Greek mythology.   Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)<br/>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>daily</b>!</br>
-Last refresh: Monday, 10 June, 8:52 am GMT+8<br />
+Last refresh: Tuesday, 11 June, 8:51 am GMT+8<br />
