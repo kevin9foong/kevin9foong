@@ -10,9 +10,19 @@
 
 ## 🚀 Experience
 
-**[![OGP](https://img.shields.io/badge/Open_Government_Products-252938?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTIwLjQyNCAxMS41NjVjMC00LjkwNC0zLjk4Ny04Ljg3OC04Ljg5LTguODc4UzIuNjQ0IDYuNjYgMi42NDQgMTEuNTY1YzAgNC45MDQgMy45ODcgOC44NzggOC44OSA4Ljg3OHM4Ljg5LTMuOTc0IDguODktOC44Nzh6IiBmaWxsPSIjMjE5NkYzIi8+PC9zdmc+)](https://www.open.gov.sg/)** • Software & Product Engineering 
+<div style="display: flex; align-items: center; margin-bottom: 10px">
+   <a href="https://www.open.gov.sg/">
+    <img alt="OGP" src="https://img.shields.io/badge/Open_Government_Products-252938?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTQgMTJDNCAxNi40MTgzIDcuNTgxNzIgMjAgMTIgMjBDMTYuNDE4MyAyMCAyMCAxNi40MTgzIDIwIDEyQzIwIDcuNTgxNzIgMTYuNDE4MyA0IDEyIDRDNy41ODE3MiA0IDQgNy41ODE3MiA0IDEyWiIgc3Ryb2tlPSIjMjE5NkYzIiBzdHJva2Utd2lkdGg9IjIiLz4KPC9zdmc+"/>
+  </a>
+  <span style="margin-left: 8px">• Software & Product Engineering</span>
+</div>
 
-**![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)** • Machine Learning & Backend Software Engineering 
+<div style="display: flex; align-items: center; margin-bottom: 10px">
+  <a href="https://www.paypal.com">
+    <img alt="PayPal" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>
+  </a>
+  <span style="margin-left: 8px">• Machine Learning & Backend Software Engineering</span>
+</div>
  
 ## 🎓 Education
 
