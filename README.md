@@ -5,6 +5,7 @@
   
 [![Kattis](https://img.shields.io/badge/Kattis-FF4B1F?style=for-the-badge&logo=data:image/png;base64,LOGO_PLACEHOLDER)](https://open.kattis.com/users/kevin9foong)
 [![Medium](https://img.shields.io/badge/Medium-333333?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kevin9foong)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kevin9foong)
   
 </div>
 
